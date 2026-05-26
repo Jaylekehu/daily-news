@@ -1,0 +1,74 @@
+[
+  {
+    "name": "央视新闻",
+    "url": "https://news.cctv.com/",
+    "region": "domestic",
+    "domainHints": ["民生", "交通", "财经"]
+  },
+  {
+    "name": "新华社",
+    "url": "https://www.xinhuanet.com/",
+    "region": "domestic",
+    "domainHints": ["民生", "交通", "财经"]
+  },
+  {
+    "name": "人民网",
+    "url": "https://www.people.com.cn/",
+    "region": "domestic",
+    "domainHints": ["民生", "财经"]
+  },
+  {
+    "name": "中新网",
+    "url": "https://www.chinanews.com.cn/scroll-news/news1.html",
+    "region": "domestic",
+    "domainHints": ["民生", "互联网", "财经"]
+  },
+  {
+    "name": "第一财经",
+    "url": "https://www.yicai.com/",
+    "region": "domestic",
+    "domainHints": ["财经", "大模型", "汽车"]
+  },
+  {
+    "name": "IT之家",
+    "url": "https://www.ithome.com/",
+    "region": "domestic",
+    "domainHints": ["数码", "大模型"]
+  },
+  {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/technology/",
+    "region": "international",
+    "domainHints": ["国际", "大模型"]
+  },
+  {
+    "name": "AP Technology",
+    "url": "https://apnews.com/hub/technology",
+    "region": "international",
+    "domainHints": ["国际", "大模型"]
+  },
+  {
+    "name": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "region": "international",
+    "domainHints": ["国际", "大模型"]
+  },
+  {
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "region": "international",
+    "domainHints": ["国际", "大模型"]
+  },
+  {
+    "name": "OpenAI Blog",
+    "url": "https://openai.com/news/",
+    "region": "international",
+    "domainHints": ["国际", "大模型"]
+  },
+  {
+    "name": "Anthropic News",
+    "url": "https://www.anthropic.com/news",
+    "region": "international",
+    "domainHints": ["国际", "大模型"]
+  }
+]

@@ -1,0 +1,171 @@
+{
+  "date": "2026-05-25",
+  "generatedAt": "2026-05-26T10:10:00+08:00",
+  "items": [
+    {
+      "date": "2026-05-25",
+      "domain": "民生",
+      "title": "重庆永川特大暴雨：9人死亡、11人失联",
+      "subtitle": "永川区遭遇瞬时极端特大暴雨，山洪和地质灾害救援持续推进。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "民生",
+      "title": "留神峪煤矿事故后续：国务院调查组进驻",
+      "subtitle": "事故调查和问责进展持续受到关注，矿山安全监管成为公共议题。",
+      "sourceName": "新浪财经",
+      "sourceUrl": "https://finance.sina.com.cn/",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "民生",
+      "title": "超龄劳动者权益新规发布，7月1日起施行",
+      "subtitle": "新规明确劳动报酬、休息休假和工伤保障等基本权益。",
+      "sourceName": "人民网",
+      "sourceUrl": "https://society.people.com.cn/",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "互联网",
+      "title": "处方药网售合规指南发布：AI不得代审方",
+      "subtitle": "指南要求实名购药、凭真实处方销售，处方审核必须由执业药师完成。",
+      "sourceName": "国家医保局",
+      "sourceUrl": "https://www.nhsa.gov.cn/",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "大模型",
+      "title": "DeepSeek-V4-Pro API永久降至原价四分之一",
+      "subtitle": "开发者调用成本下降，大模型价格战再次升温。",
+      "sourceName": "财新",
+      "sourceUrl": "https://companies.caixin.com/",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "大模型",
+      "title": "DeepSeek降价带动算力租赁概念股下跌",
+      "subtitle": "模型调用价格变化传导至算力租赁预期，多家上市公司回应业务影响。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "国际",
+      "title": "教皇发布AI主题通谕，呼吁监管失控风险",
+      "subtitle": "文件警告AI可能放大虚假信息、冲突和武器失控，全球AI治理讨论升温。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/",
+      "region": "international",
+      "priority": 7,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "互联网",
+      "title": "宇树科技IPO拟6月1日上会",
+      "subtitle": "市场关注其冲击A股人形机器人第一股及募资用途。",
+      "sourceName": "新浪财经",
+      "sourceUrl": "https://finance.sina.com.cn/",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "数码",
+      "title": "荣耀600系列发布，国补价2294.15元起",
+      "subtitle": "新品主打影像、护眼屏和大电池，首销表现将检验大电池路线热度。",
+      "sourceName": "荣耀官网",
+      "sourceUrl": "https://www.honor.com/cn/",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "国际",
+      "title": "台湾突击12处地点，打击英伟达AI芯片走私",
+      "subtitle": "芯片出口管制、灰色供应链与大模型算力需求继续纠缠。",
+      "sourceName": "Tom's Hardware",
+      "sourceUrl": "https://www.tomshardware.com/",
+      "region": "international",
+      "priority": 10,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "汽车",
+      "title": "新能源车讨论从价格战转向价值竞争",
+      "subtitle": "车企调价、权益变化和成本压力让购车讨论回到配置与利润空间。",
+      "sourceName": "新浪财经",
+      "sourceUrl": "https://finance.sina.com.cn/",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "交通",
+      "title": "京港高铁雄商段全线拉通试验启动",
+      "subtitle": "综合检测列车从商丘站驶出，线路进入联调联试关键阶段。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.xinhuanet.com/",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "国际",
+      "title": "Google I/O后续发酵：Gemini加速进入搜索和办公",
+      "subtitle": "海外科技媒体继续复盘Google的AI攻势，搜索重构成为核心关注点。",
+      "sourceName": "Axios",
+      "sourceUrl": "https://www.axios.com/",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "国际",
+      "title": "英伟达业绩继续受AI芯片需求推高",
+      "subtitle": "高端AI芯片需求仍是业绩核心驱动力，算力基础设施热度未降。",
+      "sourceName": "AP",
+      "sourceUrl": "https://apnews.com/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "国际",
+      "title": "美政府要求更多AI公司开放模型预发布评估",
+      "subtitle": "模型安全评估正从自愿承诺走向更制度化的预发布测试。",
+      "sourceName": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-05-26T10:10:00+08:00"
+    }
+  ]
+}

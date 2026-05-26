@@ -1,0 +1,8 @@
+{
+  "totalItems": 15,
+  "targetInternationalItems": 5,
+  "minimumInternationalAiItems": 3,
+  "domains": ["民生", "互联网", "大模型", "数码", "汽车", "交通", "财经", "国际"],
+  "internationalFocus": ["AI", "大模型", "算力", "芯片", "AI监管", "模型安全"],
+  "defaultModel": "deepseek-v4-pro"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "daily-news",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-report.mjs",
+    "generate:fixture": "node scripts/generate-report.mjs",
+    "validate": "node scripts/validate-report.mjs public/data/latest.json",
+    "check": "node --check app.js && node --check scripts/generate-report.mjs && node --check scripts/validate-report.mjs && npm run validate"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
