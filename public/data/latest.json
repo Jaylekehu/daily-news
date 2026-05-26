@@ -1,171 +1,171 @@
 {
   "date": "2026-05-25",
-  "generatedAt": "2026-05-26T05:27:14.296Z",
+  "generatedAt": "2026-05-26T06:59:59.164Z",
   "items": [
     {
       "date": "2026-05-25",
       "domain": "交通",
       "title": "各位驾驶员注意！驾驶新规，6月1日起执行",
-      "subtitle": "公共安全部发布《机动车驾驶人疲劳驾驶认定规则》，规范疲劳驾驶判定。",
+      "subtitle": "《机动车驾驶人疲劳驾驶认定规则》即将实施，明确疲劳驾驶判定标准",
       "sourceName": "央视新闻",
       "sourceUrl": "https://news.cctv.com/2026/05/26/ARTIE9ovKrhl7kLnGPY0vaBu260526.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "民生",
-      "title": "第31届白玉兰奖入围名单公布！",
-      "subtitle": "10部作品入围最佳中国电视剧提名，包括《沉默的荣耀》等。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/05/26/ARTIxqNtIu57bfnr5DqX00Vs260526.shtml",
-      "region": "domestic",
-      "priority": 2,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
       "domain": "民生",
       "title": "我国累计发布1750项食品安全国家标准",
-      "subtitle": "覆盖全部食品类别，保障群众“舌尖上的安全”。",
+      "subtitle": "覆盖全部食品安全风险点，保障群众饮食安全",
       "sourceName": "央视新闻",
       "sourceUrl": "https://tv.cctv.com/2026/05/26/VIDENeKweOn7Rkx6LedwIW1X260526.shtml",
       "region": "domestic",
-      "priority": 3,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "交通",
-      "title": "广州：女子持两本护照“调包”登机 依法被查",
-      "subtitle": "边检机关识破变造证件违法行为，提醒旅客守法出行。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/05/26/VIDE83e2T0x5PSiSe5tAso8G260526.shtml",
-      "region": "domestic",
-      "priority": 4,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "priority": 2,
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
       "domain": "互联网",
-      "title": "绿幕抠图伪造实景……部分直播电商造假乱象调查",
-      "subtitle": "记者调查发现直播电商存在虚假背景、夸大宣传等问题，损害消费者权益。",
+      "title": "整治“幽灵外卖”，上海推出全国首个网络餐饮电子证照核验应用",
+      "subtitle": "构建数字化管理闭环，杜绝无证经营、套证经营等乱象",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/05-26/10628639.shtml",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/05-26/10628713.shtml",
       "region": "domestic",
-      "priority": 5,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "大模型",
-      "title": "“人工智能+”走向规模化落地",
-      "subtitle": "中国AI技术与实体经济深度融合，推动产业升级和智能化转型。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/05-26/10628613.shtml",
-      "region": "domestic",
-      "priority": 6,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "priority": 3,
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
       "domain": "汽车",
-      "title": "武契奇抵达小米汽车工厂参访",
-      "subtitle": "塞尔维亚总统参观小米汽车制造基地，体验中国新能源汽车技术。",
+      "title": "想不想买一辆小米汽车？武契奇幽默回应",
+      "subtitle": "塞尔维亚总统在访华期间称赞小米汽车漂亮，引发关注",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/05-26/10628636.shtml",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/05-26/10628705.shtml",
       "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "priority": 4,
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
       "domain": "民生",
-      "title": "两部门再拨1.6亿元支持5省份救灾",
-      "subtitle": "应急管理部、财政部紧急拨付资金，用于暴雨洪涝灾害救助。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/05-26/10628633.shtml",
+      "title": "国务院作出一系列部署，推进基本公共服务“随人走”",
+      "subtitle": "推动基本公共服务由常住地提供，增强流动人口获得感",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103200143.html",
       "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "交通",
-      "title": "水利部：湖北等地5条河流发生超警以上洪水",
-      "subtitle": "受降雨影响，湖北、江西、河南等地部分河流水位超警戒。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/05-26/10628628.shtml",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "priority": 5,
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
       "domain": "财经",
-      "title": "铜市出现历史性大提货，库存“大迁徙”进入博弈关键期",
-      "subtitle": "全球铜库存从伦敦金属交易所流向中国，引发市场剧烈波动。",
+      "title": "1-4月我国全行业对外直接投资4294.2亿元，同比增长3.9%",
+      "subtitle": "非金融类直接投资增长6.9%，对“一带一路”国家投资增长7.8%",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103199647.html",
+      "sourceUrl": "https://www.yicai.com/brief/103201311.html",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-05-26T06:59:59.164Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "财经",
+      "title": "沪深两市成交额超3万亿元",
+      "subtitle": "市场交投活跃，科技股领涨，光模块龙头新易盛股价再创新高",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103201271.html",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-05-26T06:59:59.164Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "交通",
+      "title": "广州：女子持两本护照“调包”登机，依法被查",
+      "subtitle": "边检部门提醒，持用伪假证件出入境将承担法律责任",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/05/26/VIDE83e2T0x5PSiSe5tAso8G260526.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-05-26T06:59:59.164Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "互联网",
+      "title": "以高价收售游戏账号为饵，专骗未成年人电诈新套路",
+      "subtitle": "警方揭穿针对未成年人的游戏交易诈骗手法，提醒家长加强监护",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/05-26/10628712.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-05-26T06:59:59.164Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "财经",
+      "title": "中国智能农机加速出口中亚",
+      "subtitle": "国产自动驾驶拖拉机、无人机等产品在中亚市场广受欢迎",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/05-26/10628678.shtml",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
-      "domain": "其他",
-      "title": "华为抛出中国首个芯片新定律：广发英雄帖",
-      "subtitle": "华为提出算力芯片性能增长定律，面向全球招募合作伙伴挑战格局。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103199841.html",
+      "domain": "国际",
+      "title": "白宫周边一月三起枪击，美国政治暴力担忧升温",
+      "subtitle": "近期枪击事件频发引发对选举年社会分裂加剧的忧虑",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/05-26/10628704.shtml",
       "region": "international",
       "priority": 11,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
-      "domain": "其他",
-      "title": "半导体迎来新定律，中国定义将改写世界",
-      "subtitle": "专家称中国提出的芯片新规则有望改变全球半导体产业走向。",
-      "sourceName": "人民网",
-      "sourceUrl": "http://opinion.people.com.cn/n1/2026/0525/c436867-40727018.html",
+      "domain": "国际",
+      "title": "伊朗总统下令恢复国际互联网接入",
+      "subtitle": "此举旨在改善信息流通，为数字经济发展创造条件",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/shipin/2026/05-26/news1055593.shtml",
       "region": "international",
       "priority": 12,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
       "domain": "大模型",
-      "title": "港股大模型概念股智谱涨5.07%，MINIMAX-W跌2%",
-      "subtitle": "AI概念股走势分化，智谱股价上涨，MINIMAX-W早前跌超10%后收窄跌幅。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103201095.html",
+      "title": "半导体迎来新定律，中国定义将改写世界",
+      "subtitle": "新定律有望突破传统芯片物理极限，推动全球半导体产业变革",
+      "sourceName": "人民网",
+      "sourceUrl": "http://opinion.people.com.cn/n1/2026/0525/c436867-40727018.html",
       "region": "international",
       "priority": 13,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
-      "domain": "国际",
-      "title": "日本参院会议讨论“国家情报局”相关法案",
-      "subtitle": "日本政府拟设立国家情报局以加强情报收集和网络安全，引发讨论。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/05/26/VIDEJiRFNxOQGDSo6olKZueo260526.shtml",
+      "domain": "大模型",
+      "title": "华为抛出中国首个芯片新定律：广发英雄帖，重启芯片新周期",
+      "subtitle": "新定律有望突破传统芯片物理极限，推动全球半导体产业变革",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103199841.html",
       "region": "international",
       "priority": 14,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     },
     {
       "date": "2026-05-25",
-      "domain": "国际",
-      "title": "“灾难性故障” 悉尼灯光节近90架无人机表演时坠落",
-      "subtitle": "无人机编队发生技术故障，坠入悉尼港水域，无人员伤亡。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/05-26/10628621.shtml",
+      "domain": "大模型",
+      "title": "港股大模型概念股持续拉升，智谱涨超10%",
+      "subtitle": "市场看好国产大模型落地前景，带动相关企业股价上扬",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103201137.html",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-05-26T05:27:14.296Z"
+      "generatedAt": "2026-05-26T06:59:59.164Z"
     }
   ]
 }
