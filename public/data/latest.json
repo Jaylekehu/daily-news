@@ -1,171 +1,171 @@
 {
   "date": "2026-05-25",
-  "generatedAt": "2026-05-26T10:10:00+08:00",
+  "generatedAt": "2026-05-26T05:27:14.296Z",
   "items": [
     {
       "date": "2026-05-25",
-      "domain": "民生",
-      "title": "重庆永川特大暴雨：9人死亡、11人失联",
-      "subtitle": "永川区遭遇瞬时极端特大暴雨，山洪和地质灾害救援持续推进。",
+      "domain": "交通",
+      "title": "各位驾驶员注意！驾驶新规，6月1日起执行",
+      "subtitle": "公共安全部发布《机动车驾驶人疲劳驾驶认定规则》，规范疲劳驾驶判定。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/",
+      "sourceUrl": "https://news.cctv.com/2026/05/26/ARTIE9ovKrhl7kLnGPY0vaBu260526.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
+      "generatedAt": "2026-05-26T05:27:14.296Z"
     },
     {
       "date": "2026-05-25",
       "domain": "民生",
-      "title": "留神峪煤矿事故后续：国务院调查组进驻",
-      "subtitle": "事故调查和问责进展持续受到关注，矿山安全监管成为公共议题。",
-      "sourceName": "新浪财经",
-      "sourceUrl": "https://finance.sina.com.cn/",
+      "title": "第31届白玉兰奖入围名单公布！",
+      "subtitle": "10部作品入围最佳中国电视剧提名，包括《沉默的荣耀》等。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/05/26/ARTIxqNtIu57bfnr5DqX00Vs260526.shtml",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
+      "generatedAt": "2026-05-26T05:27:14.296Z"
     },
     {
       "date": "2026-05-25",
       "domain": "民生",
-      "title": "超龄劳动者权益新规发布，7月1日起施行",
-      "subtitle": "新规明确劳动报酬、休息休假和工伤保障等基本权益。",
-      "sourceName": "人民网",
-      "sourceUrl": "https://society.people.com.cn/",
+      "title": "我国累计发布1750项食品安全国家标准",
+      "subtitle": "覆盖全部食品类别，保障群众“舌尖上的安全”。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/05/26/VIDENeKweOn7Rkx6LedwIW1X260526.shtml",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "互联网",
-      "title": "处方药网售合规指南发布：AI不得代审方",
-      "subtitle": "指南要求实名购药、凭真实处方销售，处方审核必须由执业药师完成。",
-      "sourceName": "国家医保局",
-      "sourceUrl": "https://www.nhsa.gov.cn/",
-      "region": "domestic",
-      "priority": 4,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "大模型",
-      "title": "DeepSeek-V4-Pro API永久降至原价四分之一",
-      "subtitle": "开发者调用成本下降，大模型价格战再次升温。",
-      "sourceName": "财新",
-      "sourceUrl": "https://companies.caixin.com/",
-      "region": "domestic",
-      "priority": 5,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "大模型",
-      "title": "DeepSeek降价带动算力租赁概念股下跌",
-      "subtitle": "模型调用价格变化传导至算力租赁预期，多家上市公司回应业务影响。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/",
-      "region": "domestic",
-      "priority": 6,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "国际",
-      "title": "教皇发布AI主题通谕，呼吁监管失控风险",
-      "subtitle": "文件警告AI可能放大虚假信息、冲突和武器失控，全球AI治理讨论升温。",
-      "sourceName": "Reuters",
-      "sourceUrl": "https://www.reuters.com/",
-      "region": "international",
-      "priority": 7,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "互联网",
-      "title": "宇树科技IPO拟6月1日上会",
-      "subtitle": "市场关注其冲击A股人形机器人第一股及募资用途。",
-      "sourceName": "新浪财经",
-      "sourceUrl": "https://finance.sina.com.cn/",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "数码",
-      "title": "荣耀600系列发布，国补价2294.15元起",
-      "subtitle": "新品主打影像、护眼屏和大电池，首销表现将检验大电池路线热度。",
-      "sourceName": "荣耀官网",
-      "sourceUrl": "https://www.honor.com/cn/",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "国际",
-      "title": "台湾突击12处地点，打击英伟达AI芯片走私",
-      "subtitle": "芯片出口管制、灰色供应链与大模型算力需求继续纠缠。",
-      "sourceName": "Tom's Hardware",
-      "sourceUrl": "https://www.tomshardware.com/",
-      "region": "international",
-      "priority": 10,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
-    },
-    {
-      "date": "2026-05-25",
-      "domain": "汽车",
-      "title": "新能源车讨论从价格战转向价值竞争",
-      "subtitle": "车企调价、权益变化和成本压力让购车讨论回到配置与利润空间。",
-      "sourceName": "新浪财经",
-      "sourceUrl": "https://finance.sina.com.cn/",
-      "region": "domestic",
-      "priority": 11,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
+      "generatedAt": "2026-05-26T05:27:14.296Z"
     },
     {
       "date": "2026-05-25",
       "domain": "交通",
-      "title": "京港高铁雄商段全线拉通试验启动",
-      "subtitle": "综合检测列车从商丘站驶出，线路进入联调联试关键阶段。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.xinhuanet.com/",
+      "title": "广州：女子持两本护照“调包”登机 依法被查",
+      "subtitle": "边检机关识破变造证件违法行为，提醒旅客守法出行。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/05/26/VIDE83e2T0x5PSiSe5tAso8G260526.shtml",
       "region": "domestic",
-      "priority": 12,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
+      "priority": 4,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
     },
     {
       "date": "2026-05-25",
-      "domain": "国际",
-      "title": "Google I/O后续发酵：Gemini加速进入搜索和办公",
-      "subtitle": "海外科技媒体继续复盘Google的AI攻势，搜索重构成为核心关注点。",
-      "sourceName": "Axios",
-      "sourceUrl": "https://www.axios.com/",
+      "domain": "互联网",
+      "title": "绿幕抠图伪造实景……部分直播电商造假乱象调查",
+      "subtitle": "记者调查发现直播电商存在虚假背景、夸大宣传等问题，损害消费者权益。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/05-26/10628639.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "大模型",
+      "title": "“人工智能+”走向规模化落地",
+      "subtitle": "中国AI技术与实体经济深度融合，推动产业升级和智能化转型。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/05-26/10628613.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "汽车",
+      "title": "武契奇抵达小米汽车工厂参访",
+      "subtitle": "塞尔维亚总统参观小米汽车制造基地，体验中国新能源汽车技术。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/05-26/10628636.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "民生",
+      "title": "两部门再拨1.6亿元支持5省份救灾",
+      "subtitle": "应急管理部、财政部紧急拨付资金，用于暴雨洪涝灾害救助。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/05-26/10628633.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "交通",
+      "title": "水利部：湖北等地5条河流发生超警以上洪水",
+      "subtitle": "受降雨影响，湖北、江西、河南等地部分河流水位超警戒。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/05-26/10628628.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "财经",
+      "title": "铜市出现历史性大提货，库存“大迁徙”进入博弈关键期",
+      "subtitle": "全球铜库存从伦敦金属交易所流向中国，引发市场剧烈波动。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103199647.html",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "其他",
+      "title": "华为抛出中国首个芯片新定律：广发英雄帖",
+      "subtitle": "华为提出算力芯片性能增长定律，面向全球招募合作伙伴挑战格局。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103199841.html",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "其他",
+      "title": "半导体迎来新定律，中国定义将改写世界",
+      "subtitle": "专家称中国提出的芯片新规则有望改变全球半导体产业走向。",
+      "sourceName": "人民网",
+      "sourceUrl": "http://opinion.people.com.cn/n1/2026/0525/c436867-40727018.html",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-05-26T05:27:14.296Z"
+    },
+    {
+      "date": "2026-05-25",
+      "domain": "大模型",
+      "title": "港股大模型概念股智谱涨5.07%，MINIMAX-W跌2%",
+      "subtitle": "AI概念股走势分化，智谱股价上涨，MINIMAX-W早前跌超10%后收窄跌幅。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103201095.html",
       "region": "international",
       "priority": 13,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
+      "generatedAt": "2026-05-26T05:27:14.296Z"
     },
     {
       "date": "2026-05-25",
       "domain": "国际",
-      "title": "英伟达业绩继续受AI芯片需求推高",
-      "subtitle": "高端AI芯片需求仍是业绩核心驱动力，算力基础设施热度未降。",
-      "sourceName": "AP",
-      "sourceUrl": "https://apnews.com/",
+      "title": "日本参院会议讨论“国家情报局”相关法案",
+      "subtitle": "日本政府拟设立国家情报局以加强情报收集和网络安全，引发讨论。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/05/26/VIDEJiRFNxOQGDSo6olKZueo260526.shtml",
       "region": "international",
       "priority": 14,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
+      "generatedAt": "2026-05-26T05:27:14.296Z"
     },
     {
       "date": "2026-05-25",
       "domain": "国际",
-      "title": "美政府要求更多AI公司开放模型预发布评估",
-      "subtitle": "模型安全评估正从自愿承诺走向更制度化的预发布测试。",
-      "sourceName": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/",
+      "title": "“灾难性故障” 悉尼灯光节近90架无人机表演时坠落",
+      "subtitle": "无人机编队发生技术故障，坠入悉尼港水域，无人员伤亡。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/05-26/10628621.shtml",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-05-26T10:10:00+08:00"
+      "generatedAt": "2026-05-26T05:27:14.296Z"
     }
   ]
 }
