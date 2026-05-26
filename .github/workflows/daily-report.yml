@@ -40,3 +40,41 @@ jobs:
         with:
           commit_message: "Update daily report"
           file_pattern: "public/data/latest.json public/data/archive/*.json"
+
+      - name: Prepare deploy directory
+        run: |
+          mkdir -p .deploy/public/data/archive
+          cp index.html app.js styles.css .deploy/
+          cp -R public/data .deploy/public/
+
+      - name: Upload site to ECS
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.ECS_HOST }}
+          username: ${{ secrets.ECS_USER }}
+          key: ${{ secrets.ECS_SSH_KEY }}
+          port: ${{ secrets.ECS_PORT || 22 }}
+          source: ".deploy/*"
+          target: "/tmp/daily-news-release"
+          overwrite: true
+          strip_components: 1
+
+      - name: Publish site on ECS
+        uses: appleboy/ssh-action@v1.0.3
+        env:
+          TARGET_DIR: /var/www/daily-news
+          RELEASE_DIR: /tmp/daily-news-release
+        with:
+          host: ${{ secrets.ECS_HOST }}
+          username: ${{ secrets.ECS_USER }}
+          key: ${{ secrets.ECS_SSH_KEY }}
+          port: ${{ secrets.ECS_PORT || 22 }}
+          envs: TARGET_DIR,RELEASE_DIR
+          script: |
+            set -eu
+            mkdir -p "$TARGET_DIR"
+            find "$TARGET_DIR" -mindepth 1 -maxdepth 1 -exec rm -rf {} +
+            cp -R "$RELEASE_DIR"/. "$TARGET_DIR"/
+            chown -R nginx:nginx "$TARGET_DIR" || true
+            nginx -t
+            systemctl reload nginx
