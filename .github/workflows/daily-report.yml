@@ -33,10 +33,24 @@ jobs:
         with:
           node-version: "22"
 
+      - name: Check required secrets
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          ECS_HOST: ${{ secrets.ECS_HOST }}
+          ECS_USER: ${{ secrets.ECS_USER }}
+          ECS_PORT: ${{ secrets.ECS_PORT }}
+          ECS_SSH_KEY: ${{ secrets.ECS_SSH_KEY }}
+        run: |
+          test -n "$DEEPSEEK_API_KEY"
+          test -n "$ECS_HOST"
+          test -n "$ECS_USER"
+          test -n "$ECS_PORT"
+          test -n "$ECS_SSH_KEY"
+
       - name: Generate report
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-          DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL || 'deepseek-v4-pro' }}
+          DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL }}
           REPORT_DATE: ${{ inputs.report_date }}
           FORCE_REPORT: ${{ inputs.force_regenerate || '0' }}
         run: node scripts/generate-report.mjs
@@ -62,7 +76,7 @@ jobs:
           host: ${{ secrets.ECS_HOST }}
           username: ${{ secrets.ECS_USER }}
           key: ${{ secrets.ECS_SSH_KEY }}
-          port: ${{ secrets.ECS_PORT || 22 }}
+          port: ${{ secrets.ECS_PORT }}
           source: ".deploy/*"
           target: "/tmp/daily-news-release"
           overwrite: true
@@ -77,7 +91,7 @@ jobs:
           host: ${{ secrets.ECS_HOST }}
           username: ${{ secrets.ECS_USER }}
           key: ${{ secrets.ECS_SSH_KEY }}
-          port: ${{ secrets.ECS_PORT || 22 }}
+          port: ${{ secrets.ECS_PORT }}
           envs: TARGET_DIR,RELEASE_DIR
           script: |
             set -eu
