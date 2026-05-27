@@ -9,6 +9,13 @@ const targetDate = process.env.REPORT_DATE || getYesterdayInShanghai();
 const generatedAt = new Date().toISOString();
 const model = process.env.DEEPSEEK_MODEL || policy.defaultModel || "deepseek-v4-pro";
 const apiKey = process.env.DEEPSEEK_API_KEY;
+const outputDir = process.env.REPORT_OUTPUT_DIR || "public/data";
+const force = process.env.FORCE_REPORT === "1";
+
+if (!force && (await latestAlreadyGenerated(targetDate))) {
+  console.log(`Report for ${targetDate} already exists. Set FORCE_REPORT=1 to regenerate.`);
+  process.exit(0);
+}
 
 if (!apiKey && process.env.USE_FIXTURE !== "1") {
   throw new Error("Missing DEEPSEEK_API_KEY. Set it in GitHub Repository Secrets.");
@@ -17,7 +24,11 @@ if (!apiKey && process.env.USE_FIXTURE !== "1") {
 const candidates =
   process.env.USE_FIXTURE === "1"
     ? fixtureCandidates(targetDate)
-    : await collectCandidates(sources, targetDate);
+    : await collectCandidates(sources);
+
+if (candidates.length < 15 && process.env.USE_FIXTURE !== "1") {
+  throw new Error(`Only collected ${candidates.length} candidates; refusing to generate a weak report.`);
+}
 
 const report =
   process.env.USE_FIXTURE === "1"
@@ -30,6 +41,16 @@ await writeReport(normalized);
 console.log(
   `Generated ${normalized.items.length} items for ${normalized.date} using ${process.env.USE_FIXTURE === "1" ? "fixture" : model}.`
 );
+
+async function latestAlreadyGenerated(date) {
+  try {
+    const latestPath = path.join(root, outputDir, "latest.json");
+    const latest = JSON.parse(await readFile(latestPath, "utf8"));
+    return latest.date === date;
+  } catch {
+    return false;
+  }
+}
 
 function getYesterdayInShanghai() {
   const now = new Date();
@@ -144,14 +165,14 @@ async function summarizeWithDeepSeek({ candidates, targetDate, generatedAt, mode
       internationalFocus: policy.internationalFocus,
       titleMaxChineseChars: 42,
       subtitleMaxChineseChars: 88,
-      sourceRule: "每条必须保留真实来源名称和URL；不要编造链接、数字、日期。",
+      sourceRule: "每条必须保留真实来源名称和 URL；不要编造链接、数字、日期。",
       outputShape: {
         date: "YYYY-MM-DD",
         generatedAt: "ISO datetime",
         items: [
           {
             date: "YYYY-MM-DD",
-            domain: "民生|互联网|大模型|数码|汽车|交通|财经|国际",
+            domain: "民生|互联网|大模型|数码|汽车|交通|财经|国际|其他",
             title: "事实标题",
             subtitle: "一句话背景或影响",
             sourceName: "来源名称",
@@ -179,7 +200,7 @@ async function summarizeWithDeepSeek({ candidates, targetDate, generatedAt, mode
         {
           role: "system",
           content:
-            "你是严谨的中文新闻编辑。只根据候选来源生成日报，不编造事实。输出必须是合法JSON对象。"
+            "你是严谨的中文新闻编辑。只根据候选来源生成日报，不编造事实。输出必须是合法 JSON 对象。"
         },
         {
           role: "user",
@@ -235,7 +256,7 @@ function cleanText(value, maxLength) {
 }
 
 async function writeReport(report) {
-  const dataDir = path.join(root, process.env.REPORT_OUTPUT_DIR || "public/data");
+  const dataDir = path.join(root, outputDir);
   const archiveDir = path.join(dataDir, "archive");
   await mkdir(archiveDir, { recursive: true });
   const json = `${JSON.stringify(report, null, 2)}\n`;
@@ -262,9 +283,7 @@ function buildFixtureReport(date, generatedAt) {
     return {
       date,
       domain: international ? "国际" : domains[index % domains.length],
-      title: international
-        ? `国际AI热点测试${index - 9}`
-        : `国内热点测试${index + 1}`,
+      title: international ? `国际AI热点测试${index - 9}` : `国内热点测试${index + 1}`,
       subtitle: international
         ? "围绕AI模型、算力芯片和安全监管的国际测试新闻。"
         : "用于验证日报生成和页面展示的国内测试新闻。",

@@ -16,9 +16,15 @@ const requiredFields = [
   "generatedAt"
 ];
 
+const mojibakePattern = /[�]|鐨|鍥|姘戠|澶ф|涓|鏃ユ|鏉ユ|鍥介|浜掕|璐㈢|姹借|绠楀|鈥|銆/;
+
 function fail(message) {
   console.error(`Report validation failed: ${message}`);
   process.exit(1);
+}
+
+function assertReadable(value, label) {
+  if (mojibakePattern.test(String(value))) fail(`${label} looks garbled`);
 }
 
 if (!report || typeof report !== "object") fail("root must be an object");
@@ -51,6 +57,11 @@ report.items.forEach((item, index) => {
   if (String(item.title).length > 42) fail(`item ${index + 1} title is too long`);
   if (String(item.subtitle).length > 88) fail(`item ${index + 1} subtitle is too long`);
   if (Number(item.priority) !== index + 1) fail(`item ${index + 1} priority must equal display order`);
+
+  assertReadable(item.domain, `item ${index + 1} domain`);
+  assertReadable(item.title, `item ${index + 1} title`);
+  assertReadable(item.subtitle, `item ${index + 1} subtitle`);
+  assertReadable(item.sourceName, `item ${index + 1} sourceName`);
 });
 
 console.log(

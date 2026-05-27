@@ -2,13 +2,21 @@ name: Daily report
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "10 0 * * *"
   workflow_dispatch:
     inputs:
       report_date:
         description: "Target report date in YYYY-MM-DD. Defaults to yesterday in Asia/Shanghai."
         required: false
         type: string
+      force_regenerate:
+        description: "Regenerate even if the target date already exists."
+        required: false
+        default: "0"
+        type: choice
+        options:
+          - "0"
+          - "1"
 
 permissions:
   contents: write
@@ -30,6 +38,7 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL || 'deepseek-v4-pro' }}
           REPORT_DATE: ${{ inputs.report_date }}
+          FORCE_REPORT: ${{ inputs.force_regenerate || '0' }}
         run: node scripts/generate-report.mjs
 
       - name: Validate report
