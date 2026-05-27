@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const root = process.cwd();
@@ -262,6 +262,17 @@ async function writeReport(report) {
   const json = `${JSON.stringify(report, null, 2)}\n`;
   await writeFile(path.join(dataDir, "latest.json"), json, "utf8");
   await writeFile(path.join(archiveDir, `${report.date}.json`), json, "utf8");
+  await writeArchiveIndex(archiveDir);
+}
+
+async function writeArchiveIndex(archiveDir) {
+  const files = await readdir(archiveDir);
+  const dates = files
+    .map((file) => file.match(/^(\d{4}-\d{2}-\d{2})\.json$/)?.[1])
+    .filter(Boolean)
+    .sort((a, b) => b.localeCompare(a));
+  const payload = `${JSON.stringify({ dates }, null, 2)}\n`;
+  await writeFile(path.join(archiveDir, "index.json"), payload, "utf8");
 }
 
 function fixtureCandidates(date) {
