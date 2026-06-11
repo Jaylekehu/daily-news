@@ -37,7 +37,7 @@ const report =
     ? buildFixtureReport(targetDate, generatedAt)
     : await summarizeWithDeepSeek({ candidates, targetDate, generatedAt, model, apiKey, policy });
 
-const normalized = normalizeReport(report, targetDate, generatedAt, policy);
+const normalized = normalizeReport(report, targetDate, generatedAt, policy, candidates);
 await writeReport(normalized);
 
 console.log(
@@ -247,9 +247,9 @@ async function summarizeWithDeepSeek({ candidates, targetDate, generatedAt, mode
   return JSON.parse(content);
 }
 
-function normalizeReport(report, date, generatedAt, policy) {
+function normalizeReport(report, date, generatedAt, policy, candidates = []) {
   const items = Array.isArray(report.items) ? report.items : [];
-  const normalizedItems = items.slice(0, policy.totalItems).map((item, index) => ({
+  let normalizedItems = items.slice(0, policy.totalItems).map((item, index) => ({
     date,
     domain: policy.domains.includes(item.domain) ? item.domain : "其他",
     title: cleanText(item.title, 42),
@@ -261,9 +261,13 @@ function normalizeReport(report, date, generatedAt, policy) {
     generatedAt
   }));
 
+  normalizedItems = ensureInternationalAiCoverage(normalizedItems, candidates, date, generatedAt, policy);
+
   if (normalizedItems.length !== policy.totalItems) {
     throw new Error(`DeepSeek returned ${normalizedItems.length} items; expected ${policy.totalItems}.`);
   }
+
+  normalizedItems = normalizedItems.map((item, index) => ({ ...item, priority: index + 1 }));
 
   for (const item of normalizedItems) {
     if (!item.title || !item.subtitle || !item.sourceUrl) {
@@ -272,6 +276,67 @@ function normalizeReport(report, date, generatedAt, policy) {
   }
 
   return { date, generatedAt, items: normalizedItems };
+}
+
+function ensureInternationalAiCoverage(items, candidates, date, generatedAt, policy) {
+  const minimum = policy.minimumInternationalAiItems || 3;
+  const output = [...items];
+  let currentCount = output.filter(isInternationalAiItem).length;
+  if (currentCount >= minimum) return output;
+
+  const aiCandidates = candidates
+    .filter((candidate) => candidate.region === "international")
+    .filter((candidate) => isAiCandidate(candidate))
+    .filter((candidate) => /^https?:\/\//.test(candidate.url || ""))
+    .slice(0, minimum * 2);
+
+  for (const candidate of aiCandidates) {
+    if (currentCount >= minimum) break;
+
+    const replacement = {
+      date,
+      domain: "大模型",
+      title: cleanText(`${candidate.sourceName}：国际AI与模型动向`, 42),
+      subtitle: cleanText("围绕AI模型、算力芯片或安全监管的国际信号，需继续跟进。", 88),
+      sourceName: cleanText(candidate.sourceName || "国际来源", 24),
+      sourceUrl: candidate.url,
+      region: "international",
+      priority: 1,
+      generatedAt
+    };
+
+    const replaceIndex = findReplaceableIndex(output);
+    if (replaceIndex >= 0) {
+      output[replaceIndex] = replacement;
+    } else if (output.length < policy.totalItems) {
+      output.push(replacement);
+    }
+    currentCount = output.filter(isInternationalAiItem).length;
+  }
+
+  return output.slice(0, policy.totalItems);
+}
+
+function isInternationalAiItem(item) {
+  return item.region === "international" && isAiText(`${item.title} ${item.subtitle}`);
+}
+
+function isAiCandidate(candidate) {
+  const hints = Array.isArray(candidate.domainHints) ? candidate.domainHints.join(" ") : "";
+  return isAiText(`${candidate.title} ${candidate.sourceName} ${hints}`);
+}
+
+function isAiText(value) {
+  return /(AI|人工智能|大模型|模型|算力|芯片|NVIDIA|英伟达|OpenAI|Anthropic|Gemini|监管|安全|TechCrunch|Verge)/i.test(
+    String(value)
+  );
+}
+
+function findReplaceableIndex(items) {
+  for (let index = items.length - 1; index >= 0; index -= 1) {
+    if (!isInternationalAiItem(items[index])) return index;
+  }
+  return -1;
 }
 
 function cleanText(value, maxLength) {
