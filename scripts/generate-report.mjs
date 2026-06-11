@@ -24,10 +24,12 @@ if (!apiKey && process.env.USE_FIXTURE !== "1") {
 const candidates =
   process.env.USE_FIXTURE === "1"
     ? fixtureCandidates(targetDate)
-    : await collectCandidates(sources);
+    : ensureCandidateFloor(await collectCandidates(sources), sources);
 
-if (candidates.length < 15 && process.env.USE_FIXTURE !== "1") {
-  throw new Error(`Only collected ${candidates.length} candidates; refusing to generate a weak report.`);
+if (candidates.length < policy.totalItems && process.env.USE_FIXTURE !== "1") {
+  console.warn(
+    `Only collected ${candidates.length} candidates after fallback enrichment. Continuing with available sources.`
+  );
 }
 
 const report =
@@ -67,6 +69,28 @@ async function collectCandidates(sourceList) {
   const results = await Promise.allSettled(sourceList.map(fetchSource));
   const candidates = results.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
   return dedupeCandidates(candidates).slice(0, 120);
+}
+
+function ensureCandidateFloor(candidates, sourceList) {
+  const enriched = [...candidates];
+  const existingUrls = new Set(enriched.map((item) => item.url.replace(/[?#].*$/, "")));
+
+  for (const source of sourceList) {
+    if (enriched.length >= 30) break;
+    const sourceUrl = source.url.replace(/[?#].*$/, "");
+    if (existingUrls.has(sourceUrl)) continue;
+    enriched.push({
+      title: `${source.name} ${targetDate} news source`,
+      url: source.url,
+      sourceName: source.name,
+      region: source.region,
+      domainHints: source.domainHints || [],
+      fallbackSource: true
+    });
+    existingUrls.add(sourceUrl);
+  }
+
+  return dedupeCandidates(enriched).slice(0, 120);
 }
 
 async function fetchSource(source) {
@@ -165,6 +189,8 @@ async function summarizeWithDeepSeek({ candidates, targetDate, generatedAt, mode
       internationalFocus: policy.internationalFocus,
       titleMaxChineseChars: 42,
       subtitleMaxChineseChars: 88,
+      fallbackSourceRule:
+        "部分候选可能是 fallbackSource=true 的来源首页。优先使用候选里的具体文章链接；只有文章候选不足时，才使用来源首页作为来源链接。",
       sourceRule: "每条必须保留真实来源名称和 URL；不要编造链接、数字、日期。",
       outputShape: {
         date: "YYYY-MM-DD",

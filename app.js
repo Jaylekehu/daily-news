@@ -1,3 +1,5 @@
+const PAGE_SIZE = 5;
+
 const fallbackReports = [
   {
     date: "2026-05-25",
@@ -19,18 +21,28 @@ const fallbackReports = [
 ];
 
 const domainStyle = {
-  "民生": { icon: "民", color: "life" },
-  "互联网": { icon: "网", color: "web" },
-  "大模型": { icon: "模", color: "ai" },
-  "数码": { icon: "数", color: "digital" },
-  "汽车": { icon: "车", color: "auto" },
-  "交通": { icon: "交", color: "traffic" },
-  "财经": { icon: "财", color: "finance" },
-  "国际": { icon: "际", color: "global" },
-  "其他": { icon: "讯", color: "default" }
+  民生: { icon: "民", color: "life" },
+  互联网: { icon: "网", color: "web" },
+  大模型: { icon: "模", color: "ai" },
+  数码: { icon: "数", color: "digital" },
+  汽车: { icon: "车", color: "auto" },
+  交通: { icon: "交", color: "traffic" },
+  财经: { icon: "财", color: "finance" },
+  国际: { icon: "际", color: "global" },
+  其他: { icon: "讯", color: "default" }
 };
 
 const board = document.querySelector("#report-board");
+const state = {
+  latest: null,
+  dates: [],
+  loadedReports: [],
+  nextIndex: 0,
+  loading: false,
+  done: false,
+  observer: null,
+  sentinel: null
+};
 
 function formatDate(dateText) {
   return new Intl.DateTimeFormat("zh-CN", {
@@ -55,11 +67,12 @@ function normalizeItem(report, item, index) {
   };
 }
 
-function renderReports(reports) {
-  const validReports = reports.filter((report) => report?.date && Array.isArray(report.items));
+function renderReports() {
+  const validReports = state.loadedReports.filter((report) => report?.date && Array.isArray(report.items));
   const uniqueReports = [...new Map(validReports.map((report) => [report.date, report])).values()];
   const sortedReports = uniqueReports.sort((a, b) => b.date.localeCompare(a.date));
   board.replaceChildren(...sortedReports.map(renderReportSection));
+  board.append(renderSentinel());
 }
 
 function renderReportSection(report) {
@@ -106,6 +119,23 @@ function renderReportSection(report) {
   return section;
 }
 
+function renderSentinel() {
+  if (!state.sentinel) {
+    state.sentinel = document.createElement("div");
+    state.sentinel.className = "load-sentinel";
+  }
+
+  if (state.loading) {
+    state.sentinel.textContent = "加载中...";
+  } else if (state.done) {
+    state.sentinel.textContent = "已加载全部日报";
+  } else {
+    state.sentinel.textContent = "";
+  }
+
+  return state.sentinel;
+}
+
 function formatGeneratedAt(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "";
@@ -123,27 +153,84 @@ function escapeHtml(value) {
 
 async function loadReports() {
   try {
-    const latest = await fetchJson("./public/data/latest.json");
-    const archiveReports = await loadArchiveReports();
-    renderReports([latest, ...archiveReports]);
+    state.latest = await fetchJson("./public/data/latest.json");
+    const archiveDates = await loadArchiveDates();
+    state.dates = uniqueDates([state.latest.date, ...archiveDates]);
+    await loadNextPage();
+    setupInfiniteLoading();
   } catch {
-    renderReports(fallbackReports);
+    state.loadedReports = fallbackReports;
+    state.done = true;
+    renderReports();
   }
 }
 
-async function loadArchiveReports() {
+async function loadArchiveDates() {
   try {
     const archiveIndex = await fetchJson("./public/data/archive/index.json");
-    const dates = Array.isArray(archiveIndex.dates) ? archiveIndex.dates : [];
-    const results = await Promise.allSettled(
-      dates.map((date) => fetchJson(`./public/data/archive/${date}.json`))
-    );
-    return results
-      .filter((result) => result.status === "fulfilled")
-      .map((result) => result.value);
+    return Array.isArray(archiveIndex.dates) ? archiveIndex.dates : [];
   } catch {
     return [];
   }
+}
+
+async function loadNextPage() {
+  if (state.loading || state.done) return;
+
+  const pageDates = state.dates.slice(state.nextIndex, state.nextIndex + PAGE_SIZE);
+  if (!pageDates.length) {
+    state.done = true;
+    renderReports();
+    return;
+  }
+
+  state.loading = true;
+  renderReports();
+
+  const results = await Promise.allSettled(pageDates.map(loadReportByDate));
+  const reports = results
+    .filter((result) => result.status === "fulfilled" && result.value)
+    .map((result) => result.value);
+
+  state.loadedReports.push(...reports);
+  state.nextIndex += PAGE_SIZE;
+  state.done = state.nextIndex >= state.dates.length;
+  state.loading = false;
+  renderReports();
+}
+
+async function loadReportByDate(date) {
+  if (state.latest?.date === date) return state.latest;
+  return fetchJson(`./public/data/archive/${date}.json`);
+}
+
+function uniqueDates(dates) {
+  return [...new Set(dates.filter(Boolean))].sort((a, b) => b.localeCompare(a));
+}
+
+function setupInfiniteLoading() {
+  const sentinel = renderSentinel();
+
+  if ("IntersectionObserver" in window) {
+    state.observer?.disconnect();
+    state.observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((entry) => entry.isIntersecting)) loadNextPage();
+      },
+      { rootMargin: "500px 0px" }
+    );
+    state.observer.observe(sentinel);
+    return;
+  }
+
+  window.addEventListener(
+    "scroll",
+    () => {
+      const nearBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 600;
+      if (nearBottom) loadNextPage();
+    },
+    { passive: true }
+  );
 }
 
 async function fetchJson(url) {
