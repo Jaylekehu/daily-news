@@ -74,6 +74,25 @@ async function collectCandidates(sourceList) {
 function ensureCandidateFloor(candidates, sourceList) {
   const enriched = [...candidates];
   const existingUrls = new Set(enriched.map((item) => item.url.replace(/[?#].*$/, "")));
+  const aiFallbacks = [];
+
+  for (const source of sourceList) {
+    if (source.region !== "international") continue;
+    if (!isAiCandidate({ title: source.name, sourceName: source.name, domainHints: source.domainHints || [] })) {
+      continue;
+    }
+    const sourceUrl = source.url.replace(/[?#].*$/, "");
+    if (existingUrls.has(sourceUrl)) continue;
+    aiFallbacks.push({
+      title: `${source.name} ${targetDate} AI source`,
+      url: source.url,
+      sourceName: source.name,
+      region: source.region,
+      domainHints: source.domainHints || [],
+      fallbackSource: true
+    });
+    existingUrls.add(sourceUrl);
+  }
 
   for (const source of sourceList) {
     if (enriched.length >= 30) break;
@@ -90,7 +109,7 @@ function ensureCandidateFloor(candidates, sourceList) {
     existingUrls.add(sourceUrl);
   }
 
-  return dedupeCandidates(enriched).slice(0, 120);
+  return dedupeCandidates([...aiFallbacks, ...enriched]).slice(0, 120);
 }
 
 async function fetchSource(source) {
