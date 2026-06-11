@@ -3,6 +3,17 @@ name: Daily report
 on:
   schedule:
     - cron: "10 0 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/daily-report.yml"
+      - "config/**"
+      - "scripts/**"
+      - "index.html"
+      - "app.js"
+      - "styles.css"
+      - "package*.json"
   workflow_dispatch:
     inputs:
       report_date:
