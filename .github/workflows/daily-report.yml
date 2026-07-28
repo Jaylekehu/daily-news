@@ -13,6 +13,7 @@ on:
       - "index.html"
       - "app.js"
       - "styles.css"
+      - "vendor/**"
       - "package*.json"
   workflow_dispatch:
     inputs:
@@ -77,9 +78,10 @@ jobs:
 
       - name: Prepare deploy directory
         run: |
-          mkdir -p .deploy/public/data/archive
+          mkdir -p .deploy/public/data/archive .deploy/vendor
           cp index.html app.js styles.css .deploy/
           cp -R public/data .deploy/public/
+          cp vendor/*.min.js .deploy/vendor/
 
       - name: Upload site to ECS
         uses: appleboy/scp-action@v0.1.7

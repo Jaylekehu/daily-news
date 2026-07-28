@@ -4,12 +4,18 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "preview": "node preview-server.js",
     "generate": "node scripts/generate-report.mjs",
     "generate:fixture": "node scripts/generate-report.mjs",
+    "trends:check": "node scripts/check-hot-trends.mjs",
+    "test:trends": "node scripts/test-hot-trends.mjs",
     "validate": "node scripts/validate-report.mjs public/data/latest.json",
-    "check": "node --check app.js && node --check scripts/generate-report.mjs && node --check scripts/validate-report.mjs && npm run validate"
+    "check": "node --check app.js && node --check preview-server.js && node --check scripts/generate-report.mjs && node --check scripts/hot-trends.mjs && node --check scripts/check-hot-trends.mjs && node --check scripts/test-hot-trends.mjs && node --check scripts/validate-report.mjs && npm run test:trends && npm run validate"
   },
   "engines": {
     "node": ">=20"
+  },
+  "dependencies": {
+    "gsap": "3.13.0"
   }
 }

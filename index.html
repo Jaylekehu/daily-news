@@ -3,14 +3,95 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>热点日报</title>
+    <meta
+      name="description"
+      content="每日精选国内与国际热点，用一份高密度编辑部日报看懂今天。"
+    />
+    <meta name="theme-color" content="#171714" />
+    <title>今日信号｜热点日报</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <main class="app">
+    <a class="skip-link" href="#report-board">跳到今日热点</a>
+    <div class="scroll-meter" aria-hidden="true">
+      <span class="scroll-meter__bar"></span>
+    </div>
+    <div class="cursor-aura" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="今日信号，返回顶部">
+        <span class="brand__monogram">DN</span>
+        <span class="brand__name">今日信号<br />DAILY SIGNAL</span>
+      </a>
+      <div class="header-edition" aria-label="当前日报信息">
+        <span class="header-edition__label">CURRENT EDITION</span>
+        <strong id="header-date">—</strong>
+      </div>
+      <div class="live-mark">
+        <span class="live-mark__dot" aria-hidden="true"></span>
+        DAILY BRIEFING
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero__eyebrow">
+          <span>CN / GLOBAL</span>
+          <span>INTELLIGENCE FEED</span>
+        </div>
+        <h1 id="page-title" class="hero__title" aria-label="今日热点">
+          <span class="hero__title-row hero__title-row--one">今日</span>
+          <span class="hero__title-row hero__title-row--two">热点</span>
+        </h1>
+        <div class="hero__manifesto">
+          <span class="hero__rule" aria-hidden="true"></span>
+          <p>把嘈杂的信息流，压缩成一份值得停留的每日编辑部简报。</p>
+        </div>
+        <dl class="hero__stats">
+          <div>
+            <dt>STORIES</dt>
+            <dd id="hero-count">—</dd>
+          </div>
+          <div>
+            <dt>GLOBAL</dt>
+            <dd id="hero-global-count">—</dd>
+          </div>
+          <div>
+            <dt>UPDATED</dt>
+            <dd id="hero-updated">—</dd>
+          </div>
+        </dl>
+        <div class="hero__edition" aria-hidden="true">
+          <span>ISSUE</span>
+          <strong id="hero-issue">000</strong>
+        </div>
+        <div class="hero__disc" aria-hidden="true">
+          <span>READ<br />THE<br />SIGNAL</span>
+        </div>
+      </section>
+
+      <div class="signal-ticker" aria-hidden="true">
+        <div class="signal-ticker__track">
+          <span>民生</span><i>✦</i><span>互联网</span><i>✦</i><span>大模型</span><i>✦</i>
+          <span>财经</span><i>✦</i><span>国际</span><i>✦</i><span>汽车</span><i>✦</i>
+          <span>民生</span><i>✦</i><span>互联网</span><i>✦</i><span>大模型</span><i>✦</i>
+          <span>财经</span><i>✦</i><span>国际</span><i>✦</i><span>汽车</span><i>✦</i>
+        </div>
+      </div>
+
+      <div class="app">
       <section id="report-board" class="report-board" aria-label="热点日报流"></section>
+      </div>
     </main>
 
+    <footer class="site-footer">
+      <span>DAILY SIGNAL / 今日信号</span>
+      <span>15 STORIES · ONE CLEARER DAY</span>
+      <a href="#top">BACK TO TOP ↑</a>
+    </footer>
+
+    <script src="./vendor/gsap.min.js"></script>
+    <script src="./vendor/ScrollTrigger.min.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>

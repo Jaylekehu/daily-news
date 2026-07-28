@@ -2,6 +2,9 @@ import { readFile } from "node:fs/promises";
 
 const file = process.argv[2] || "public/data/latest.json";
 const report = JSON.parse(await readFile(file, "utf8"));
+const hotTrendPolicy = JSON.parse(
+  await readFile("config/hot-trends.json", "utf8")
+);
 
 const allowedDomains = new Set(["民生", "互联网", "大模型", "数码", "汽车", "交通", "财经", "国际", "其他"]);
 const requiredFields = [
@@ -42,6 +45,13 @@ const internationalAiItems = internationalItems.filter((item) =>
 );
 if (internationalAiItems.length < 3) fail("at least 3 international AI/model items are required");
 
+const hotTrendItems = report.items.filter((item) => item.sourceType === "hotTrend");
+if (hotTrendItems.length > Number(hotTrendPolicy.maxSelectedItems || 3)) {
+  fail(
+    `hot-trend items must not exceed ${hotTrendPolicy.maxSelectedItems}, got ${hotTrendItems.length}`
+  );
+}
+
 report.items.forEach((item, index) => {
   for (const field of requiredFields) {
     if (item[field] === undefined || item[field] === null || item[field] === "") {
@@ -57,6 +67,15 @@ report.items.forEach((item, index) => {
   if (String(item.title).length > 42) fail(`item ${index + 1} title is too long`);
   if (String(item.subtitle).length > 88) fail(`item ${index + 1} subtitle is too long`);
   if (Number(item.priority) !== index + 1) fail(`item ${index + 1} priority must equal display order`);
+  if (item.sourceType && item.sourceType !== "hotTrend") {
+    fail(`item ${index + 1} has unsupported sourceType ${item.sourceType}`);
+  }
+  if (
+    item.sourceType === "hotTrend" &&
+    (!Array.isArray(item.trendPlatforms) || !item.trendPlatforms.length)
+  ) {
+    fail(`item ${index + 1} hot-trend source must include trendPlatforms`);
+  }
 
   assertReadable(item.domain, `item ${index + 1} domain`);
   assertReadable(item.title, `item ${index + 1} title`);
@@ -65,5 +84,5 @@ report.items.forEach((item, index) => {
 });
 
 console.log(
-  `Report OK: ${report.items.length} items, ${internationalItems.length} international, ${internationalAiItems.length} international AI/model.`
+  `Report OK: ${report.items.length} items, ${internationalItems.length} international, ${internationalAiItems.length} international AI/model, ${hotTrendItems.length} hot-trend.`
 );

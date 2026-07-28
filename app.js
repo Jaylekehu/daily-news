@@ -33,6 +33,11 @@ const domainStyle = {
 };
 
 const board = document.querySelector("#report-board");
+const headerDate = document.querySelector("#header-date");
+const heroCount = document.querySelector("#hero-count");
+const heroGlobalCount = document.querySelector("#hero-global-count");
+const heroUpdated = document.querySelector("#hero-updated");
+const heroIssue = document.querySelector("#hero-issue");
 const state = {
   latest: null,
   dates: [],
@@ -41,7 +46,11 @@ const state = {
   loading: false,
   done: false,
   observer: null,
-  sentinel: null
+  sentinel: null,
+  motionContext: null,
+  scrollTween: null,
+  chromeReady: false,
+  introAnimated: false
 };
 
 function formatDate(dateText) {
@@ -53,6 +62,16 @@ function formatDate(dateText) {
   }).format(new Date(`${dateText}T12:00:00+08:00`));
 }
 
+function formatCompactDate(dateText) {
+  const date = new Date(`${dateText}T12:00:00+08:00`);
+  return new Intl.DateTimeFormat("zh-CN", {
+    month: "2-digit",
+    day: "2-digit"
+  })
+    .format(date)
+    .replace("/", ".");
+}
+
 function normalizeItem(report, item, index) {
   return {
     date: item.date || report.date,
@@ -62,6 +81,8 @@ function normalizeItem(report, item, index) {
     sourceName: item.sourceName || item.source || "来源",
     sourceUrl: item.sourceUrl || item.url || "#",
     region: item.region || "domestic",
+    sourceType: item.sourceType || "news",
+    trendPlatforms: Array.isArray(item.trendPlatforms) ? item.trendPlatforms : [],
     priority: Number(item.priority || index + 1),
     generatedAt: item.generatedAt || report.generatedAt
   };
@@ -73,11 +94,15 @@ function renderReports() {
   const sortedReports = uniqueReports.sort((a, b) => b.date.localeCompare(a.date));
   board.replaceChildren(...sortedReports.map(renderReportSection));
   board.append(renderSentinel());
+  syncEditionMeta(sortedReports[0]);
+  window.requestAnimationFrame(initMotion);
 }
 
 function renderReportSection(report) {
   const section = document.createElement("section");
-  section.className = "date-section";
+  const isLatest = report.date === state.latest?.date;
+  section.className = `date-section${isLatest ? " is-latest" : ""}`;
+  section.dataset.date = report.date;
 
   const items = [...report.items]
     .map((item, index) => normalizeItem(report, item, index))
@@ -86,11 +111,15 @@ function renderReportSection(report) {
   const heading = document.createElement("div");
   heading.className = "date-heading";
   heading.innerHTML = `
-    <div>
-      <span>${formatDate(report.date)}</span>
-      <strong>${items.length} 条热点</strong>
+    <span class="edition-index" aria-hidden="true">${formatCompactDate(report.date)}</span>
+    <div class="date-heading__copy">
+      <span class="date-heading__kicker">${isLatest ? "TODAY'S EDITION" : "ARCHIVE EDITION"}</span>
+      <h2>${formatDate(report.date)}</h2>
     </div>
-    <em>${formatGeneratedAt(report.generatedAt)}</em>
+    <div class="date-heading__meta">
+      <strong>${String(items.length).padStart(2, "0")} STORIES</strong>
+      <time datetime="${escapeHtml(report.generatedAt || "")}">${formatGeneratedAt(report.generatedAt)}</time>
+    </div>
   `;
 
   const grid = document.createElement("div");
@@ -99,18 +128,38 @@ function renderReportSection(report) {
   items.forEach((item, index) => {
     const meta = domainStyle[item.domain] || domainStyle["其他"];
     const card = document.createElement("article");
-    card.className = `hot-card ${meta.color}`;
+    const regionLabel = item.region === "international" ? "GLOBAL" : "CN";
+    const isTrending = item.sourceType === "hotTrend";
+    card.className = `hot-card ${meta.color} story-${index + 1}${
+      isTrending ? " is-trending" : ""
+    }`;
+    card.style.setProperty("--story-index", index);
     card.innerHTML = `
-      <div class="rank">${String(index + 1).padStart(2, "0")}</div>
-      <div class="tag" aria-label="${escapeHtml(item.domain)}">
-        <span>${meta.icon}</span>
-        <b>${escapeHtml(item.domain)}</b>
-      </div>
-      <h2>${escapeHtml(item.title)}</h2>
-      <p>${escapeHtml(item.subtitle)}</p>
-      <a class="source" href="${escapeHtml(item.sourceUrl)}" target="_blank" rel="noreferrer">${escapeHtml(
-        item.sourceName
-      )}</a>
+      <a
+        class="card-link"
+        href="${sanitizeUrl(item.sourceUrl)}"
+        target="_blank"
+        rel="noreferrer"
+        aria-label="阅读：${escapeHtml(item.title)}"
+      >
+        <div class="card-signal">
+          <span class="rank">${String(index + 1).padStart(2, "0")}</span>
+          <div class="tag" aria-label="${escapeHtml(item.domain)}">
+            <span>${meta.icon}</span>
+            <b>${escapeHtml(item.domain)}</b>
+          </div>
+          ${isTrending ? '<span class="trend-badge">热榜</span>' : ""}
+          <span class="region">${regionLabel}</span>
+        </div>
+        <h3>${escapeHtml(item.title)}</h3>
+        <p>${escapeHtml(item.subtitle)}</p>
+        <div class="source">
+          <span>SOURCE</span>
+          <strong>${escapeHtml(item.sourceName)}</strong>
+          <i aria-hidden="true">↗</i>
+        </div>
+        <span class="card-corner" aria-hidden="true"></span>
+      </a>
     `;
     grid.append(card);
   });
@@ -139,7 +188,23 @@ function renderSentinel() {
 function formatGeneratedAt(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "";
-  return date.toLocaleString("zh-CN", { hour12: false });
+  return date.toLocaleString("zh-CN", {
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false
+  });
+}
+
+function formatTime(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "—";
+  return date.toLocaleTimeString("zh-CN", {
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false
+  });
 }
 
 function escapeHtml(value) {
@@ -149,6 +214,171 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
+}
+
+function sanitizeUrl(value) {
+  if (!value || value === "#") return "#";
+
+  try {
+    const url = new URL(value, window.location.href);
+    if (!["http:", "https:"].includes(url.protocol)) return "#";
+    return escapeHtml(url.href);
+  } catch {
+    return "#";
+  }
+}
+
+function syncEditionMeta(report) {
+  if (!report) return;
+  const items = Array.isArray(report.items) ? report.items : [];
+  const globalItems = items.filter((item) => item.region === "international").length;
+  const issueNumber = report.date.replaceAll("-", "").slice(2);
+
+  headerDate.textContent = formatCompactDate(report.date);
+  heroCount.textContent = String(items.length).padStart(2, "0");
+  heroGlobalCount.textContent = String(globalItems).padStart(2, "0");
+  heroUpdated.textContent = formatTime(report.generatedAt);
+  heroIssue.textContent = issueNumber;
+}
+
+function initMotion() {
+  if (!window.gsap || !window.ScrollTrigger) return;
+
+  const { gsap, ScrollTrigger } = window;
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  gsap.registerPlugin(ScrollTrigger);
+
+  state.motionContext?.revert();
+  state.scrollTween?.kill();
+
+  if (reduceMotion) {
+    gsap.set(".scroll-meter__bar", { scaleX: 1 });
+    return;
+  }
+
+  state.motionContext = gsap.context(() => {
+    if (!state.introAnimated) {
+      const intro = gsap.timeline({
+        defaults: { duration: 0.9, ease: "power3.out" }
+      });
+
+      intro
+        .from(".site-header", { y: -48, autoAlpha: 0 }, 0)
+        .from(".hero__eyebrow span", { y: 18, autoAlpha: 0, stagger: 0.08 }, 0.12)
+        .from(
+          ".hero__title-row",
+          { yPercent: 115, rotation: 3, transformOrigin: "left bottom", stagger: 0.1 },
+          0.16
+        )
+        .from(".hero__manifesto, .hero__stats", { y: 30, autoAlpha: 0, stagger: 0.1 }, 0.46)
+        .from(".hero__edition", { x: 50, autoAlpha: 0 }, 0.52)
+        .from(".hero__disc", { scale: 0.3, rotation: -40, autoAlpha: 0 }, 0.58);
+
+      state.introAnimated = true;
+    }
+
+    document.querySelectorAll(".date-section").forEach((section) => {
+      const heading = section.querySelector(".date-heading");
+      const cards = section.querySelectorAll(".hot-card");
+
+      gsap.from(heading, {
+        y: 42,
+        autoAlpha: 0,
+        duration: 0.8,
+        ease: "power3.out",
+        scrollTrigger: {
+          trigger: heading,
+          start: "top 90%",
+          once: true
+        }
+      });
+
+      gsap.from(cards, {
+        y: 56,
+        autoAlpha: 0,
+        rotationX: 5,
+        transformOrigin: "center bottom",
+        duration: 0.9,
+        ease: "power3.out",
+        stagger: { amount: 0.55, from: "start" },
+        scrollTrigger: {
+          trigger: section.querySelector(".hot-grid"),
+          start: "top 86%",
+          once: true
+        }
+      });
+
+      cards.forEach((card, index) => {
+        const direction = index % 2 === 0 ? -0.35 : 0.35;
+        card.addEventListener("pointerenter", () => {
+          gsap.to(card, {
+            y: -8,
+            rotation: direction,
+            duration: 0.32,
+            ease: "power2.out",
+            overwrite: "auto"
+          });
+        });
+        card.addEventListener("pointerleave", () => {
+          gsap.to(card, {
+            y: 0,
+            rotation: 0,
+            duration: 0.45,
+            ease: "power3.out",
+            overwrite: "auto"
+          });
+        });
+      });
+    });
+
+    gsap.to(".hero__disc", {
+      rotation: 90,
+      y: 80,
+      ease: "none",
+      scrollTrigger: {
+        trigger: ".hero",
+        start: "top top",
+        end: "bottom top",
+        scrub: 0.8
+      }
+    });
+  });
+
+  state.scrollTween = gsap.fromTo(
+    ".scroll-meter__bar",
+    { scaleX: 0 },
+    {
+      scaleX: 1,
+      ease: "none",
+      scrollTrigger: {
+        trigger: document.documentElement,
+        start: "top top",
+        end: "max",
+        scrub: 0.25
+      }
+    }
+  );
+
+  initChromeMotion(gsap);
+  ScrollTrigger.refresh();
+}
+
+function initChromeMotion(gsap) {
+  if (state.chromeReady || !window.matchMedia("(pointer: fine)").matches) return;
+
+  const aura = document.querySelector(".cursor-aura");
+  const moveX = gsap.quickTo(aura, "x", { duration: 0.65, ease: "power3" });
+  const moveY = gsap.quickTo(aura, "y", { duration: 0.65, ease: "power3" });
+
+  window.addEventListener(
+    "pointermove",
+    (event) => {
+      moveX(event.clientX);
+      moveY(event.clientY);
+    },
+    { passive: true }
+  );
+  state.chromeReady = true;
 }
 
 async function loadReports() {

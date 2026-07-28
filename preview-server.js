@@ -1,6 +1,6 @@
-const fs = require("fs");
-const http = require("http");
-const path = require("path");
+import fs from "node:fs";
+import http from "node:http";
+import path from "node:path";
 
 const port = Number(process.env.PORT || 4173);
 const root = process.cwd();
@@ -16,8 +16,8 @@ http
     let pathname = decodeURIComponent(req.url.split("?")[0]);
     if (pathname === "/") pathname = "/index.html";
 
-    const filePath = path.join(root, pathname);
-    if (!filePath.startsWith(root)) {
+    const filePath = path.resolve(root, `.${pathname}`);
+    if (filePath !== root && !filePath.startsWith(`${root}${path.sep}`)) {
       res.writeHead(403);
       res.end("Forbidden");
       return;

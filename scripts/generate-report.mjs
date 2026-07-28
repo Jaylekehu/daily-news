@@ -1,9 +1,13 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { collectHotTrendCandidates } from "./hot-trends.mjs";
 
 const root = process.cwd();
 const sources = JSON.parse(await readFile(path.join(root, "config/sources.json"), "utf8"));
 const policy = JSON.parse(await readFile(path.join(root, "config/report-policy.json"), "utf8"));
+const hotTrendPolicy = JSON.parse(
+  await readFile(path.join(root, "config/hot-trends.json"), "utf8")
+);
 
 const targetDate = process.env.REPORT_DATE || getYesterdayInShanghai();
 const generatedAt = new Date().toISOString();
@@ -24,7 +28,13 @@ if (!apiKey && process.env.USE_FIXTURE !== "1") {
 const candidates =
   process.env.USE_FIXTURE === "1"
     ? fixtureCandidates(targetDate)
-    : ensureCandidateFloor(await collectCandidates(sources), sources);
+    : ensureCandidateFloor(
+        await collectCandidates(sources, {
+          ...hotTrendPolicy,
+          enabled: hotTrendPolicy.enabled && process.env.DISABLE_HOT_TRENDS !== "1"
+        }),
+        sources
+      );
 
 if (candidates.length < policy.totalItems && process.env.USE_FIXTURE !== "1") {
   console.warn(
@@ -35,13 +45,32 @@ if (candidates.length < policy.totalItems && process.env.USE_FIXTURE !== "1") {
 const report =
   process.env.USE_FIXTURE === "1"
     ? buildFixtureReport(targetDate, generatedAt)
-    : await summarizeWithDeepSeek({ candidates, targetDate, generatedAt, model, apiKey, policy });
+    : await summarizeWithDeepSeek({
+        candidates,
+        targetDate,
+        generatedAt,
+        model,
+        apiKey,
+        policy,
+        hotTrendPolicy
+      });
 
-const normalized = normalizeReport(report, targetDate, generatedAt, policy, candidates);
+const normalized = normalizeReport(
+  report,
+  targetDate,
+  generatedAt,
+  policy,
+  candidates,
+  hotTrendPolicy
+);
 await writeReport(normalized);
 
 console.log(
-  `Generated ${normalized.items.length} items for ${normalized.date} using ${process.env.USE_FIXTURE === "1" ? "fixture" : model}.`
+  `Generated ${normalized.items.length} items for ${normalized.date} using ${
+    process.env.USE_FIXTURE === "1" ? "fixture" : model
+  }; selected ${normalized.meta.hotTrendItems} hot-trend items from ${
+    normalized.meta.hotTrendCandidates
+  } relevant candidates.`
 );
 
 async function latestAlreadyGenerated(date) {
@@ -65,10 +94,16 @@ function getYesterdayInShanghai() {
   ].join("-");
 }
 
-async function collectCandidates(sourceList) {
-  const results = await Promise.allSettled(sourceList.map(fetchSource));
-  const candidates = results.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
-  return dedupeCandidates(candidates).slice(0, 120);
+async function collectCandidates(sourceList, trendConfig) {
+  const [results, hotTrendCandidates] = await Promise.all([
+    Promise.allSettled(sourceList.map(fetchSource)),
+    collectHotTrendCandidates(trendConfig)
+  ]);
+  const newsCandidates = results.flatMap((result) =>
+    result.status === "fulfilled" ? result.value : []
+  );
+  console.log(`Collected ${hotTrendCandidates.length} relevant hot-trend candidates.`);
+  return dedupeCandidates([...hotTrendCandidates, ...newsCandidates]).slice(0, 120);
 }
 
 function ensureCandidateFloor(candidates, sourceList) {
@@ -195,7 +230,15 @@ function dedupeCandidates(items) {
   });
 }
 
-async function summarizeWithDeepSeek({ candidates, targetDate, generatedAt, model, apiKey, policy }) {
+async function summarizeWithDeepSeek({
+  candidates,
+  targetDate,
+  generatedAt,
+  model,
+  apiKey,
+  policy,
+  hotTrendPolicy
+}) {
   const prompt = {
     task: "生成中文每日热点日报 JSON。",
     targetDate,
@@ -210,6 +253,15 @@ async function summarizeWithDeepSeek({ candidates, targetDate, generatedAt, mode
       subtitleMaxChineseChars: 88,
       fallbackSourceRule:
         "部分候选可能是 fallbackSource=true 的来源首页。优先使用候选里的具体文章链接；只有文章候选不足时，才使用来源首页作为来源链接。",
+      hotTrendRule: {
+        candidateMarker: "candidateType=hotTrend 或 hotTrend=true",
+        minimumItems: 0,
+        maximumItems: hotTrendPolicy.maxSelectedItems,
+        instruction:
+          "热榜只是补充信号，不是必选项。仅当热榜候选与日报核心主题直接相关、具有明确新闻价值且不与其他新闻重复时才采用；没有合格热榜候选就采用 0 条，严禁为凑数选择泛娱乐或低信息量话题。",
+        sourceInstruction:
+          "采用热榜候选时必须原样保留候选 sourceName 和 URL，不得把热度当成事实证据，不得补写候选中不存在的数字。"
+      },
       sourceRule: "每条必须保留真实来源名称和 URL；不要编造链接、数字、日期。",
       outputShape: {
         date: "YYYY-MM-DD",
@@ -266,7 +318,14 @@ async function summarizeWithDeepSeek({ candidates, targetDate, generatedAt, mode
   return JSON.parse(content);
 }
 
-function normalizeReport(report, date, generatedAt, policy, candidates = []) {
+function normalizeReport(
+  report,
+  date,
+  generatedAt,
+  policy,
+  candidates = [],
+  hotTrendPolicy = {}
+) {
   const items = Array.isArray(report.items) ? report.items : [];
   let normalizedItems = items.slice(0, policy.totalItems).map((item, index) => ({
     date,
@@ -281,12 +340,20 @@ function normalizeReport(report, date, generatedAt, policy, candidates = []) {
   }));
 
   normalizedItems = ensureInternationalAiCoverage(normalizedItems, candidates, date, generatedAt, policy);
+  normalizedItems = annotateHotTrendItems(normalizedItems, candidates);
 
   if (normalizedItems.length !== policy.totalItems) {
     throw new Error(`DeepSeek returned ${normalizedItems.length} items; expected ${policy.totalItems}.`);
   }
 
   normalizedItems = normalizedItems.map((item, index) => ({ ...item, priority: index + 1 }));
+  const hotTrendItems = normalizedItems.filter((item) => item.sourceType === "hotTrend").length;
+  const maximumHotTrendItems = Number(hotTrendPolicy.maxSelectedItems || 3);
+  if (hotTrendItems > maximumHotTrendItems) {
+    throw new Error(
+      `DeepSeek selected ${hotTrendItems} hot-trend items; maximum is ${maximumHotTrendItems}.`
+    );
+  }
 
   for (const item of normalizedItems) {
     if (!item.title || !item.subtitle || !item.sourceUrl) {
@@ -294,7 +361,45 @@ function normalizeReport(report, date, generatedAt, policy, candidates = []) {
     }
   }
 
-  return { date, generatedAt, items: normalizedItems };
+  return {
+    date,
+    generatedAt,
+    meta: {
+      hotTrendCandidates: candidates.filter((item) => item.hotTrend).length,
+      hotTrendItems
+    },
+    items: normalizedItems
+  };
+}
+
+function annotateHotTrendItems(items, candidates) {
+  const hotTrendByUrl = new Map(
+    candidates
+      .filter((candidate) => candidate.hotTrend)
+      .map((candidate) => [canonicalSourceUrl(candidate.url), candidate])
+  );
+
+  return items.map((item) => {
+    const candidate = hotTrendByUrl.get(canonicalSourceUrl(item.sourceUrl));
+    if (!candidate) return item;
+
+    return {
+      ...item,
+      sourceType: "hotTrend",
+      trendPlatforms: candidate.trendPlatforms,
+      trendRank: candidate.hotRank
+    };
+  });
+}
+
+function canonicalSourceUrl(value) {
+  try {
+    const url = new URL(value);
+    url.hash = "";
+    return url.href.replace(/\/$/, "");
+  } catch {
+    return String(value || "");
+  }
 }
 
 function ensureInternationalAiCoverage(items, candidates, date, generatedAt, policy) {
