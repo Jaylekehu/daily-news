@@ -32,6 +32,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 jobs:
   generate:
@@ -82,6 +83,32 @@ jobs:
           cp index.html app.js styles.css .deploy/
           cp -R public/data .deploy/public/
           cp vendor/*.min.js .deploy/vendor/
+
+      - name: Configure Alibaba Cloud credentials
+        uses: aliyun/configure-aliyun-credentials-action@v1
+        with:
+          role-to-assume: "acs:ram::1585445614814217:role/daily-news-github-deployer"
+          oidc-provider-arn: "acs:ram::1585445614814217:oidc-provider/github-actions-daily-news"
+          role-session-name: "daily-news-${{ github.run_id }}"
+          role-session-expiration: 1800
+          audience: "github-actions"
+
+      - name: Install ossutil
+        run: |
+          curl -fsSLo /tmp/ossutil.zip https://gosspublic.alicdn.com/ossutil/v2/2.3.0/ossutil-2.3.0-linux-amd64.zip
+          echo "3ae4d9fc85a7a6e9f5654d1599766f1a3a42a3692870887b5ae9338d582ef65a  /tmp/ossutil.zip" | sha256sum -c -
+          unzip -q /tmp/ossutil.zip -d /tmp
+          sudo install -m 0755 /tmp/ossutil-2.3.0-linux-amd64/ossutil /usr/local/bin/ossutil
+          ossutil version
+
+      - name: Upload site to OSS
+        env:
+          OSS_ACCESS_KEY_ID: ${{ env.ALIBABA_CLOUD_ACCESS_KEY_ID }}
+          OSS_ACCESS_KEY_SECRET: ${{ env.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
+          OSS_SESSION_TOKEN: ${{ env.ALIBABA_CLOUD_SECURITY_TOKEN }}
+          OSS_REGION: cn-shanghai
+          OSS_ENDPOINT: oss-cn-shanghai.aliyuncs.com
+        run: ossutil sync .deploy/ oss://daily-news-2077-prod/ --force
 
       - name: Upload site to ECS
         uses: appleboy/scp-action@v0.1.7
