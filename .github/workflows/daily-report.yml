@@ -18,7 +18,7 @@ on:
   workflow_dispatch:
     inputs:
       report_date:
-        description: "Target report date in YYYY-MM-DD. Defaults to yesterday in Asia/Shanghai."
+        description: "Target report date in YYYY-MM-DD. Defaults to today in Asia/Shanghai."
         required: false
         type: string
       force_regenerate:

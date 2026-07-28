@@ -4,6 +4,7 @@
 
 - 前端页面从 `public/data/latest.json` 读取最新日报
 - GitHub Actions 每天北京时间 08:10 自动生成日报
+- 日报标题、条目日期和归档文件名默认使用生成当天的北京时间日期
 - 微博、知乎、百度和今日头条热榜作为可选候选源，不要求每天必须入选
 - 生成完成后自动上传到 ECS 的 `/var/www/daily-news`
 - `daily.2077.fun` 由 ECS 上的 Nginx 提供访问

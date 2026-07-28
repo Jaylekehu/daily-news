@@ -1,6 +1,7 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { collectHotTrendCandidates } from "./hot-trends.mjs";
+import { resolveReportDate } from "./report-date.mjs";
 
 const root = process.cwd();
 const sources = JSON.parse(await readFile(path.join(root, "config/sources.json"), "utf8"));
@@ -9,7 +10,7 @@ const hotTrendPolicy = JSON.parse(
   await readFile(path.join(root, "config/hot-trends.json"), "utf8")
 );
 
-const targetDate = process.env.REPORT_DATE || getYesterdayInShanghai();
+const targetDate = resolveReportDate(process.env.REPORT_DATE);
 const generatedAt = new Date().toISOString();
 const model = process.env.DEEPSEEK_MODEL || policy.defaultModel || "deepseek-v4-pro";
 const apiKey = process.env.DEEPSEEK_API_KEY;
@@ -81,17 +82,6 @@ async function latestAlreadyGenerated(date) {
   } catch {
     return false;
   }
-}
-
-function getYesterdayInShanghai() {
-  const now = new Date();
-  const shanghaiNow = new Date(now.toLocaleString("en-US", { timeZone: "Asia/Shanghai" }));
-  shanghaiNow.setDate(shanghaiNow.getDate() - 1);
-  return [
-    shanghaiNow.getFullYear(),
-    String(shanghaiNow.getMonth() + 1).padStart(2, "0"),
-    String(shanghaiNow.getDate()).padStart(2, "0")
-  ].join("-");
 }
 
 async function collectCandidates(sourceList, trendConfig) {
