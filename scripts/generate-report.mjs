@@ -1,6 +1,7 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { collectHotTrendCandidates } from "./hot-trends.mjs";
+import { fillMissingReportItems } from "./report-fallback.mjs";
 import { resolveReportDate } from "./report-date.mjs";
 
 const root = process.cwd();
@@ -328,6 +329,22 @@ function normalizeReport(
     priority: index + 1,
     generatedAt
   }));
+
+  const modelItemCount = normalizedItems.length;
+  normalizedItems = fillMissingReportItems({
+    items: normalizedItems,
+    candidates,
+    date,
+    generatedAt,
+    totalItems: policy.totalItems
+  });
+  if (normalizedItems.length > modelItemCount) {
+    console.warn(
+      `DeepSeek returned ${modelItemCount} items; filled ${
+        normalizedItems.length - modelItemCount
+      } missing item(s) from unused source candidates.`
+    );
+  }
 
   normalizedItems = ensureInternationalAiCoverage(normalizedItems, candidates, date, generatedAt, policy);
   normalizedItems = annotateHotTrendItems(normalizedItems, candidates);
