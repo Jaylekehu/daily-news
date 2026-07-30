@@ -5,19 +5,24 @@ const SUMMARY_LIMIT = 30;
 
 export function buildNotification({ result, reportDate, dailyUrl }) {
   const date = resolveNotificationDate(reportDate);
+  const shortDate = formatShortDate(date);
   const normalizedResult = String(result || "failure").toLowerCase();
   const successful = normalizedResult === "success";
   const cancelled = normalizedResult === "cancelled";
   const title = shorten(
-    successful ? "日报任务完成" : cancelled ? "日报任务已取消" : "日报任务失败",
+    successful
+      ? `${shortDate}日报发布成功`
+      : cancelled
+        ? `${shortDate}日报运行取消`
+        : `${shortDate}日报发布失败`,
     TITLE_LIMIT
   );
   const summary = shorten(
     successful
-      ? `${date} 日报已生成并部署`
+      ? `含15条新闻：${dailyUrl}`
       : cancelled
-        ? `${date} 日报运行已取消`
-        : `${date} 日报未完成，请检查日志`,
+        ? `运行已取消：${dailyUrl}`
+        : `请检查运行：${dailyUrl}`,
     SUMMARY_LIMIT
   );
 
@@ -27,10 +32,15 @@ export function buildNotification({ result, reportDate, dailyUrl }) {
     payload: {
       msg_type: "text",
       content: {
-        text: [title, summary, dailyUrl].filter(Boolean).join("\n")
+        text: [title, summary].join("\n")
       }
     }
   };
+}
+
+export function formatShortDate(date) {
+  const [, , month, day] = String(date).match(/^(\d{4})-(\d{2})-(\d{2})$/) || [];
+  return month && day ? `${Number(month)}月${Number(day)}日` : "";
 }
 
 export function resolveNotificationDate(value) {
