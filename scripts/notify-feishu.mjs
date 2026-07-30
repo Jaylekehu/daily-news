@@ -27,7 +27,7 @@ export function buildNotification({ result, reportDate, dailyUrl }) {
     payload: {
       msg_type: "text",
       content: {
-        text: ["日报", title, summary, dailyUrl].filter(Boolean).join("\n")
+        text: [title, summary, dailyUrl].filter(Boolean).join("\n")
       }
     }
   };

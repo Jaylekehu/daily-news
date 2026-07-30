@@ -12,7 +12,7 @@ const success = buildNotification({
 });
 assert.equal(success.title, "日报任务完成");
 assert.equal(success.summary, "2026-07-30 日报已生成并部署");
-assert.match(success.payload.content.text, /^日报\n日报任务完成/);
+assert.match(success.payload.content.text, /^日报任务完成\n/);
 assert.match(success.payload.content.text, /https:\/\/daily\.2077\.fun$/);
 
 const failure = buildNotification({
