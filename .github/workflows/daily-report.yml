@@ -141,3 +141,29 @@ jobs:
             chown -R nginx:nginx "$TARGET_DIR" || true
             nginx -t
             systemctl reload nginx
+
+  notify:
+    name: notify
+    needs: generate
+    if: always()
+    continue-on-error: true
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout notification script
+        uses: actions/checkout@v4
+
+      - name: Notify daily-news Feishu bot
+        continue-on-error: true
+        env:
+          FEISHU_DAILY_NEWS_WEBHOOK: ${{ secrets.FEISHU_DAILY_NEWS_WEBHOOK }}
+          REPORT_DATE: ${{ inputs.report_date }}
+          RUN_RESULT: ${{ needs.generate.result }}
+          DAILY_URL: https://daily.2077.fun
+        run: |
+          if [ -z "$FEISHU_DAILY_NEWS_WEBHOOK" ]; then
+            echo "::warning::FEISHU_DAILY_NEWS_WEBHOOK is not configured; skipping notification."
+            exit 0
+          fi
+          node scripts/notify-feishu.mjs
