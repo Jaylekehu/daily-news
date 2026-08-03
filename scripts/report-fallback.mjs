@@ -57,6 +57,35 @@ export function fillMissingReportItems({
   return output;
 }
 
+export function replaceExcessHotTrendItems({
+  items,
+  candidates,
+  date,
+  generatedAt,
+  totalItems,
+  maxHotTrendItems
+}) {
+  const maximum = Math.max(0, Number(maxHotTrendItems) || 0);
+  let selectedHotTrendItems = 0;
+  const cappedItems = [];
+
+  for (const item of (Array.isArray(items) ? items : []).slice(0, totalItems)) {
+    if (item.sourceType === "hotTrend") {
+      if (selectedHotTrendItems >= maximum) continue;
+      selectedHotTrendItems += 1;
+    }
+    cappedItems.push(item);
+  }
+
+  return fillMissingReportItems({
+    items: cappedItems,
+    candidates,
+    date,
+    generatedAt,
+    totalItems
+  });
+}
+
 function inferDomain(candidate) {
   const text = `${candidate.title || ""} ${candidate.sourceName || ""} ${(
     candidate.domainHints || []

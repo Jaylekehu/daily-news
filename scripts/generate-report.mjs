@@ -1,7 +1,10 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { collectHotTrendCandidates } from "./hot-trends.mjs";
-import { fillMissingReportItems } from "./report-fallback.mjs";
+import {
+  fillMissingReportItems,
+  replaceExcessHotTrendItems
+} from "./report-fallback.mjs";
 import { resolveReportDate } from "./report-date.mjs";
 
 const root = process.cwd();
@@ -349,13 +352,30 @@ function normalizeReport(
   normalizedItems = ensureInternationalAiCoverage(normalizedItems, candidates, date, generatedAt, policy);
   normalizedItems = annotateHotTrendItems(normalizedItems, candidates);
 
+  const maximumHotTrendItems = Number(hotTrendPolicy.maxSelectedItems || 3);
+  const selectedHotTrendItems = normalizedItems.filter(
+    (item) => item.sourceType === "hotTrend"
+  ).length;
+  if (selectedHotTrendItems > maximumHotTrendItems) {
+    normalizedItems = replaceExcessHotTrendItems({
+      items: normalizedItems,
+      candidates,
+      date,
+      generatedAt,
+      totalItems: policy.totalItems,
+      maxHotTrendItems: maximumHotTrendItems
+    });
+    console.warn(
+      `DeepSeek selected ${selectedHotTrendItems} hot-trend items; kept ${maximumHotTrendItems} and replaced the excess with non-trend candidates.`
+    );
+  }
+
   if (normalizedItems.length !== policy.totalItems) {
     throw new Error(`DeepSeek returned ${normalizedItems.length} items; expected ${policy.totalItems}.`);
   }
 
   normalizedItems = normalizedItems.map((item, index) => ({ ...item, priority: index + 1 }));
   const hotTrendItems = normalizedItems.filter((item) => item.sourceType === "hotTrend").length;
-  const maximumHotTrendItems = Number(hotTrendPolicy.maxSelectedItems || 3);
   if (hotTrendItems > maximumHotTrendItems) {
     throw new Error(
       `DeepSeek selected ${hotTrendItems} hot-trend items; maximum is ${maximumHotTrendItems}.`

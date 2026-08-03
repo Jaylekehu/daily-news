@@ -1,5 +1,8 @@
 import assert from "node:assert/strict";
-import { fillMissingReportItems } from "./report-fallback.mjs";
+import {
+  fillMissingReportItems,
+  replaceExcessHotTrendItems
+} from "./report-fallback.mjs";
 
 const date = "2026-07-29";
 const generatedAt = "2026-07-29T00:00:00.000Z";
@@ -58,5 +61,55 @@ const unchanged = fillMissingReportItems({
   totalItems: 15
 });
 assert.deepEqual(unchanged, filled);
+
+const itemsWithExcessTrends = [
+  ...Array.from({ length: 4 }, (_, index) => ({
+    date,
+    domain: "互联网",
+    title: `热榜新闻 ${index + 1}`,
+    subtitle: "热榜新闻摘要",
+    sourceName: "热榜",
+    sourceUrl: `https://example.com/hot/${index + 1}`,
+    sourceType: "hotTrend",
+    region: "domestic",
+    priority: index + 1,
+    generatedAt
+  })),
+  ...Array.from({ length: 11 }, (_, index) => ({
+    date,
+    domain: "其他",
+    title: `普通新闻 ${index + 1}`,
+    subtitle: "普通新闻摘要",
+    sourceName: "普通来源",
+    sourceUrl: `https://example.com/regular/${index + 1}`,
+    region: "domestic",
+    priority: index + 5,
+    generatedAt
+  }))
+];
+
+const capped = replaceExcessHotTrendItems({
+  items: itemsWithExcessTrends,
+  candidates: [
+    {
+      title: "用于替换多余热榜的普通新闻",
+      url: "https://example.com/regular/replacement",
+      sourceName: "替补来源",
+      region: "domestic"
+    }
+  ],
+  date,
+  generatedAt,
+  totalItems: 15,
+  maxHotTrendItems: 3
+});
+
+assert.equal(capped.length, 15);
+assert.equal(capped.filter((item) => item.sourceType === "hotTrend").length, 3);
+assert.equal(capped.some((item) => item.sourceUrl === "https://example.com/hot/4"), false);
+assert.equal(
+  capped.some((item) => item.sourceUrl === "https://example.com/regular/replacement"),
+  true
+);
 
 console.log("Report fallback tests passed.");
