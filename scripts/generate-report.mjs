@@ -349,7 +349,6 @@ function normalizeReport(
     );
   }
 
-  normalizedItems = ensureInternationalAiCoverage(normalizedItems, candidates, date, generatedAt, policy);
   normalizedItems = annotateHotTrendItems(normalizedItems, candidates);
 
   const maximumHotTrendItems = Number(hotTrendPolicy.maxSelectedItems || 3);
@@ -369,6 +368,14 @@ function normalizeReport(
       `DeepSeek selected ${selectedHotTrendItems} hot-trend items; kept ${maximumHotTrendItems} and replaced the excess with non-trend candidates.`
     );
   }
+
+  normalizedItems = ensureInternationalAiCoverage(
+    normalizedItems,
+    candidates,
+    date,
+    generatedAt,
+    policy
+  );
 
   if (normalizedItems.length !== policy.totalItems) {
     throw new Error(`DeepSeek returned ${normalizedItems.length} items; expected ${policy.totalItems}.`);
@@ -436,6 +443,7 @@ function ensureInternationalAiCoverage(items, candidates, date, generatedAt, pol
   if (currentCount >= minimum) return output;
 
   const aiCandidates = candidates
+    .filter((candidate) => !candidate.hotTrend)
     .filter((candidate) => candidate.region === "international")
     .filter((candidate) => isAiCandidate(candidate))
     .filter((candidate) => /^https?:\/\//.test(candidate.url || ""))
