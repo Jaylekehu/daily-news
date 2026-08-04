@@ -27,8 +27,6 @@ GitHub Actions
 在仓库 `Settings -> Secrets and variables -> Actions` 添加：
 
 - `DEEPSEEK_API_KEY`
-- `DEEPSEEK_MODEL`
-  默认可填 `deepseek-v4-pro`
 - `ECS_HOST`
   例如 `101.201.246.225`
 - `ECS_USER`
@@ -37,6 +35,9 @@ GitHub Actions
   部署私钥全文
 - `ECS_PORT`
   可选，默认 `22`
+
+日报默认使用 `config/report-policy.json` 中的 `deepseek-v4-flash`。本地运行时仍可通过
+`DEEPSEEK_MODEL` 环境变量临时覆盖。
 
 ## ECS 目录
 

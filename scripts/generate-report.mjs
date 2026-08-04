@@ -16,7 +16,7 @@ const hotTrendPolicy = JSON.parse(
 
 const targetDate = resolveReportDate(process.env.REPORT_DATE);
 const generatedAt = new Date().toISOString();
-const model = process.env.DEEPSEEK_MODEL || policy.defaultModel || "deepseek-v4-pro";
+const model = process.env.DEEPSEEK_MODEL || policy.defaultModel || "deepseek-v4-flash";
 const apiKey = process.env.DEEPSEEK_API_KEY;
 const outputDir = process.env.REPORT_OUTPUT_DIR || "public/data";
 const force = process.env.FORCE_REPORT === "1";
