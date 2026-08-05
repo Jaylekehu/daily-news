@@ -39,6 +39,27 @@ GitHub Actions
 日报默认使用 `config/report-policy.json` 中的 `deepseek-v4-flash`。本地运行时仍可通过
 `DEEPSEEK_MODEL` 环境变量临时覆盖。
 
+## 日报通知
+
+当前 GitHub Actions 使用微信公众号接口测试号发送完成或失败提醒，飞书通知脚本和
+`FEISHU_DAILY_NEWS_WEBHOOK` Secret 保留但不再调用。微信凭据仅存放在 GitHub Secrets：
+
+- `WECHAT_DAILY_NEWS_APP_ID`
+- `WECHAT_DAILY_NEWS_APP_SECRET`
+- `WECHAT_DAILY_NEWS_OPEN_ID`
+- `WECHAT_DAILY_NEWS_TEMPLATE_ID`
+
+测试号模板建议使用：
+
+```text
+状态：{{first.DATA}}
+通知内容：{{keyword1.DATA}}
+{{remark.DATA}}
+```
+
+消息卡片会链接到 `https://daily.2077.fun`。首次配置后需要在微信客户端确认动态标题、
+通知内容和链接均能正常显示。
+
 ## ECS 目录
 
 - 站点目录：`/var/www/daily-news`

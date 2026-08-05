@@ -10,10 +10,10 @@
     "trends:check": "node scripts/check-hot-trends.mjs",
     "test:date": "node scripts/test-report-date.mjs",
     "test:fallback": "node scripts/test-report-fallback.mjs",
-    "test:notify": "node scripts/test-notify-feishu.mjs",
+    "test:notify": "node scripts/test-notify-feishu.mjs && node scripts/test-notify-wechat.mjs",
     "test:trends": "node scripts/test-hot-trends.mjs",
     "validate": "node scripts/validate-report.mjs public/data/latest.json",
-    "check": "node --check app.js && node --check preview-server.js && node --check scripts/generate-report.mjs && node --check scripts/report-date.mjs && node --check scripts/report-fallback.mjs && node --check scripts/notify-feishu.mjs && node --check scripts/hot-trends.mjs && node --check scripts/check-hot-trends.mjs && node --check scripts/test-report-date.mjs && node --check scripts/test-report-fallback.mjs && node --check scripts/test-notify-feishu.mjs && node --check scripts/test-hot-trends.mjs && node --check scripts/validate-report.mjs && npm run test:date && npm run test:fallback && npm run test:notify && npm run test:trends && npm run validate"
+    "check": "node --check app.js && node --check preview-server.js && node --check scripts/generate-report.mjs && node --check scripts/report-date.mjs && node --check scripts/report-fallback.mjs && node --check scripts/notification-content.mjs && node --check scripts/notify-feishu.mjs && node --check scripts/notify-wechat.mjs && node --check scripts/hot-trends.mjs && node --check scripts/check-hot-trends.mjs && node --check scripts/test-report-date.mjs && node --check scripts/test-report-fallback.mjs && node --check scripts/test-notify-feishu.mjs && node --check scripts/test-notify-wechat.mjs && node --check scripts/test-hot-trends.mjs && node --check scripts/validate-report.mjs && npm run test:date && npm run test:fallback && npm run test:notify && npm run test:trends && npm run validate"
   },
   "engines": {
     "node": ">=20"

@@ -153,16 +153,19 @@ jobs:
       - name: Checkout notification script
         uses: actions/checkout@v4
 
-      - name: Notify daily-news Feishu bot
+      - name: Notify daily-news WeChat test account
         continue-on-error: true
         env:
-          FEISHU_DAILY_NEWS_WEBHOOK: ${{ secrets.FEISHU_DAILY_NEWS_WEBHOOK }}
+          WECHAT_DAILY_NEWS_APP_ID: ${{ secrets.WECHAT_DAILY_NEWS_APP_ID }}
+          WECHAT_DAILY_NEWS_APP_SECRET: ${{ secrets.WECHAT_DAILY_NEWS_APP_SECRET }}
+          WECHAT_DAILY_NEWS_OPEN_ID: ${{ secrets.WECHAT_DAILY_NEWS_OPEN_ID }}
+          WECHAT_DAILY_NEWS_TEMPLATE_ID: ${{ secrets.WECHAT_DAILY_NEWS_TEMPLATE_ID }}
           REPORT_DATE: ${{ inputs.report_date }}
           RUN_RESULT: ${{ needs.generate.result }}
           DAILY_URL: https://daily.2077.fun
         run: |
-          if [ -z "$FEISHU_DAILY_NEWS_WEBHOOK" ]; then
-            echo "::warning::FEISHU_DAILY_NEWS_WEBHOOK is not configured; skipping notification."
+          if [ -z "$WECHAT_DAILY_NEWS_APP_ID" ] || [ -z "$WECHAT_DAILY_NEWS_APP_SECRET" ] || [ -z "$WECHAT_DAILY_NEWS_OPEN_ID" ] || [ -z "$WECHAT_DAILY_NEWS_TEMPLATE_ID" ]; then
+            echo "::warning::WeChat test-account secrets are not configured; skipping notification."
             exit 0
           fi
-          node scripts/notify-feishu.mjs
+          node scripts/notify-wechat.mjs
