@@ -1,0 +1,35 @@
+name: WeChat notification test
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/wechat-notification-test.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    name: notify
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout notification script
+        uses: actions/checkout@v4
+
+      - name: Send WeChat test notification
+        env:
+          WECHAT_DAILY_NEWS_APP_ID: ${{ secrets.WECHAT_DAILY_NEWS_APP_ID }}
+          WECHAT_DAILY_NEWS_APP_SECRET: ${{ secrets.WECHAT_DAILY_NEWS_APP_SECRET }}
+          WECHAT_DAILY_NEWS_OPEN_ID: ${{ secrets.WECHAT_DAILY_NEWS_OPEN_ID }}
+          WECHAT_DAILY_NEWS_TEMPLATE_ID: ${{ secrets.WECHAT_DAILY_NEWS_TEMPLATE_ID }}
+          RUN_RESULT: test
+          DAILY_URL: https://daily.2077.fun
+        run: |
+          test -n "$WECHAT_DAILY_NEWS_APP_ID"
+          test -n "$WECHAT_DAILY_NEWS_APP_SECRET"
+          test -n "$WECHAT_DAILY_NEWS_OPEN_ID"
+          test -n "$WECHAT_DAILY_NEWS_TEMPLATE_ID"
+          node scripts/notify-wechat.mjs

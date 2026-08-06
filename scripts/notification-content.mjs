@@ -7,8 +7,11 @@ export function buildDailyNotification({ result, reportDate, dailyUrl }) {
   const normalizedResult = String(result || "failure").toLowerCase();
   const successful = normalizedResult === "success";
   const cancelled = normalizedResult === "cancelled";
+  const testing = normalizedResult === "test";
   const title = shorten(
-    successful
+    testing
+      ? `${shortDate}日报通知测试`
+      : successful
       ? `${shortDate}日报发布成功`
       : cancelled
         ? `${shortDate}日报运行取消`
@@ -16,7 +19,9 @@ export function buildDailyNotification({ result, reportDate, dailyUrl }) {
     TITLE_LIMIT
   );
   const summary = shorten(
-    successful
+    testing
+      ? `微信提醒已连通：${dailyUrl}`
+      : successful
       ? `含15条新闻：${dailyUrl}`
       : cancelled
         ? `运行已取消：${dailyUrl}`

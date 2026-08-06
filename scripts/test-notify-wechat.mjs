@@ -30,4 +30,14 @@ const failure = buildWechatPayload({
 assert.equal(failure.title, "8月5日日报发布失败");
 assert.match(failure.summary, /^请检查运行：/);
 
+const testMessage = buildWechatPayload({
+  result: "test",
+  reportDate: "2026-08-06",
+  dailyUrl: "https://daily.2077.fun",
+  openId: "test-open-id",
+  templateId: "test-template-id"
+});
+assert.equal(testMessage.title, "8月6日日报通知测试");
+assert.equal(testMessage.summary, "微信提醒已连通：https://daily.2077.fun");
+
 console.log("WeChat notification tests passed.");

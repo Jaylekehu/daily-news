@@ -60,6 +60,9 @@ GitHub Actions
 消息卡片会链接到 `https://daily.2077.fun`。首次配置后需要在微信客户端确认动态标题、
 通知内容和链接均能正常显示。
 
+可以在 GitHub Actions 中手动运行 `WeChat notification test`，单独验证微信提醒，
+不会重新生成日报或登录 ECS。
+
 ## ECS 目录
 
 - 站点目录：`/var/www/daily-news`
