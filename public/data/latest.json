@@ -1,175 +1,175 @@
 {
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T05:43:41.509Z",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T05:38:32.554Z",
   "meta": {
     "hotTrendCandidates": 0,
     "hotTrendItems": 0
   },
   "items": [
     {
-      "date": "2026-10-10",
-      "domain": "财经",
-      "title": "财政部：将实施更加积极的财政政策 加力扩大内需",
-      "subtitle": "财政部报告显示上半年财政运行平稳向好，下一步将有力有效实施更加积极的财政政策。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/10/ARTIbs0MplDSVFSWKiSnblg3261010.shtml",
-      "region": "domestic",
+      "date": "2026-10-11",
+      "domain": "国际",
+      "title": "沙特首都利雅得机场遭袭 已致12死309伤",
+      "subtitle": "中新网报道称，沙特首都利雅得机场遇袭，已造成12人死亡、309人受伤。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-11/10710919.shtml",
+      "region": "international",
       "priority": 1,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "财经",
-      "title": "中共中央 国务院关于发展新质生产力的意见",
-      "subtitle": "《意见》印发，坚持创新主导、改革为要，推动人工智能赋能千行百业转型升级。",
+      "date": "2026-10-11",
+      "domain": "国际",
+      "title": "中国地震台网：巴拿马发生7.6级地震",
+      "subtitle": "中国地震台网测定巴拿马发生7.6级地震，新华社发布了相关消息。",
       "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/politics/20261009/37bc898ce93f4c0899e926039f842891/c.html",
-      "region": "domestic",
+      "sourceUrl": "https://www.news.cn/photo/20261010/df80e2b99d1846a4920977310e1586ff/c.html",
+      "region": "international",
       "priority": 2,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "互联网",
+      "date": "2026-10-11",
+      "domain": "交通",
+      "title": "全国铁路10月11日起实行新的列车运行图",
+      "subtitle": "新华社消息显示，全国铁路自10月11日起启用新的列车运行图，运输组织相应调整。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261010/f9590003c48c4e67a813e50fc2accdc4/c.html",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-10-11T05:38:32.554Z"
+    },
+    {
+      "date": "2026-10-11",
+      "domain": "其他",
       "title": "我国成功发射卫星互联网低轨27组卫星",
-      "subtitle": "新华社报道，此次发射推进卫星互联网低轨星座组网建设。",
+      "subtitle": "新华社发布消息称，我国成功发射卫星互联网低轨27组卫星。",
       "sourceName": "新华社",
       "sourceUrl": "https://www.news.cn/photo/20261010/2ed0868f63a840c68c4a8adcb3275d9a/c.html",
       "region": "domestic",
-      "priority": 3,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
-    },
-    {
-      "date": "2026-10-10",
-      "domain": "其他",
-      "title": "中国天眼发现世界首例尚在演化的原生脉冲星三体",
-      "subtitle": "中国天眼（FAST）发现世界首例尚在演化的原生脉冲星三体系统。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/tech/20261009/28864da4aaf94e1b943b7be075de4bd8/c.html",
-      "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "民生",
-      "title": "人社部：力争“十五五”时期工伤保险参保达3.45亿人",
-      "subtitle": "人社部提出“十五五”时期工伤保险参保目标，扩大工伤保险覆盖范围。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/10-10/10710127.shtml",
+      "date": "2026-10-11",
+      "domain": "交通",
+      "title": "9月我国共新开15条国际航空货运航线",
+      "subtitle": "中国物流与采购联合会航空物流分会数据显示，9月全国新开15条国际航空货运航线，每周往返航班42个。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/11/VIDEsK2FmQ1EgeHTHbWG53mP261011.shtml",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "互联网",
-      "title": "商务部电子商务司负责人解读《关于实施品质电商“五优”行动的通知》",
-      "subtitle": "商务部解读品质电商“五优”行动，推动电子商务高质量发展。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-10/10710146.shtml",
+      "date": "2026-10-11",
+      "domain": "民生",
+      "title": "食品安全法迎大修",
+      "subtitle": "新华社报道，食品安全法将迎来较大幅度的修订。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/20261010/b052e5dad3c1456a83ae20b0dc0e843a/c.html",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "互联网",
-      "title": "量子计算公司太一量生8个月融资超10亿元，字节系背景基金入局",
-      "subtitle": "太一量生完成新一轮A轮融资，锦秋基金、沄柏资本等机构参与。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103388508.html",
+      "date": "2026-10-11",
+      "domain": "民生",
+      "title": "国新办发布会聚焦“十五五”就业和社保高质量发展",
+      "subtitle": "国新办举行新闻发布会，介绍“十五五”时期就业和社会保障高质量发展有关情况。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/20261010/6fe8792188c144f0ab661a10156d7eae/c.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "交通",
-      "title": "三峡水运新通道葛洲坝航运扩能主体工程开工",
-      "subtitle": "上下游围堰启动施工，为万吨级新船闸干地施工创造先决条件。",
+      "date": "2026-10-11",
+      "domain": "财经",
+      "title": "人民币汇率被低估了吗？央行政策立场给出答案",
+      "subtitle": "第一财经报道，央行最新政策立场回应了关于人民币汇率水平的相关讨论。",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103388455.html",
+      "sourceUrl": "https://www.yicai.com/news/103388325.html",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "数码",
-      "title": "苹果：在中国逾95%的生产制造已采用可再生能源",
-      "subtitle": "苹果第二期中国清洁能源基金承诺投资总额增至2.12亿美元。",
+      "date": "2026-10-11",
+      "domain": "财经",
+      "title": "约1.8万字中国财政政策半年报有何看点",
+      "subtitle": "第一财经梳理约1.8万字的中国财政政策半年报，解读其中关键表述与政策信号。",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103388453.html",
+      "sourceUrl": "https://www.yicai.com/news/103387928.html",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "财经",
-      "title": "央行行长潘功胜会见法国总统外事顾问博纳",
-      "subtitle": "双方就当前经济金融形势、中法经济金融合作等议题交换意见。",
+      "date": "2026-10-11",
+      "domain": "民生",
+      "title": "多地出台公积金提取新政 提取范围放宽",
+      "subtitle": "南京、苏州已开始受理装修、物业费提取业务，沈阳发布九项优化政策，涉及采暖费等提取范围。",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103388517.html",
+      "sourceUrl": "https://www.yicai.com/brief/103388786.html",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
-      "domain": "国际",
-      "title": "巴拿马发生7.6级地震：一酒店发生坍塌 目击者称有人员被困",
-      "subtitle": "巴拿马发生7.6级地震，一酒店坍塌，目击者称有人员被困。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/shipin/2026/10-10/news1071402.shtml",
-      "region": "international",
+      "date": "2026-10-11",
+      "domain": "民生",
+      "title": "机票酒店价格回落 错峰游进入最佳窗口期",
+      "subtitle": "国庆假期后机票、酒店价格纷纷回落，国内热门城市与出境目的地迎来高性价比出行窗口。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/11/ARTIDCv4kj4Ub2aXsobyLuK3261011.shtml",
+      "region": "domestic",
       "priority": 11,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "domain": "国际",
-      "title": "美国宣布对国际刑事法院实施制裁 国际刑事法院：不会屈服于美方压力",
-      "subtitle": "美国宣布对国际刑事法院实施制裁，国际刑事法院称不会屈服于美方压力。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/shipin/2026/10-10/news1071406.shtml",
-      "region": "international",
-      "priority": 12,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
-    },
-    {
-      "date": "2026-10-10",
-      "domain": "大模型",
-      "title": "路透科技：全球AI与算力领域最新报道",
-      "subtitle": "路透科技频道持续发布人工智能、芯片、算力及AI监管相关新闻。",
+      "title": "路透科技频道：人工智能与芯片报道聚合页",
+      "subtitle": "路透社科技条线持续更新人工智能、芯片与算力相关报道，是国际科技资讯的主要来源之一。",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
-      "priority": 13,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "priority": 12,
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "domain": "大模型",
-      "title": "TechCrunch AI：人工智能行业动态",
-      "subtitle": "TechCrunch人工智能频道聚焦大模型、初创公司与行业应用。",
+      "title": "The Verge AI 频道：模型与产品动态",
+      "subtitle": "美国科技媒体 The Verge 的人工智能栏目，聚焦大模型产品、平台政策与行业动向。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-11T05:38:32.554Z"
+    },
+    {
+      "date": "2026-10-11",
+      "domain": "大模型",
+      "title": "TechCrunch AI：创业与资本视角看大模型",
+      "subtitle": "TechCrunch 人工智能栏目，关注 AI 初创公司融资、产品发布与商业化进展。",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
       "priority": 14,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     },
     {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "domain": "大模型",
-      "title": "OpenAI官方新闻：模型与产品更新",
-      "subtitle": "OpenAI新闻页发布公司公告、模型更新与安全研究等信息。",
+      "title": "OpenAI 官方新闻页：模型与产品更新",
+      "subtitle": "OpenAI 官方新闻发布渠道，对外公布模型、产品与安全政策等最新信息。",
       "sourceName": "OpenAI Blog",
       "sourceUrl": "https://openai.com/news/",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-10-10T05:43:41.509Z"
+      "generatedAt": "2026-10-11T05:38:32.554Z"
     }
   ]
 }
