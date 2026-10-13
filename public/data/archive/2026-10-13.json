@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T06:42:14.744Z",
+  "meta": {
+    "hotTrendCandidates": 0,
+    "hotTrendItems": 0
+  },
+  "items": [
+    {
+      "date": "2026-10-13",
+      "domain": "民生",
+      "title": "习近平出席全国卫生与健康大会并发表重要讲话",
+      "subtitle": "大会部署健康中国建设任务，明确“十五五”时期相关目标进展要求。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/leaders/20261013/f0943fdf42f8406fa72cea5fd51d3d53/c.html",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "汽车",
+      "title": "中汽协：前9月新能源汽车产销保持两位数增长",
+      "subtitle": "中国汽车工业协会10月12日发布数据，国内市场发展韧性持续显现。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/13/ARTIpc3VdIuKCCwwNtgDjFH7261012.shtml",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "民生",
+      "title": "首批国家公园设立五周年 “美丽国土”交出生态答卷",
+      "subtitle": "五年来总面积达23万平方公里的首批国家公园区域生态保护成效受到关注。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/13/ARTIS154PQ5qDYY6S0iJl40I261013.shtml",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "财经",
+      "title": "第九届进博会首批展品通关进境",
+      "subtitle": "首批展品完成通关进境，成为第九届进博会筹备进展的一部分。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/13/VIDE6D6ykeIsV2F7S56XTo48261013.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "交通",
+      "title": "广西：黄百铁路全线最大跨度连续梁顺利完工",
+      "subtitle": "黄百铁路全线最大跨度连续梁完工，项目建设取得阶段性进展。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/13/VIDEaN3WkEPDaWCKnwHwSwjl261013.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "民生",
+      "title": "蒙古国草原火情逼近我国边境 正在堵截",
+      "subtitle": "境外草原火情逼近我国边境，相关力量正在开展堵截作业。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/13/VIDEQjlfPlqCyG8cn7bWsAsh261013.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "互联网",
+      "title": "抖音：近一年打击仿冒蹭热账号2000余个",
+      "subtitle": "平台称针对仿冒、蹭热账号开展治理，热点低质内容播放量占比持续下降。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103391479.html",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "财经",
+      "title": "1-8月我国服务进出口总额50701.6亿元 同比增7.9%",
+      "subtitle": "商务部服贸司介绍2026年1-8月服务贸易发展情况，服务进出口总额同比增长7.9%。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-13/10713699.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "财经",
+      "title": "《矿产资源目录》发布：我国共有174个矿种",
+      "subtitle": "自然资源部会同国家发展改革委发布目录，进一步明确我国矿产种类数量。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/10-13/10713690.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "数码",
+      "title": "国产芯组团亮相工博会 上海启动新一代智能制造行动",
+      "subtitle": "工博会上国产芯片集中亮相，上海同步启动与新一代智能制造相关的行动。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103390526.html",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "国际",
+      "title": "路透科技频道：人工智能与全球科技产业动态",
+      "subtitle": "路透社科技报道入口，涵盖人工智能产业、芯片与科技政策等议题。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "国际",
+      "title": "The Verge AI 频道：人工智能报道入口",
+      "subtitle": "美国科技媒体The Verge的人工智能栏目，汇集AI产品与应用相关报道。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "大模型",
+      "title": "TechCrunch AI：人工智能创业与资本动态",
+      "subtitle": "TechCrunch人工智能栏目，关注AI初创企业、融资与产业动态。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "大模型",
+      "title": "OpenAI 官方新闻：模型与产品动态发布",
+      "subtitle": "OpenAI官方新闻页面，用于发布模型、产品与公司相关动态。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    },
+    {
+      "date": "2026-10-13",
+      "domain": "大模型",
+      "title": "Anthropic 官方新闻：AI 研究与安全动态",
+      "subtitle": "Anthropic官方新闻页面，发布模型研究与人工智能安全相关动态。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-10-13T06:42:14.744Z"
+    }
+  ]
+}
