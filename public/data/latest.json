@@ -1,175 +1,180 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T06:42:14.744Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T04:45:36.809Z",
   "meta": {
-    "hotTrendCandidates": 0,
-    "hotTrendItems": 0
+    "hotTrendCandidates": 3,
+    "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "domain": "民生",
       "title": "习近平出席全国卫生与健康大会并发表重要讲话",
-      "subtitle": "大会部署健康中国建设任务，明确“十五五”时期相关目标进展要求。",
+      "subtitle": "新华社报道，全国卫生与健康大会对健康中国建设作出部署，相关评论提出确保取得决定性进展。",
       "sourceName": "新华社",
       "sourceUrl": "https://www.news.cn/politics/leaders/20261013/f0943fdf42f8406fa72cea5fd51d3d53/c.html",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
-      "domain": "汽车",
-      "title": "中汽协：前9月新能源汽车产销保持两位数增长",
-      "subtitle": "中国汽车工业协会10月12日发布数据，国内市场发展韧性持续显现。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/13/ARTIpc3VdIuKCCwwNtgDjFH7261012.shtml",
+      "date": "2026-10-14",
+      "domain": "财经",
+      "title": "前三季度中国进出口总值同比增长18.8%",
+      "subtitle": "中新网报道，前三季度中国进出口总值同比增长18.8%。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-14/10714285.shtml",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "domain": "民生",
-      "title": "首批国家公园设立五周年 “美丽国土”交出生态答卷",
-      "subtitle": "五年来总面积达23万平方公里的首批国家公园区域生态保护成效受到关注。",
+      "title": "农业农村部：全国秋粮收获过六成",
+      "subtitle": "据农业农村部农情调度，黄淮海和西北过七成，东北和长江中下游过半，华南近三成。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/13/ARTIS154PQ5qDYY6S0iJl40I261013.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/10/14/ARTI9I7QqshGxa4iy2vvBno5261014.shtml",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "domain": "财经",
-      "title": "第九届进博会首批展品通关进境",
-      "subtitle": "首批展品完成通关进境，成为第九届进博会筹备进展的一部分。",
+      "title": "电商物流指数上行 线上消费活力释放",
+      "subtitle": "中国物流与采购联合会数据显示，9月中国电商物流指数111.9点，环比回升0.4点。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/13/VIDE6D6ykeIsV2F7S56XTo48261013.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/10/14/ARTIsYRQFyyWJFjUVYQXsLbI261014.shtml",
       "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
-      "domain": "交通",
-      "title": "广西：黄百铁路全线最大跨度连续梁顺利完工",
-      "subtitle": "黄百铁路全线最大跨度连续梁完工，项目建设取得阶段性进展。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/13/VIDEaN3WkEPDaWCKnwHwSwjl261013.shtml",
+      "date": "2026-10-14",
+      "domain": "汽车",
+      "title": "中国汽车工业协会：欢迎并支持中欧混动汽车、电动汽车磋商共识",
+      "subtitle": "中汽协表示愿继续发挥桥梁纽带作用，支持中欧在贸易投资磋商机制下相向而行。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-14/10714301.shtml",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
-      "domain": "民生",
-      "title": "蒙古国草原火情逼近我国边境 正在堵截",
-      "subtitle": "境外草原火情逼近我国边境，相关力量正在开展堵截作业。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/13/VIDEQjlfPlqCyG8cn7bWsAsh261013.shtml",
+      "date": "2026-10-14",
+      "domain": "大模型",
+      "title": "京东工业与AMD签署战略合作，推进工业大模型与智算硬件",
+      "subtitle": "双方在第26届中国国际工业博览会上签约，合作涵盖工业大模型、智能算力与场景应用推广。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103393009.html",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "domain": "互联网",
-      "title": "抖音：近一年打击仿冒蹭热账号2000余个",
-      "subtitle": "平台称针对仿冒、蹭热账号开展治理，热点低质内容播放量占比持续下降。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103391479.html",
+      "title": "中国AI“出海”教种地",
+      "subtitle": "新华社报道，中国人工智能技术走向海外，应用于农业种植等场景。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/local/20261014/c31ec68ef1b74a7f9aa90a77a2f0eeaa/c.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
-      "domain": "财经",
-      "title": "1-8月我国服务进出口总额50701.6亿元 同比增7.9%",
-      "subtitle": "商务部服贸司介绍2026年1-8月服务贸易发展情况，服务进出口总额同比增长7.9%。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-13/10713699.shtml",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
-    },
-    {
-      "date": "2026-10-13",
-      "domain": "财经",
-      "title": "《矿产资源目录》发布：我国共有174个矿种",
-      "subtitle": "自然资源部会同国家发展改革委发布目录，进一步明确我国矿产种类数量。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/10-13/10713690.shtml",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
-    },
-    {
-      "date": "2026-10-13",
-      "domain": "数码",
-      "title": "国产芯组团亮相工博会 上海启动新一代智能制造行动",
-      "subtitle": "工博会上国产芯片集中亮相，上海同步启动与新一代智能制造相关的行动。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103390526.html",
-      "region": "domestic",
-      "priority": 10,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "domain": "国际",
-      "title": "路透科技频道：人工智能与全球科技产业动态",
-      "subtitle": "路透社科技报道入口，涵盖人工智能产业、芯片与科技政策等议题。",
+      "title": "路透社科技频道：国际科技与芯片要闻",
+      "subtitle": "来源为路透社科技频道首页，具体报道与数据以原站为准。",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
-      "priority": 11,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "priority": 8,
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
-      "domain": "国际",
-      "title": "The Verge AI 频道：人工智能报道入口",
-      "subtitle": "美国科技媒体The Verge的人工智能栏目，汇集AI产品与应用相关报道。",
+      "date": "2026-10-14",
+      "domain": "大模型",
+      "title": "The Verge AI 频道：人工智能领域最新报道",
+      "subtitle": "来源为该频道首页，聚焦人工智能领域报道，具体内容以原站为准。",
       "sourceName": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "region": "international",
-      "priority": 12,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "priority": 9,
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "domain": "大模型",
-      "title": "TechCrunch AI：人工智能创业与资本动态",
-      "subtitle": "TechCrunch人工智能栏目，关注AI初创企业、融资与产业动态。",
+      "title": "TechCrunch AI 频道：AI 产业与创业动态",
+      "subtitle": "来源为该频道首页，关注AI产业与创业动态，具体内容以原站为准。",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
-      "priority": 13,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "priority": 10,
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "domain": "大模型",
-      "title": "OpenAI 官方新闻：模型与产品动态发布",
-      "subtitle": "OpenAI官方新闻页面，用于发布模型、产品与公司相关动态。",
+      "title": "OpenAI 官方新闻页：模型与产品更新",
+      "subtitle": "来源为OpenAI官方新闻页，发布模型与产品相关更新，具体以原站为准。",
       "sourceName": "OpenAI Blog",
       "sourceUrl": "https://openai.com/news/",
       "region": "international",
-      "priority": 14,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "priority": 11,
+      "generatedAt": "2026-10-14T04:45:36.809Z"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "domain": "大模型",
-      "title": "Anthropic 官方新闻：AI 研究与安全动态",
-      "subtitle": "Anthropic官方新闻页面，发布模型研究与人工智能安全相关动态。",
+      "title": "Anthropic 官方新闻页：模型与安全动态",
+      "subtitle": "来源为Anthropic官方新闻页，涉及模型与安全动态，具体以原站为准。",
       "sourceName": "Anthropic News",
       "sourceUrl": "https://www.anthropic.com/news",
       "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-10-14T04:45:36.809Z"
+    },
+    {
+      "date": "2026-10-14",
+      "domain": "国际",
+      "title": "法国数百家超市制冷系统遭网络攻击",
+      "subtitle": "央视新闻视频报道，法国数百家超市制冷系统遭到网络攻击。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/14/VIDEe4mNLgRp7fYo048Sa3Xu261014.shtml",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-14T04:45:36.809Z"
+    },
+    {
+      "date": "2026-10-14",
+      "domain": "财经",
+      "title": "能源价格推升CPI同比涨幅，下阶段走势如何",
+      "subtitle": "第一财经报道，能源价格推升CPI同比涨幅，市场关注下阶段走势。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103392740.html",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-10-14T04:45:36.809Z"
+    },
+    {
+      "date": "2026-10-14",
+      "domain": "数码",
+      "title": "两个潮汕人干出1100亿芯片王国",
+      "subtitle": "该话题位列今日头条热榜第7位，涉及国产芯片产业。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7696333403519471123",
+      "region": "domestic",
       "priority": 15,
-      "generatedAt": "2026-10-13T06:42:14.744Z"
+      "generatedAt": "2026-10-14T04:45:36.809Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "今日头条热榜"
+      ],
+      "trendRank": 7
     }
   ]
 }
