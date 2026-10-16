@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T04:23:09.525Z",
+  "meta": {
+    "hotTrendCandidates": 0,
+    "hotTrendItems": 0
+  },
+  "items": [
+    {
+      "date": "2026-10-16",
+      "domain": "大模型",
+      "title": "路透科技频道：AI 与算力产业动态",
+      "subtitle": "路透科技频道汇总全球科技报道，持续关注人工智能、算力与芯片产业进展。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 1,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "大模型",
+      "title": "TechCrunch AI：全球人工智能创投与产品动态",
+      "subtitle": "该频道聚焦人工智能创业公司与产品发布，反映全球 AI 商业化动向。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "大模型",
+      "title": "Anthropic News：模型安全与 AI 治理动态",
+      "subtitle": "Anthropic 官方新闻页发布模型安全、AI 治理与前沿研究相关更新。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "国际",
+      "title": "俄罗斯堪察加半岛发生6.9级地震",
+      "subtitle": "中国地震台网正式测定，震源深度150千米。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-16/10715563.shtml",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "国际",
+      "title": "美国俄勒冈州一小学发生枪击事件 至少5人身亡",
+      "subtitle": "事件造成至少5人身亡，详情及后续调查仍在更新中。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-16/10715546.shtml",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "国际",
+      "title": "也门亚丁总统府遭袭已致5死",
+      "subtitle": "联合国安理会谴责胡塞武装袭击沙特。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-16/10715549.shtml",
+      "region": "international",
+      "priority": 6,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "财经",
+      "title": "第140届广交会开展 展品紧扣“新、绿、智”",
+      "subtitle": "本届广交会10月15日在广州开展，展期持续到11月4日，吸引全球客商洽谈对接。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/16/ARTIsTkG9uPH8qK4J5I46HRs261015.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "民生",
+      "title": "我国首个全链条绿色低碳乙烯工程投入商业运营",
+      "subtitle": "该工程进入全面商业运营阶段，体现绿色低碳转型方向。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/16/VIDEX6LVEMCaXFQ0ciYTbuRl261016.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "交通",
+      "title": "铁路车次编排将调整 新增X字头动车组",
+      "subtitle": "全国铁路列车车次将于11月下旬、12月下旬分两批调整，新增X字头用于更高时速动车组。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103396352.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "财经",
+      "title": "存款利率普遍上调 5年期涨幅最高",
+      "subtitle": "本轮存款利率调整中，5年期品种涨幅最高。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103396406.html",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "财经",
+      "title": "楼市新政 四大一线城市已全部落地",
+      "subtitle": "四个一线城市均已落地新一轮楼市新政。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103395361.html",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "互联网",
+      "title": "“十四五”时期中国网络文学营收实现翻番",
+      "subtitle": "网络文学产业提质与出海提速，营收较“十四五”初期实现翻番。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-16/10715535.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "民生",
+      "title": "应急管理部：20项措施强化烟花爆竹全链条监管",
+      "subtitle": "应急管理部部署整治烟花爆竹违法乱象，强化全链条监管。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/10-16/10715533.shtml",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "民生",
+      "title": "中国夏粮旺季收购结束 收购小麦1.09亿吨",
+      "subtitle": "今年夏粮旺季收购顺利结束，小麦收购量达1.09亿吨。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-16/10715547.shtml",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    },
+    {
+      "date": "2026-10-16",
+      "domain": "财经",
+      "title": "A股午评：超4800只个股飘红 三大指数集体收涨",
+      "subtitle": "当日午间A股超4800只个股上涨，三大指数集体收涨。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-16/10715562.shtml",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-10-16T04:23:09.525Z"
+    }
+  ]
+}
