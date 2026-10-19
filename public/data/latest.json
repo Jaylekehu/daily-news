@@ -1,175 +1,175 @@
 {
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T04:22:02.635Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T04:31:31.551Z",
   "meta": {
-    "hotTrendCandidates": 0,
+    "hotTrendCandidates": 3,
     "hotTrendItems": 0
   },
   "items": [
     {
-      "date": "2026-10-18",
-      "domain": "民生",
-      "title": "12345热线7年受理诉求超2亿件",
-      "subtitle": "央视新闻报道，热线成为城市治理的重要入口，群众诉求有人接、有人办，办理程序公开透明",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/18/ARTIcg9L9aHELhbXMv7WE9Oz261018.shtml",
+      "date": "2026-10-19",
+      "domain": "财经",
+      "title": "前三季度中国GDP同比增长4.6%",
+      "subtitle": "中新网报道，前三季度GDP同比增长4.6%，经济增速与投资走势受到关注。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-19/10717087.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
+      "generatedAt": "2026-10-19T04:31:31.551Z"
     },
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "domain": "大模型",
-      "title": "我国首个十万卡AI超集群“能装一个宇宙”",
-      "subtitle": "央视新闻报道聚焦国内十万卡级AI算力集群建设进展，反映国产算力基础设施持续扩容",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/18/VIDEh9e0gkpWaKjFdaSM3i9r261018.shtml",
+      "title": "国家统计局：“人工智能+”行动带动新兴领域投资和出口",
+      "subtitle": "国家统计局在国新办发布会上表示，“人工智能+”行动对相关投资和出口形成有力带动。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103398573.html",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
+      "generatedAt": "2026-10-19T04:31:31.551Z"
     },
     {
-      "date": "2026-10-18",
-      "domain": "互联网",
-      "title": "AI手机“一句话办事”为何被各大应用说“不”",
-      "subtitle": "中新网报道称，AI手机希望以一句话完成跨应用操作，却遭遇多家应用方拒绝",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/10-18/10716588.shtml",
+      "date": "2026-10-19",
+      "domain": "大模型",
+      "title": "前三季度深圳集成电路等AI相关零部件进出口规模居全国首位",
+      "subtitle": "广东省新闻发布会披露，深圳外贸保持高位运行，AI相关零部件进出口表现突出。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103398625.html",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
+      "generatedAt": "2026-10-19T04:31:31.551Z"
     },
     {
-      "date": "2026-10-18",
-      "domain": "交通",
-      "title": "老年旅客购买“敬”字票可享“折上折”",
-      "subtitle": "年满60周岁及以上老年人购买10月18日至12月30日标注“敬”字车次的火车票可享票价优惠",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/18/ARTIO6ZAFoSFr3W2PeaaSBPm261018.shtml",
-      "region": "domestic",
-      "priority": 4,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
-    },
-    {
-      "date": "2026-10-18",
-      "domain": "交通",
-      "title": "前三季度全国铁路发送旅客37.1亿人次",
-      "subtitle": "国铁集团数据显示，同比增长4.8%，创历史同期新高",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103397834.html",
-      "region": "domestic",
-      "priority": 5,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
-    },
-    {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "domain": "民生",
-      "title": "农业农村部：全国秋粮收获过七成",
-      "subtitle": "央视新闻报道显示，主产区秋粮收获进度已过七成，秋收工作持续推进",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/18/VIDEIrvlp3RtKdmex1TIXYFH261018.shtml",
-      "region": "domestic",
-      "priority": 6,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
-    },
-    {
-      "date": "2026-10-18",
-      "domain": "财经",
-      "title": "藏粤直流工程提速 广西段首基塔开始浇筑",
-      "subtitle": "藏东南至粤港澳大湾区±800千伏特高压直流工程被称为“绿电天路”，线路建设全面加速",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/18/ARTIcAvc00e0vTJIQmvvrNZQ261017.shtml",
-      "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
-    },
-    {
-      "date": "2026-10-18",
-      "domain": "大模型",
-      "title": "黄仁勋称AI市场震荡将会过去",
-      "subtitle": "第一财经报道，英伟达CEO密集展开欧洲行程，持续对外释放对AI产业的信心",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103397600.html",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
-    },
-    {
-      "date": "2026-10-18",
-      "domain": "财经",
       "title": "应届生涌向机器人秋招：年薪50万元成“白菜价”",
-      "subtitle": "第一财经报道，机器人企业秋招竞争激烈，高薪标注背后正式offer并不好拿",
+      "subtitle": "机器人行业秋招升温，高薪岗位竞争激烈，正式offer并不容易拿到。",
       "sourceName": "第一财经",
       "sourceUrl": "https://www.yicai.com/news/103397521.html",
       "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
+      "priority": 4,
+      "generatedAt": "2026-10-19T04:31:31.551Z"
     },
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
+      "domain": "数码",
+      "title": "消费电子焕新出彩 制造业迈向高端",
+      "subtitle": "央视报道关注消费电子产业升级，制造业向高端化迈进。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/19/VIDEdxIUwr5xQarUkWiflmj2261019.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-10-19T04:31:31.551Z"
+    },
+    {
+      "date": "2026-10-19",
+      "domain": "交通",
+      "title": "哈尔滨机场2026年旅客吞吐量突破2000万人次",
+      "subtitle": "中新网报道，哈尔滨机场年度旅客吞吐量突破2000万人次，显示航空出行需求持续恢复。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-19/10717069.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-10-19T04:31:31.551Z"
+    },
+    {
+      "date": "2026-10-19",
       "domain": "民生",
-      "title": "超强台风“蔷琵”达17级并向台湾以东靠近",
-      "subtitle": "据央视新闻，18日8时台风中心位于关岛西偏南方向约135公里的西北太平洋洋面上",
+      "title": "“老年人口增长 养老床位减少” 为什么？怎么办？",
+      "subtitle": "央视新闻关注老年人口增长与养老床位减少的矛盾，探讨养老服务供给难题。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/19/ARTIygNT3PjQ2CsGqKICgFVn261019.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-10-19T04:31:31.551Z"
+    },
+    {
+      "date": "2026-10-19",
+      "domain": "财经",
+      "title": "建设银行发布“健养安”养老金融新产品",
+      "subtitle": "建设银行推出养老金融新产品，探索金融与养老服务深度融合。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-19/10717060.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-10-19T04:31:31.551Z"
+    },
+    {
+      "date": "2026-10-19",
+      "domain": "财经",
+      "title": "广东：到2030年经济林年产值超1200亿元",
+      "subtitle": "广东提出经济林产业发展目标，推动林业经济与生态效益协同提升。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/dwq/2026/10-19/10717063.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-10-19T04:31:31.551Z"
+    },
+    {
+      "date": "2026-10-19",
+      "domain": "其他",
+      "title": "上海大歌剧院开幕，“中国扇”向世界奏响第一声",
+      "subtitle": "上海大歌剧院正式开幕，以“中国扇”造型亮相并迎来首场演出。",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103397836.html",
+      "sourceUrl": "https://www.yicai.com/news/103397775.html",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
+      "generatedAt": "2026-10-19T04:31:31.551Z"
     },
     {
-      "date": "2026-10-18",
-      "domain": "国际",
-      "title": "路透科技频道：全球AI与芯片产业动态",
-      "subtitle": "来源为路透社科技频道首页，汇集当日人工智能、算力与半导体领域的报道入口",
+      "date": "2026-10-19",
+      "domain": "大模型",
+      "title": "路透科技频道 2026-10-19 人工智能报道汇总",
+      "subtitle": "候选来源为路透科技频道首页，聚焦AI、算力与芯片等国际科技动态。",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
       "priority": 11,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
+      "generatedAt": "2026-10-19T04:31:31.551Z"
     },
     {
-      "date": "2026-10-18",
-      "domain": "国际",
-      "title": "TechCrunch AI频道：全球人工智能创投与模型动态",
-      "subtitle": "来源为TechCrunch人工智能分类页，聚合AI创业公司与大模型产品的最新报道",
+      "date": "2026-10-19",
+      "domain": "大模型",
+      "title": "美联社科技频道 2026-10-19 人工智能报道汇总",
+      "subtitle": "候选来源为美联社科技频道首页，持续更新AI技术与产业相关报道。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-10-19T04:31:31.551Z"
+    },
+    {
+      "date": "2026-10-19",
+      "domain": "大模型",
+      "title": "The Verge AI 频道 2026-10-19 报道汇总",
+      "subtitle": "候选来源为The Verge人工智能频道首页，关注AI产品、模型与行业动态。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-19T04:31:31.551Z"
+    },
+    {
+      "date": "2026-10-19",
+      "domain": "大模型",
+      "title": "TechCrunch AI 频道 2026-10-19 报道汇总",
+      "subtitle": "候选来源为TechCrunch人工智能频道首页，聚焦AI创业、融资与模型应用。",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
-      "priority": 12,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
-    },
-    {
-      "date": "2026-10-18",
-      "domain": "国际",
-      "title": "Anthropic新闻页：模型安全与治理议题入口",
-      "subtitle": "来源为Anthropic官方新闻页，集中发布模型研发、安全与政策相关公告",
-      "sourceName": "Anthropic News",
-      "sourceUrl": "https://www.anthropic.com/news",
-      "region": "international",
-      "priority": 13,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
-    },
-    {
-      "date": "2026-10-18",
-      "domain": "国际",
-      "title": "阿根廷将获德法33.55亿美元融资购买潜艇",
-      "subtitle": "据阿根廷消息社，阿武装部队参谋长联席会议主席17日确认德法将为阿海军购艇提供共同融资",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103397850.html",
-      "region": "international",
       "priority": 14,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
+      "generatedAt": "2026-10-19T04:31:31.551Z"
     },
     {
-      "date": "2026-10-18",
-      "domain": "国际",
-      "title": "沙特联军一直升机因技术故障坠毁 2人死亡",
-      "subtitle": "多国联军表示，一架AH-6I型直升机在沙特奈季兰地区坠毁，造成两名机组人员死亡",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103397845.html",
+      "date": "2026-10-19",
+      "domain": "大模型",
+      "title": "OpenAI 官方博客 2026-10-19 动态汇总",
+      "subtitle": "候选来源为OpenAI官方新闻页面，汇总模型发布与公司动态。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-10-18T04:22:02.635Z"
+      "generatedAt": "2026-10-19T04:31:31.551Z"
     }
   ]
 }
