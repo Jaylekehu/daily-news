@@ -1,175 +1,180 @@
 {
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T04:41:16.511Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T04:35:18.403Z",
   "meta": {
-    "hotTrendCandidates": 1,
-    "hotTrendItems": 0
+    "hotTrendCandidates": 3,
+    "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "domain": "民生",
-      "title": "医保钱包2.0版上线 个人账户跨省共济落地全国",
-      "subtitle": "新版由省内使用扩展至跨省，并覆盖城乡居民医保与长期护理保险参保缴费。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/20/ARTIFqQwygTdmG4hayAWBLbD261020.shtml",
+      "title": "医保个人账户跨省共济全国落地，医保钱包2.0版上线",
+      "subtitle": "国家医保局：全国各省份均已上线运行，职工个人账户资金可按规定用于近亲属就医购药及参保缴费",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2096149013556721446",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 5
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "domain": "财经",
-      "title": "前三季度国内生产总值同比增长4.6%",
-      "subtitle": "国家统计局数据显示，经济运行总体平稳，动能向新、结构向优。",
+      "title": "央行将推多项金融政策，服务实体经济与金融高水平开放",
+      "subtitle": "在2026金融街论坛年会上，中国人民银行宣布将推动出台一系列政策措施",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/20/VIDELU2OdVCQpUmpjyefkUfq261020.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/10/21/ARTI2dpH0VG6MhUer2jl9YkF261020.shtml",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "domain": "财经",
-      "title": "第140届广交会第一期线下展结束 境外采购商数量创新高",
-      "subtitle": "广交会“朋友圈”持续扩容，参展企业含金量同步提升。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/fortune/20261019/86b4111cd3da4d5eb7cb8a01b7b3c3b8/c.html",
+      "title": "我国自主微堆迈入商业化阶段，川企与核动力院共建平台",
+      "subtitle": "10月20日，四川能源发展集团与中国核动力研究设计院在成都联合组建产业平台，微堆技术从实验室走向工程化",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://jingji.cctv.com/2026/10/21/ARTIygUiANWYcFqns3i1ZOB8261020.shtml",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "domain": "财经",
-      "title": "央行明确货币政策目标利率为隔夜利率 金融街论坛发布一揽子新政",
-      "subtitle": "潘功胜在金融街论坛宣布多项政策安排，货币政策操作框架进一步明晰。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103399215.html",
+      "title": "前三季度区域外贸规模均创新高，协同发展动能释放",
+      "subtitle": "央视新闻《感知中国活力》报道，区域外贸增长持续释放区域协同发展动能",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/21/ARTIVQSsSL0rkV3Vwop0BUzd261020.shtml",
       "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
-      "domain": "大模型",
-      "title": "首批水运领域人工智能应用场景指引发布",
-      "subtitle": "聚焦“一网四化”，落实“人工智能+交通运输”实施意见，明确落地场景。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103400431.html",
+      "date": "2026-10-21",
+      "domain": "互联网",
+      "title": "国家数据集团成立，央视解读其标志性意义",
+      "subtitle": "央视新闻节目就国家数据集团成立的标志性意义展开讨论",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/21/VIDEo41zTAN1BCw0R8wKo3QK261021.shtml",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
-      "domain": "交通",
-      "title": "上海国际航空枢纽战略规划发布",
-      "subtitle": "上海市政府与中国民航局在北外滩国际航运论坛联合发布该规划。",
+      "date": "2026-10-21",
+      "domain": "财经",
+      "title": "LPR连续17个月不变，贷款定价“双锚时代”将带来什么",
+      "subtitle": "第一财经聚焦贷款定价机制变化对银行与借款人的影响",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103400441.html",
+      "sourceUrl": "https://www.yicai.com/news/103401281.html",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
-      "domain": "交通",
-      "title": "交通运输部出台方案 分场景推动内河新能源船舶应用",
-      "subtitle": "方案针对内河运输不同场景，加快新能源船舶推广应用。",
+      "date": "2026-10-21",
+      "domain": "民生",
+      "title": "深圳人才房申购条件放宽，社保满1年、无房记录降至3年",
+      "subtitle": "深圳市住房保障署10月21日发布配售公告，90平方米以下房源队列由四个增至五个",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103400436.html",
+      "sourceUrl": "https://www.yicai.com/brief/103402019.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
-      "domain": "数码",
-      "title": "重仅1克 我国科学家研制世界最轻无线介观显微镜",
-      "subtitle": "该成果由国内科研团队完成，相关报道由新华社发布。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/tech/20261019/b9491857c35341c9a0c5ae5505f1a0a2/c.html",
+      "date": "2026-10-21",
+      "domain": "其他",
+      "title": "谷神星一号海射型遥八成功发射，五羊星座先导星入轨",
+      "subtitle": "10月21日11时39分，星河动力航天在山东附近海域完成发射，卫星进入541公里高度轨道",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103402040.html",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
-      "domain": "民生",
-      "title": "多所高校研究生人数超本科生 升学选择更趋理性",
-      "subtitle": "研究生规模扩张背景下，本科毕业生的升学与就业选择出现新变化。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103399263.html",
+      "date": "2026-10-21",
+      "domain": "大模型",
+      "title": "新华网推出AI搜，依托AISO框架打造可信AI搜索服务",
+      "subtitle": "官方介绍称该服务以AISO框架为基础，强调搜索结果的可信性",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/sci-tech/20261020/f30f6f8a24bb49f190885166db3147d7/c.html",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
-      "domain": "财经",
-      "title": "国家金融监督管理总局：依法将所有金融活动全部纳入监管",
-      "subtitle": "监管部门强调监管全覆盖，防范金融风险交叉传染。",
+      "date": "2026-10-21",
+      "domain": "汽车",
+      "title": "专家：盲目追求高倍率充电或不是最优解",
+      "subtitle": "中新网视频节目中，业内人士高焕谈及高倍率充电技术路线的现实边界",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/shipin/2026/10-20/news1072368.shtml",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/shipin/cns-d/2026/10-21/news1072494.shtml",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
-      "domain": "国际",
-      "title": "路透社科技频道：全球AI与芯片产业动态追踪",
-      "subtitle": "候选来源为该频道首页，具体报道与数据以来源页面为准。",
+      "date": "2026-10-21",
+      "domain": "大模型",
+      "title": "路透科技：AI、算力与芯片产业动态追踪",
+      "subtitle": "路透科技频道持续关注人工智能、算力基础设施与半导体供应链动向",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
       "priority": 11,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "domain": "大模型",
-      "title": "The Verge AI频道：模型与AI产品最新报道集纳",
-      "subtitle": "候选来源为频道首页，用于跟踪海外AI产品与平台动向。",
-      "sourceName": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "region": "international",
-      "priority": 12,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
-    },
-    {
-      "date": "2026-10-20",
-      "domain": "大模型",
-      "title": "TechCrunch AI频道：AI创投与模型应用动态",
-      "subtitle": "候选来源为频道首页，聚焦AI创业公司与应用落地信息。",
+      "title": "TechCrunch AI：全球AI创投与大模型产品动态",
+      "subtitle": "该频道聚焦人工智能创业融资、大模型产品发布与应用落地进展",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
-      "priority": 13,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "priority": 12,
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "domain": "大模型",
-      "title": "OpenAI官方博客：模型发布与研究进展更新",
-      "subtitle": "候选来源为官方新闻页首页，具体模型信息以官方页面为准。",
-      "sourceName": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/news/",
-      "region": "international",
-      "priority": 14,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
-    },
-    {
-      "date": "2026-10-20",
-      "domain": "大模型",
-      "title": "Anthropic官方新闻：模型安全与政策进展",
-      "subtitle": "候选来源为官方新闻页首页，用于跟踪模型安全与治理相关发布。",
+      "title": "Anthropic News：模型安全与AI治理动态观察",
+      "subtitle": "该官方新闻页发布模型安全、AI治理与合规方向的官方信息",
       "sourceName": "Anthropic News",
       "sourceUrl": "https://www.anthropic.com/news",
       "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-21T04:35:18.403Z"
+    },
+    {
+      "date": "2026-10-21",
+      "domain": "国际",
+      "title": "以媒：以总理称已下达“推翻伊朗政权”指令",
+      "subtitle": "央视新闻视频报道援引以色列媒体消息，相关表态涉及中东局势",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/21/VIDEx0NkNArM9QrOsEALphhI261021.shtml",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-10-21T04:35:18.403Z"
+    },
+    {
+      "date": "2026-10-21",
+      "domain": "国际",
+      "title": "乌克兰总统表示愿意同美俄举行三方会晤",
+      "subtitle": "中新网报道，乌方就三方会谈形式作出表态",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718367.shtml",
+      "region": "international",
       "priority": 15,
-      "generatedAt": "2026-10-20T04:41:16.511Z"
+      "generatedAt": "2026-10-21T04:35:18.403Z"
     }
   ]
 }
