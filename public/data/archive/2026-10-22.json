@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T04:34:11.555Z",
+  "meta": {
+    "hotTrendCandidates": 4,
+    "hotTrendItems": 3
+  },
+  "items": [
+    {
+      "date": "2026-10-22",
+      "domain": "财经",
+      "title": "央行将退出存贷款基准利率，改用市场化利率指标",
+      "subtitle": "潘功胜在2026金融街论坛年会上表示，存贷款基准利率将逐步被市场化定价基准替代。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2095816410123298108",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-10-22T04:34:11.555Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 22
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "大模型",
+      "title": "腾讯姚顺雨想把DeepSeek卷到加班",
+      "subtitle": "该话题登上今日头条热榜，讨论涉及大模型团队竞争与工作强度。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7697961005829668883",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-10-22T04:34:11.555Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "今日头条热榜"
+      ],
+      "trendRank": 25
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "民生",
+      "title": "超强台风“蔷琵”逼近中国",
+      "subtitle": "中央气象台10月22日06时继续发布台风蓝色预警，预计23日夜间进入东海南部海域。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-10-22T04:34:11.555Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜"
+      ],
+      "trendRank": 23
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "民生",
+      "title": "我国应对气候变化工作取得显著成效",
+      "subtitle": "《中国应对气候变化的政策与行动2026年度报告》发布，报告显示相关成效显著。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/22/ARTICPmRpS5YZvpQVE5bWNqU261022.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "财经",
+      "title": "金融街论坛年会首次设置投资大会并发布多项成果",
+      "subtitle": "2026金融街论坛年会进入第三天，十余场议题活动陆续开展并发布多项成果。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/22/ARTImUC4afJv2vd5NhyDibiF261022.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "交通",
+      "title": "前三季度全国铁路完成固定资产投资6012亿元",
+      "subtitle": "央视新闻10月22日报道，全国铁路前三季度固定资产投资完成6012亿元。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/22/VIDEJ9hAi4ewywFhB4nUyUte261022.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "交通",
+      "title": "中欧班列累计开行突破14万列",
+      "subtitle": "中新网报道，中欧班列累计发送货值超过5600亿美元。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/ydyl/2026/10-22/10718948.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "交通",
+      "title": "港珠澳大桥开通8周年，出入境旅客达1.25亿人次",
+      "subtitle": "中新网报道，大桥开通八年来出入境客流累计达到1.25亿人次。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/dwq/2026/10-22/10718944.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "数码",
+      "title": "芯片人才市场“两头难”：百万年薪一将难求，毕业生入行不易",
+      "subtitle": "第一财经报道，芯片行业高端人才紧缺与毕业生入行门槛并存。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103403665.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "财经",
+      "title": "A股午评：超3900只个股飘绿，三大指数集体收跌",
+      "subtitle": "中新网10月22日午间报道，A股主要指数集体下跌。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-22/10718957.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "大模型",
+      "title": "国际金融协会总裁：AI将以积极方式改变世界",
+      "subtitle": "安德慕就人工智能的社会影响发表看法，认为AI将带来积极改变。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-22/10718923.shtml",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "大模型",
+      "title": "OpenAI官方新闻页汇总模型发布与安全研究动态",
+      "subtitle": "该页面集中呈现OpenAI的模型、产品与安全研究相关公告，具体内容以原文为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "大模型",
+      "title": "Anthropic新闻页聚焦模型安全与政策研究",
+      "subtitle": "页面汇集Anthropic的公司动态、模型安全与政策相关发布，具体内容以原文为准。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "国际",
+      "title": "美媒：美以制定计划，拟美国中期选举后再次打击伊朗",
+      "subtitle": "中新网10月22日援引美媒报道，相关计划涉及美国中期选举后的行动安排。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    },
+    {
+      "date": "2026-10-22",
+      "domain": "国际",
+      "title": "美国俄亥俄州化学品储罐泄漏，近千人撤离",
+      "subtitle": "报道称托莱多市一个化学品储罐破裂导致有毒气体泄漏，近1000名居民撤离，超过5万人被要求室内避险。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103403914.html",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-10-22T04:34:11.555Z"
+    }
+  ]
+}

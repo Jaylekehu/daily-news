@@ -1,180 +1,190 @@
 {
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T04:35:18.403Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T04:34:11.555Z",
   "meta": {
-    "hotTrendCandidates": 3,
-    "hotTrendItems": 1
+    "hotTrendCandidates": 4,
+    "hotTrendItems": 3
   },
   "items": [
     {
-      "date": "2026-10-21",
-      "domain": "民生",
-      "title": "医保个人账户跨省共济全国落地，医保钱包2.0版上线",
-      "subtitle": "国家医保局：全国各省份均已上线运行，职工个人账户资金可按规定用于近亲属就医购药及参保缴费",
+      "date": "2026-10-22",
+      "domain": "财经",
+      "title": "央行将退出存贷款基准利率，改用市场化利率指标",
+      "subtitle": "潘功胜在2026金融街论坛年会上表示，存贷款基准利率将逐步被市场化定价基准替代。",
       "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2096149013556721446",
+      "sourceUrl": "https://www.zhihu.com/question/2095816410123298108",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-10-21T04:35:18.403Z",
+      "generatedAt": "2026-10-22T04:34:11.555Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
         "知乎热榜"
       ],
-      "trendRank": 5
+      "trendRank": 22
     },
     {
-      "date": "2026-10-21",
-      "domain": "财经",
-      "title": "央行将推多项金融政策，服务实体经济与金融高水平开放",
-      "subtitle": "在2026金融街论坛年会上，中国人民银行宣布将推动出台一系列政策措施",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/21/ARTI2dpH0VG6MhUer2jl9YkF261020.shtml",
+      "date": "2026-10-22",
+      "domain": "大模型",
+      "title": "腾讯姚顺雨想把DeepSeek卷到加班",
+      "subtitle": "该话题登上今日头条热榜，讨论涉及大模型团队竞争与工作强度。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7697961005829668883",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "今日头条热榜"
+      ],
+      "trendRank": 25
     },
     {
-      "date": "2026-10-21",
-      "domain": "财经",
-      "title": "我国自主微堆迈入商业化阶段，川企与核动力院共建平台",
-      "subtitle": "10月20日，四川能源发展集团与中国核动力研究设计院在成都联合组建产业平台，微堆技术从实验室走向工程化",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://jingji.cctv.com/2026/10/21/ARTIygUiANWYcFqns3i1ZOB8261020.shtml",
+      "date": "2026-10-22",
+      "domain": "民生",
+      "title": "超强台风“蔷琵”逼近中国",
+      "subtitle": "中央气象台10月22日06时继续发布台风蓝色预警，预计23日夜间进入东海南部海域。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜"
+      ],
+      "trendRank": 23
     },
     {
-      "date": "2026-10-21",
-      "domain": "财经",
-      "title": "前三季度区域外贸规模均创新高，协同发展动能释放",
-      "subtitle": "央视新闻《感知中国活力》报道，区域外贸增长持续释放区域协同发展动能",
+      "date": "2026-10-22",
+      "domain": "民生",
+      "title": "我国应对气候变化工作取得显著成效",
+      "subtitle": "《中国应对气候变化的政策与行动2026年度报告》发布，报告显示相关成效显著。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/21/ARTIVQSsSL0rkV3Vwop0BUzd261020.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/10/22/ARTICPmRpS5YZvpQVE5bWNqU261022.shtml",
       "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
-      "domain": "互联网",
-      "title": "国家数据集团成立，央视解读其标志性意义",
-      "subtitle": "央视新闻节目就国家数据集团成立的标志性意义展开讨论",
+      "date": "2026-10-22",
+      "domain": "财经",
+      "title": "金融街论坛年会首次设置投资大会并发布多项成果",
+      "subtitle": "2026金融街论坛年会进入第三天，十余场议题活动陆续开展并发布多项成果。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/21/VIDEo41zTAN1BCw0R8wKo3QK261021.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/10/22/ARTImUC4afJv2vd5NhyDibiF261022.shtml",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
-      "domain": "财经",
-      "title": "LPR连续17个月不变，贷款定价“双锚时代”将带来什么",
-      "subtitle": "第一财经聚焦贷款定价机制变化对银行与借款人的影响",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103401281.html",
+      "date": "2026-10-22",
+      "domain": "交通",
+      "title": "前三季度全国铁路完成固定资产投资6012亿元",
+      "subtitle": "央视新闻10月22日报道，全国铁路前三季度固定资产投资完成6012亿元。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/22/VIDEJ9hAi4ewywFhB4nUyUte261022.shtml",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
-      "domain": "民生",
-      "title": "深圳人才房申购条件放宽，社保满1年、无房记录降至3年",
-      "subtitle": "深圳市住房保障署10月21日发布配售公告，90平方米以下房源队列由四个增至五个",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103402019.html",
+      "date": "2026-10-22",
+      "domain": "交通",
+      "title": "中欧班列累计开行突破14万列",
+      "subtitle": "中新网报道，中欧班列累计发送货值超过5600亿美元。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/ydyl/2026/10-22/10718948.shtml",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
-      "domain": "其他",
-      "title": "谷神星一号海射型遥八成功发射，五羊星座先导星入轨",
-      "subtitle": "10月21日11时39分，星河动力航天在山东附近海域完成发射，卫星进入541公里高度轨道",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103402040.html",
+      "date": "2026-10-22",
+      "domain": "交通",
+      "title": "港珠澳大桥开通8周年，出入境旅客达1.25亿人次",
+      "subtitle": "中新网报道，大桥开通八年来出入境客流累计达到1.25亿人次。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/dwq/2026/10-22/10718944.shtml",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
-      "domain": "大模型",
-      "title": "新华网推出AI搜，依托AISO框架打造可信AI搜索服务",
-      "subtitle": "官方介绍称该服务以AISO框架为基础，强调搜索结果的可信性",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/sci-tech/20261020/f30f6f8a24bb49f190885166db3147d7/c.html",
+      "date": "2026-10-22",
+      "domain": "数码",
+      "title": "芯片人才市场“两头难”：百万年薪一将难求，毕业生入行不易",
+      "subtitle": "第一财经报道，芯片行业高端人才紧缺与毕业生入行门槛并存。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103403665.html",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
-      "domain": "汽车",
-      "title": "专家：盲目追求高倍率充电或不是最优解",
-      "subtitle": "中新网视频节目中，业内人士高焕谈及高倍率充电技术路线的现实边界",
+      "date": "2026-10-22",
+      "domain": "财经",
+      "title": "A股午评：超3900只个股飘绿，三大指数集体收跌",
+      "subtitle": "中新网10月22日午间报道，A股主要指数集体下跌。",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/shipin/cns-d/2026/10-21/news1072494.shtml",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-22/10718957.shtml",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "domain": "大模型",
-      "title": "路透科技：AI、算力与芯片产业动态追踪",
-      "subtitle": "路透科技频道持续关注人工智能、算力基础设施与半导体供应链动向",
-      "sourceName": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "title": "国际金融协会总裁：AI将以积极方式改变世界",
+      "subtitle": "安德慕就人工智能的社会影响发表看法，认为AI将带来积极改变。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-22/10718923.shtml",
       "region": "international",
       "priority": 11,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "domain": "大模型",
-      "title": "TechCrunch AI：全球AI创投与大模型产品动态",
-      "subtitle": "该频道聚焦人工智能创业融资、大模型产品发布与应用落地进展",
-      "sourceName": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "title": "OpenAI官方新闻页汇总模型发布与安全研究动态",
+      "subtitle": "该页面集中呈现OpenAI的模型、产品与安全研究相关公告，具体内容以原文为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
       "region": "international",
       "priority": 12,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "domain": "大模型",
-      "title": "Anthropic News：模型安全与AI治理动态观察",
-      "subtitle": "该官方新闻页发布模型安全、AI治理与合规方向的官方信息",
+      "title": "Anthropic新闻页聚焦模型安全与政策研究",
+      "subtitle": "页面汇集Anthropic的公司动态、模型安全与政策相关发布，具体内容以原文为准。",
       "sourceName": "Anthropic News",
       "sourceUrl": "https://www.anthropic.com/news",
       "region": "international",
       "priority": 13,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "domain": "国际",
-      "title": "以媒：以总理称已下达“推翻伊朗政权”指令",
-      "subtitle": "央视新闻视频报道援引以色列媒体消息，相关表态涉及中东局势",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/21/VIDEx0NkNArM9QrOsEALphhI261021.shtml",
+      "title": "美媒：美以制定计划，拟美国中期选举后再次打击伊朗",
+      "subtitle": "中新网10月22日援引美媒报道，相关计划涉及美国中期选举后的行动安排。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
       "region": "international",
       "priority": 14,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "domain": "国际",
-      "title": "乌克兰总统表示愿意同美俄举行三方会晤",
-      "subtitle": "中新网报道，乌方就三方会谈形式作出表态",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718367.shtml",
+      "title": "美国俄亥俄州化学品储罐泄漏，近千人撤离",
+      "subtitle": "报道称托莱多市一个化学品储罐破裂导致有毒气体泄漏，近1000名居民撤离，超过5万人被要求室内避险。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103403914.html",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-10-21T04:35:18.403Z"
+      "generatedAt": "2026-10-22T04:34:11.555Z"
     }
   ]
 }
