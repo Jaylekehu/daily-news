@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T04:39:27.427Z",
+  "meta": {
+    "hotTrendCandidates": 5,
+    "hotTrendItems": 0
+  },
+  "items": [
+    {
+      "date": "2026-10-23",
+      "domain": "民生",
+      "title": "西藏那曲市巴青县发生7.0级地震",
+      "subtitle": "地震发生后，国家发展改革委紧急安排3000万元中央预算内投资，支持灾区应急恢复。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/23/VIDENLAL0s0ikG6ektNQbYgM261023.shtml",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "民生",
+      "title": "西藏巴青7.0级地震受伤人数升至65人",
+      "subtitle": "截至今日10时，地震已造成65人受伤，其中重伤11人、轻伤54人，现场排查仍在继续。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103405997.html",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "民生",
+      "title": "两部门拨付5000万元中央自然灾害救灾资金支持西藏抢险救灾",
+      "subtitle": "资金用于支持西藏地震灾区开展抢险救灾工作。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/10-23/10719621.shtml",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "民生",
+      "title": "台风“蔷琵”逼近 福建提升防台风应急响应至三级",
+      "subtitle": "福建将防台风应急响应提升至三级，沿海地区加强防范应对。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/23/VIDEJo0AgwXY4SnXK5mlhYGi261023.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "国际",
+      "title": "中国外交部：在台湾问题上没有“灰色地带”",
+      "subtitle": "针对菲律宾与台湾在某些领域的不良互动，发言人毛宁在例行记者会上重申中方一贯立场。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/23/ARTI0wk9w3CEJLWZcnSKLhi0261023.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "财经",
+      "title": "首批18只主动ETF今日在沪深交易所发售",
+      "subtitle": "这是我国ETF市场二十多年发展进程中的一次重要产品创新。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-23/10719622.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "财经",
+      "title": "前三季度中国造船三大指标全面增长",
+      "subtitle": "国际市场份额保持全球领先，造船业景气度延续。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-23/10719624.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "汽车",
+      "title": "大厂抢滩换电，但这门生意还没算平账",
+      "subtitle": "换电模式吸引多家企业布局，盈利模式与成本分摊仍待厘清。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103404803.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "大模型",
+      "title": "芯片人才市场“两头难”：百万年薪难求一将",
+      "subtitle": "高端芯片人才稀缺与毕业生入行门槛高并存，人才结构矛盾突出。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103403665.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "互联网",
+      "title": "“AI小海”收割老年人，平台审核不能“打地鼠”",
+      "subtitle": "面向老年人的AI营销内容乱象引发关注，平台审核机制亟待完善。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-23/10719601.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "大模型",
+      "title": "OpenAI官方博客：大模型与产品动态汇总页",
+      "subtitle": "该页面为OpenAI官方新闻入口，集中呈现模型更新、研究进展与产品公告；本条来源为频道首页。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "大模型",
+      "title": "Anthropic官方新闻页：Claude模型与安全研究动态",
+      "subtitle": "Anthropic官方新闻入口，发布Claude模型更新以及AI安全与政策研究进展；本条来源为频道首页。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "大模型",
+      "title": "The Verge AI频道：人工智能产品与产业报道",
+      "subtitle": "美国科技媒体The Verge的人工智能频道，聚焦AI产品发布、平台竞争与监管动向；本条来源为频道首页。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：AI创业与融资报道",
+      "subtitle": "科技媒体TechCrunch的人工智能频道，关注AI初创公司融资、产品发布与行业整合；本条来源为频道首页。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    },
+    {
+      "date": "2026-10-23",
+      "domain": "国际",
+      "title": "路透科技频道：全球科技与AI产业要闻入口",
+      "subtitle": "路透社科技新闻页面，覆盖全球科技公司、AI产业与监管政策报道；本条来源为频道首页。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-10-23T04:39:27.427Z"
+    }
+  ]
+}
