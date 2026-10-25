@@ -1,175 +1,180 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T04:28:15.024Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T04:32:01.190Z",
   "meta": {
-    "hotTrendCandidates": 5,
-    "hotTrendItems": 0
+    "hotTrendCandidates": 7,
+    "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-10-24",
-      "domain": "其他",
-      "title": "2026全球治理论坛（雄安）开幕",
-      "subtitle": "论坛主题为“重建信心与合作：百年变局与改革完善全球治理”，习近平向论坛致信。",
+      "date": "2026-10-25",
+      "domain": "财经",
+      "title": "商务部：坚决反对美方歧视性扩大对华投资限制",
+      "subtitle": "中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/24/ARTIyUJe3ohOx3XKoB5iliOy261024.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/10/25/ARTIneefAWsWbZL4GuKnCnH2261025.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "民生",
-      "title": "2500万元党费划拨支持西藏抗震救灾",
-      "subtitle": "中央组织部从代中央管理党费中向西藏划拨专项资金2500万元，用于支持抗震救灾工作。",
+      "date": "2026-10-25",
+      "domain": "其他",
+      "title": "第五届亚残运会闭幕 中国代表团居金牌榜首位",
+      "subtitle": "中国体育代表团共收获207金117银111铜，连续五届位居亚残运会金牌榜、奖牌榜首位。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/23/ARTIDL4vMW0J4GVAVRBrR6v4261023.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/10/25/ARTI0bxuXDu5UbrRe7rt195l261025.shtml",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "民生",
-      "title": "西藏巴青地震灾区卫生防疫实现全覆盖",
-      "subtitle": "国家疾控局表示，巴青地震灾区灾后卫生防疫力量已实现全覆盖。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/10-24/10720250.shtml",
+      "date": "2026-10-25",
+      "domain": "互联网",
+      "title": "我国成功发射卫星互联网低轨28组卫星",
+      "subtitle": "据央视新闻，10月25日10时03分在海南商业航天发射场使用长征八号甲运载火箭发射，卫星顺利入轨。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103408112.html",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "财经",
-      "title": "前三季度我国财政运行总体平稳",
-      "subtitle": "央视新闻报道前三季度财政运行情况，同期全国财政数据中税收实现较快增长。",
+      "date": "2026-10-25",
+      "domain": "民生",
+      "title": "西藏巴青县7.0级地震 多次摸排未发现失联人员",
+      "subtitle": "央视新闻报道，当地在震后持续开展人员摸排与安置工作。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/24/VIDET3CiqNPkWoand1aRoWOy261024.shtml",
+      "sourceUrl": "https://tv.cctv.com/2026/10/25/VIDE4aWej84C9xAUsa6sUbyL261025.shtml",
       "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "民生",
-      "title": "六部门出台意见推进老旧街区厂区改造提升",
-      "subtitle": "相关部门联合出台意见，推动老旧街区与厂区的改造提升工作。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/24/VIDEwlW1iZHEIoNVPmj18GJt261024.shtml",
+      "date": "2026-10-25",
+      "domain": "交通",
+      "title": "渝昆高铁全线铺轨完成 乌蒙山区将连片接入高铁网",
+      "subtitle": "全线铺轨完成为后续开通运营奠定基础，乌蒙山区多个县市将连片接入高铁网络。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/20261024/58c8ed727dac45ccaa40d30d48165cd8/c.html",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "民生",
-      "title": "台风“蔷琵”移入东海 四地维持四级应急响应",
-      "subtitle": "国家防总办公室、应急管理部继续组织多部门会商，上海、江苏等地防汛防台风四级应急响应持续。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103407763.html",
+      "date": "2026-10-25",
+      "domain": "汽车",
+      "title": "数十万辆新能源“孤儿车”陷维修困局 配件断供引关注",
+      "subtitle": "车企停产停服后，三电系统加密与配件断供令第三方维修难以介入，售后保障问题凸显。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2096137202719892660",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 11
     },
     {
-      "date": "2026-10-24",
-      "domain": "交通",
-      "title": "中欧班列“东通道”年内通行量突破6000列",
-      "subtitle": "中欧班列东通道年内累计通行量超过6000列，跨境物流通道运行保持增长。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/photo/20261023/478f5636d950429c9494ac81341f61f7/c.html",
+      "date": "2026-10-25",
+      "domain": "财经",
+      "title": "前三季度全国财政数据出炉 税收实现较快增长",
+      "subtitle": "第一财经梳理前三季度财政收支情况，解析税收较快增长的主要成因。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103406803.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "交通",
-      "title": "港珠澳大桥迎来通车八周年",
-      "subtitle": "港珠澳大桥通车满八年，粤港澳大湾区跨海通道持续承担人流车流运输功能。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/gangao/20261024/f3acb23284444c2b96b206ddcbdf738e/c.html",
+      "date": "2026-10-25",
+      "domain": "财经",
+      "title": "修订后的上证系列综合指数10月26日起实施",
+      "subtitle": "中新网报道称此次为重要调整，修订方案自26日起正式实施。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-25/10720603.shtml",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "其他",
-      "title": "我国成功发射遥感五十号03星",
-      "subtitle": "新华社报道，我国成功发射遥感五十号03星；同期长征四号乙运载火箭实现一箭六星发射。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/tech/20261023/d3fe3e3c756a464ba655a60f217ee494/c.html",
+      "date": "2026-10-25",
+      "domain": "民生",
+      "title": "快递末端“以罚代管”怪圈：正常咨询为何变成投诉",
+      "subtitle": "中新网报道关注快递末端管理方式，探讨罚款考核引发的投诉与纠纷问题。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/10-25/10720597.shtml",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "大模型",
-      "title": "宇树不止卖机器人本体：拥抱AI、加速布局生态",
-      "subtitle": "第一财经报道，宇树在机器人本体之外加大AI投入并推进生态布局。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103406917.html",
+      "date": "2026-10-25",
+      "domain": "民生",
+      "title": "秋粮收获过八成 新技术助力提质增效",
+      "subtitle": "中新网报道，当前秋粮收获进度已过八成，新技术应用助力农业提质增效。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-25/10720613.shtml",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
+      "domain": "互联网",
+      "title": "乌克兰防长称“星链”与“星盾”已恢复稳定通信",
+      "subtitle": "乌国防部称监测数据显示，终端在移动速度超过每小时400公里条件下可保持稳定通信。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-10-25T04:32:01.190Z"
+    },
+    {
+      "date": "2026-10-25",
       "domain": "大模型",
-      "title": "路透科技频道：AI与芯片领域报道",
-      "subtitle": "路透社科技频道首页，汇集AI、半导体与算力产业链的国际报道动态。",
+      "title": "路透社科技频道：AI、芯片与算力议题报道持续更新",
+      "subtitle": "作为国际主流通讯社，路透社在科技栏目集中呈现人工智能与算力相关报道。",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
-      "priority": 11,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "priority": 12,
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "domain": "大模型",
-      "title": "The Verge AI频道：模型与应用报道",
-      "subtitle": "美国科技媒体The Verge的人工智能栏目首页，聚焦AI产品、模型能力与消费级应用。",
+      "title": "TechCrunch AI 栏目：聚焦人工智能创业与模型动态",
+      "subtitle": "该栏目持续报道 AI 初创公司融资、产品发布与大模型应用进展。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-25T04:32:01.190Z"
+    },
+    {
+      "date": "2026-10-25",
+      "domain": "大模型",
+      "title": "The Verge AI 频道：关注生成式 AI 产品与行业变化",
+      "subtitle": "该频道报道人工智能产品、平台政策及其对消费者与创作者的影响。",
       "sourceName": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "region": "international",
-      "priority": 12,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
-    },
-    {
-      "date": "2026-10-24",
-      "domain": "大模型",
-      "title": "Anthropic官方新闻页：模型安全与研究进展",
-      "subtitle": "Anthropic官方发布渠道，涉及模型安全、对齐研究及公司相关动态。",
-      "sourceName": "Anthropic News",
-      "sourceUrl": "https://www.anthropic.com/news",
-      "region": "international",
-      "priority": 13,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
-    },
-    {
-      "date": "2026-10-24",
-      "domain": "国际",
-      "title": "白宫称俄乌同意在奥列什基暂时停火",
-      "subtitle": "美国白宫23日发表声明称，美方促成俄罗斯和乌克兰达成赫尔松地区奥列什基停火协议。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/23/ARTIT7ka7LbVajcqI38Ueqx6261023.shtml",
-      "region": "international",
       "priority": 14,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     },
     {
-      "date": "2026-10-24",
-      "domain": "国际",
-      "title": "伊朗议员称伊已要求中东国家停止支持美国",
-      "subtitle": "央视新闻报道，伊朗议员表示伊朗已要求中东国家停止对美国的支持。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/24/VIDEtXtNMkQK8emKKdmdcbMM261024.shtml",
+      "date": "2026-10-25",
+      "domain": "其他",
+      "title": "日本小笠原群岛地区发生6.5级地震 震源深度480千米",
+      "subtitle": "中新网报道，此次地震发生在小笠原群岛地区，震源深度480千米，属深源地震。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-25/10720596.shtml",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-10-24T04:28:15.024Z"
+      "generatedAt": "2026-10-25T04:32:01.190Z"
     }
   ]
 }
