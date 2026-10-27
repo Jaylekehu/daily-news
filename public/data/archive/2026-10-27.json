@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T04:55:09.499Z",
+  "meta": {
+    "hotTrendCandidates": 8,
+    "hotTrendItems": 2
+  },
+  "items": [
+    {
+      "date": "2026-10-27",
+      "domain": "民生",
+      "title": "国办发文：6方面18项任务缓解AI就业替代",
+      "subtitle": "第一财经报道，国办就减缓人工智能就业替代影响作出部署，涵盖加快开发AI新职业等18项任务。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103409850.html",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "大模型",
+      "title": "寒武纪辟谣明年出货100万颗芯片",
+      "subtitle": "该话题登上今日头条热榜，涉及AI芯片出货传闻的澄清，具体信息以公司披露为准。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7700765842505744393",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-10-27T04:55:09.499Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "今日头条热榜"
+      ],
+      "trendRank": 12
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "财经",
+      "title": "人民币点心债“爆单”，科技巨头成发行新主力",
+      "subtitle": "第一财经报道，人民币点心债发行放量，科技企业成为新的重要发行主体。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103410006.html",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "数码",
+      "title": "实探华强北：高端显卡涨价，商家称一周涨上千元",
+      "subtitle": "第一财经实地探访显示，部分商家称高端显卡一周涨价上千元，反映算力硬件价格波动。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103409569.html",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "大模型",
+      "title": "行元智能发布机器人预训练跨本体数据引擎Chorus",
+      "subtitle": "该引擎将不同来源的人类操作示范纳入统一数据处理管线，用于机器人预训练。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103410929.html",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "数码",
+      "title": "iPhone Duo开售十日价格“破发”，首批机型被曝屏幕问题",
+      "subtitle": "第一财经报道，新机上市不久渠道价格走低，首批机型出现屏幕相关反馈。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103409003.html",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "互联网",
+      "title": "小鹏产品经理道歉视频被指AI生成",
+      "subtitle": "该话题登上热榜，涉及AI生成内容的识别与传播讨论。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7700481221055021092",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-10-27T04:55:09.499Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "今日头条热榜",
+        "百度热搜"
+      ],
+      "trendRank": 7
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "大模型",
+      "title": "路透科技：国际AI与芯片报道入口",
+      "subtitle": "路透科技版块收录AI、芯片与算力相关报道；本条依据来源首页收录，具体内容以页面为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 8,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "大模型",
+      "title": "The Verge AI频道：当日人工智能报道入口",
+      "subtitle": "该频道聚焦人工智能产品与行业动态；本条依据来源首页收录，具体内容以页面为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 9,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "大模型",
+      "title": "OpenAI官方博客：模型与安全更新入口",
+      "subtitle": "OpenAI官方新闻页汇集模型发布与安全相关内容；本条依据来源首页收录，具体以页面为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 10,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：模型与创投动态入口",
+      "subtitle": "该频道覆盖AI创业与模型进展；本条依据来源首页收录，具体内容以页面为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "大模型",
+      "title": "Anthropic官方新闻：模型安全与政策更新入口",
+      "subtitle": "Anthropic新闻页发布模型与安全相关信息；本条依据来源首页收录，具体以页面为准。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "交通",
+      "title": "渝昆高铁铺轨完成",
+      "subtitle": "新华社发布渝昆高铁铺轨完成的相关信息，并附线路知识点解读。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/local/20261027/7d6d7f4861534185841bb42b9ca7d844/c.html",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "民生",
+      "title": "我国确定跨省河湖生态流量保障目标",
+      "subtitle": "央视新闻报道，相关部门确定跨省河湖生态流量保障目标。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/27/VIDEE2klhz4Ve3Bmbhw4BM30261027.shtml",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    },
+    {
+      "date": "2026-10-27",
+      "domain": "其他",
+      "title": "力箭二号遥二运载火箭转运至发射区",
+      "subtitle": "央视新闻报道，力箭二号遥二运载火箭已完成转运至发射区。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/27/VIDE83BB44QiP5h141g6KGoV261027.shtml",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-10-27T04:55:09.499Z"
+    }
+  ]
+}
