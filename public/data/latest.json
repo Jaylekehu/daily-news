@@ -1,186 +1,180 @@
 {
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T04:55:09.499Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T05:29:54.739Z",
   "meta": {
-    "hotTrendCandidates": 8,
-    "hotTrendItems": 2
+    "hotTrendCandidates": 4,
+    "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-10-27",
-      "domain": "民生",
-      "title": "国办发文：6方面18项任务缓解AI就业替代",
-      "subtitle": "第一财经报道，国办就减缓人工智能就业替代影响作出部署，涵盖加快开发AI新职业等18项任务。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103409850.html",
+      "date": "2026-10-28",
+      "domain": "大模型",
+      "title": "DeepSeek新版模型单周调用量登顶全球首位",
+      "subtitle": "OpenRouter周榜显示，其V4.1-Flash-1017单周调用33.6万亿Token，环比增幅801%，为当周第一。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2098096577525172086",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 2
     },
     {
-      "date": "2026-10-27",
-      "domain": "大模型",
-      "title": "寒武纪辟谣明年出货100万颗芯片",
-      "subtitle": "该话题登上今日头条热榜，涉及AI芯片出货传闻的澄清，具体信息以公司披露为准。",
-      "sourceName": "今日头条热榜",
-      "sourceUrl": "https://www.toutiao.com/trending/7700765842505744393",
+      "date": "2026-10-28",
+      "domain": "财经",
+      "title": "第九届进博会布展启动 展品直通最快仅需35分钟",
+      "subtitle": "第九届进博会将于11月5日至10日在上海举办，27日展台搭建工作正式启动。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/28/ARTIb0STFrKIKEhPx5OXizNo261027.shtml",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-10-27T04:55:09.499Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "今日头条热榜"
-      ],
-      "trendRank": 12
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "财经",
-      "title": "人民币点心债“爆单”，科技巨头成发行新主力",
-      "subtitle": "第一财经报道，人民币点心债发行放量，科技企业成为新的重要发行主体。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103410006.html",
+      "date": "2026-10-28",
+      "domain": "民生",
+      "title": "陪诊国标即将实施 将改变什么",
+      "subtitle": "陪诊正成为社会服务刚需，国标明确在服务对象或其法定监护人同意前提下提供协助。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/28/ARTIR8aqgxKe4VXfuuD3Jxcp261027.shtml",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "数码",
-      "title": "实探华强北：高端显卡涨价，商家称一周涨上千元",
-      "subtitle": "第一财经实地探访显示，部分商家称高端显卡一周涨价上千元，反映算力硬件价格波动。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103409569.html",
+      "date": "2026-10-28",
+      "domain": "互联网",
+      "title": "算力网加速织就 八大枢纽各展所长",
+      "subtitle": "国家算力网络建设持续推进，八大枢纽节点在算力供给与调度方面各有分工。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/28/VIDETq8aQv3hY64X2aJrKgzh261028.shtml",
       "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "大模型",
-      "title": "行元智能发布机器人预训练跨本体数据引擎Chorus",
-      "subtitle": "该引擎将不同来源的人类操作示范纳入统一数据处理管线，用于机器人预训练。",
+      "date": "2026-10-28",
+      "domain": "财经",
+      "title": "前三季度工业利润大增15.5% 电子行业翻倍",
+      "subtitle": "前三季度工业利润同比增长15.5%，其中电子行业利润实现翻倍。",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103410929.html",
+      "sourceUrl": "https://www.yicai.com/news/103410735.html",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "数码",
-      "title": "iPhone Duo开售十日价格“破发”，首批机型被曝屏幕问题",
-      "subtitle": "第一财经报道，新机上市不久渠道价格走低，首批机型出现屏幕相关反馈。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103409003.html",
+      "date": "2026-10-28",
+      "domain": "财经",
+      "title": "我国风光累计装机容量突破20亿千瓦",
+      "subtitle": "风电与光伏累计装机容量合计突破20亿千瓦，清洁能源装机规模继续扩大。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261027/06619b16575b4434bbebcc5a27147b85/c.html",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "互联网",
-      "title": "小鹏产品经理道歉视频被指AI生成",
-      "subtitle": "该话题登上热榜，涉及AI生成内容的识别与传播讨论。",
-      "sourceName": "今日头条热榜",
-      "sourceUrl": "https://www.toutiao.com/trending/7700481221055021092",
+      "date": "2026-10-28",
+      "domain": "交通",
+      "title": "西渝高铁樊哙站2号六线特大桥顺利合龙",
+      "subtitle": "西渝高铁建设取得阶段性进展，该特大桥完成合龙。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261027/bab66702f5e04ba28f41853fdaebe2a2/c.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-10-27T04:55:09.499Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "今日头条热榜",
-        "百度热搜"
-      ],
-      "trendRank": 7
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "大模型",
-      "title": "路透科技：国际AI与芯片报道入口",
-      "subtitle": "路透科技版块收录AI、芯片与算力相关报道；本条依据来源首页收录，具体内容以页面为准。",
+      "date": "2026-10-28",
+      "domain": "数码",
+      "title": "豪威集团发布OG05D图像传感器 面向工业机器视觉",
+      "subtitle": "该产品为2.2微米、500万像素、全局快门高动态范围CMOS图像传感器，面向工业机器视觉。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103412946.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-10-28T05:29:54.739Z"
+    },
+    {
+      "date": "2026-10-28",
+      "domain": "互联网",
+      "title": "米哈游：游戏泄密人员一审被判赔100万元",
+      "subtitle": "法院一审认定以不正当手段破解测试版软件包并披露未公开内容构成侵害商业秘密。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103412938.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-10-28T05:29:54.739Z"
+    },
+    {
+      "date": "2026-10-28",
+      "domain": "民生",
+      "title": "2026年前三季度国内居民出游人次53.07亿",
+      "subtitle": "相关数据显示，2026年前三季度国内居民出游人次达到53.07亿。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261027/5d52dc9dc8294f1b92dbe01c86dae97a/c.html",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-10-28T05:29:54.739Z"
+    },
+    {
+      "date": "2026-10-28",
+      "domain": "国际",
+      "title": "路透社科技频道：人工智能与科技产业报道入口",
+      "subtitle": "本条为路透社科技栏目首页链接，具体AI与科技报道内容以原文为准。",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
-      "priority": 8,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "priority": 11,
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "大模型",
-      "title": "The Verge AI频道：当日人工智能报道入口",
-      "subtitle": "该频道聚焦人工智能产品与行业动态；本条依据来源首页收录，具体内容以页面为准。",
-      "sourceName": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "region": "international",
-      "priority": 9,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
-    },
-    {
-      "date": "2026-10-27",
-      "domain": "大模型",
-      "title": "OpenAI官方博客：模型与安全更新入口",
-      "subtitle": "OpenAI官方新闻页汇集模型发布与安全相关内容；本条依据来源首页收录，具体以页面为准。",
-      "sourceName": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/news/",
-      "region": "international",
-      "priority": 10,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
-    },
-    {
-      "date": "2026-10-27",
-      "domain": "大模型",
-      "title": "TechCrunch AI频道：模型与创投动态入口",
-      "subtitle": "该频道覆盖AI创业与模型进展；本条依据来源首页收录，具体内容以页面为准。",
+      "date": "2026-10-28",
+      "domain": "国际",
+      "title": "TechCrunch AI栏目：人工智能创业与产业动态",
+      "subtitle": "本条为TechCrunch人工智能栏目首页链接，具体报道内容以原文为准。",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
-      "priority": 11,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
-    },
-    {
-      "date": "2026-10-27",
-      "domain": "大模型",
-      "title": "Anthropic官方新闻：模型安全与政策更新入口",
-      "subtitle": "Anthropic新闻页发布模型与安全相关信息；本条依据来源首页收录，具体以页面为准。",
-      "sourceName": "Anthropic News",
-      "sourceUrl": "https://www.anthropic.com/news",
-      "region": "international",
       "priority": 12,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "交通",
-      "title": "渝昆高铁铺轨完成",
-      "subtitle": "新华社发布渝昆高铁铺轨完成的相关信息，并附线路知识点解读。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/local/20261027/7d6d7f4861534185841bb42b9ca7d844/c.html",
-      "region": "domestic",
+      "date": "2026-10-28",
+      "domain": "大模型",
+      "title": "Anthropic冲刺万亿IPO 十年算力账单高悬",
+      "subtitle": "报道关注其算力投入与收入增长能否支撑估值，IPO进程与长期算力成本受关注。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103411840.html",
+      "region": "international",
       "priority": 13,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "民生",
-      "title": "我国确定跨省河湖生态流量保障目标",
-      "subtitle": "央视新闻报道，相关部门确定跨省河湖生态流量保障目标。",
+      "date": "2026-10-28",
+      "domain": "国际",
+      "title": "以色列举行议会选举 竞选阵营竞争激烈",
+      "subtitle": "以色列议会选举投票展开，各竞选阵营展开激烈角逐。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/27/VIDEE2klhz4Ve3Bmbhw4BM30261027.shtml",
-      "region": "domestic",
+      "sourceUrl": "https://tv.cctv.com/2026/10/28/VIDEzFMmuRz58yv1mQjDHeNR261028.shtml",
+      "region": "international",
       "priority": 14,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     },
     {
-      "date": "2026-10-27",
-      "domain": "其他",
-      "title": "力箭二号遥二运载火箭转运至发射区",
-      "subtitle": "央视新闻报道，力箭二号遥二运载火箭已完成转运至发射区。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/27/VIDE83BB44QiP5h141g6KGoV261027.shtml",
-      "region": "domestic",
+      "date": "2026-10-28",
+      "domain": "国际",
+      "title": "美疾控中心报告：19种病原体每年致美国超5万人死亡",
+      "subtitle": "美疾控中心最新报告称，19种病原体每年在美国导致超过5万人死亡。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-28/10722079.shtml",
+      "region": "international",
       "priority": 15,
-      "generatedAt": "2026-10-27T04:55:09.499Z"
+      "generatedAt": "2026-10-28T05:29:54.739Z"
     }
   ]
 }
