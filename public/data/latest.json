@@ -1,180 +1,180 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T05:29:54.739Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T05:38:42.057Z",
   "meta": {
-    "hotTrendCandidates": 4,
+    "hotTrendCandidates": 2,
     "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "domain": "大模型",
-      "title": "DeepSeek新版模型单周调用量登顶全球首位",
-      "subtitle": "OpenRouter周榜显示，其V4.1-Flash-1017单周调用33.6万亿Token，环比增幅801%，为当周第一。",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2098096577525172086",
-      "region": "domestic",
+      "title": "路透科技：AI 与科技报道入口",
+      "subtitle": "候选来源为路透科技频道首页，具体 AI 报道以来源页面为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
       "priority": 1,
-      "generatedAt": "2026-10-28T05:29:54.739Z",
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "大模型",
+      "title": "TechCrunch AI：人工智能频道更新",
+      "subtitle": "候选来源为 TechCrunch AI 频道首页，聚焦 AI 产品与创业动态。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "大模型",
+      "title": "OpenAI 官方博客：新闻与动态入口",
+      "subtitle": "候选来源为 OpenAI 新闻页，具体 AI 发布以来源页面为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "国际",
+      "title": "普京：多极世界正在成为现实",
+      "subtitle": "普京在莫斯科与非洲多国领导人出席活动时表示，该趋势客观且不可逆转。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103414913.html",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "国际",
+      "title": "伊朗称在霍尔木兹海峡击落美军无人机",
+      "subtitle": "伊朗革命卫队称拦截并击落一架美军MQ-1无人机，这是其击落的第14架。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103414896.html",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "大模型",
+      "title": "米哈游刘伟谈AI路线：要解决极难问题",
+      "subtitle": "知乎热榜讨论米哈游与DeepSeek在大模型路线上的差异。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2098876748163199226",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-10-29T05:38:42.057Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
         "知乎热榜"
       ],
-      "trendRank": 2
+      "trendRank": 9
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "domain": "财经",
-      "title": "第九届进博会布展启动 展品直通最快仅需35分钟",
-      "subtitle": "第九届进博会将于11月5日至10日在上海举办，27日展台搭建工作正式启动。",
+      "title": "前三季度我国海洋生产总值同比增长4.9%",
+      "subtitle": "自然资源部发布数据，海洋经济总体保持平稳、向新向优。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/28/ARTIb0STFrKIKEhPx5OXizNo261027.shtml",
-      "region": "domestic",
-      "priority": 2,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "民生",
-      "title": "陪诊国标即将实施 将改变什么",
-      "subtitle": "陪诊正成为社会服务刚需，国标明确在服务对象或其法定监护人同意前提下提供协助。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/28/ARTIR8aqgxKe4VXfuuD3Jxcp261027.shtml",
-      "region": "domestic",
-      "priority": 3,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "互联网",
-      "title": "算力网加速织就 八大枢纽各展所长",
-      "subtitle": "国家算力网络建设持续推进，八大枢纽节点在算力供给与调度方面各有分工。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/28/VIDETq8aQv3hY64X2aJrKgzh261028.shtml",
-      "region": "domestic",
-      "priority": 4,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "财经",
-      "title": "前三季度工业利润大增15.5% 电子行业翻倍",
-      "subtitle": "前三季度工业利润同比增长15.5%，其中电子行业利润实现翻倍。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103410735.html",
-      "region": "domestic",
-      "priority": 5,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "财经",
-      "title": "我国风光累计装机容量突破20亿千瓦",
-      "subtitle": "风电与光伏累计装机容量合计突破20亿千瓦，清洁能源装机规模继续扩大。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/photo/20261027/06619b16575b4434bbebcc5a27147b85/c.html",
-      "region": "domestic",
-      "priority": 6,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "交通",
-      "title": "西渝高铁樊哙站2号六线特大桥顺利合龙",
-      "subtitle": "西渝高铁建设取得阶段性进展，该特大桥完成合龙。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/photo/20261027/bab66702f5e04ba28f41853fdaebe2a2/c.html",
+      "sourceUrl": "https://jingji.cctv.com/2026/10/29/ARTIhLTtfclY6dKOyumy4xwu261028.shtml",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
+      "generatedAt": "2026-10-29T05:38:42.057Z"
     },
     {
-      "date": "2026-10-28",
-      "domain": "数码",
-      "title": "豪威集团发布OG05D图像传感器 面向工业机器视觉",
-      "subtitle": "该产品为2.2微米、500万像素、全局快门高动态范围CMOS图像传感器，面向工业机器视觉。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103412946.html",
+      "date": "2026-10-29",
+      "domain": "交通",
+      "title": "进博会交通攻略：接驳车、地铁、网约车配齐",
+      "subtitle": "第九届进博会11月5日至10日在上海举办，周边交通保障进入冲刺。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/29/ARTIMwvKVRSDIO27fonC7iC6261028.shtml",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
+      "generatedAt": "2026-10-29T05:38:42.057Z"
     },
     {
-      "date": "2026-10-28",
-      "domain": "互联网",
-      "title": "米哈游：游戏泄密人员一审被判赔100万元",
-      "subtitle": "法院一审认定以不正当手段破解测试版软件包并披露未公开内容构成侵害商业秘密。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103412938.html",
+      "date": "2026-10-29",
+      "domain": "民生",
+      "title": "京津冀实现全域营业执照异地“办发领”",
+      "subtitle": "三地企业登记服务进一步便利化。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/29/VIDEuonefNWlOvqc8D7KyEtr261029.shtml",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
+      "generatedAt": "2026-10-29T05:38:42.057Z"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "domain": "民生",
-      "title": "2026年前三季度国内居民出游人次53.07亿",
-      "subtitle": "相关数据显示，2026年前三季度国内居民出游人次达到53.07亿。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/photo/20261027/5d52dc9dc8294f1b92dbe01c86dae97a/c.html",
+      "title": "流感疫苗“四价改三价”，防护力会降低吗",
+      "subtitle": "央视新闻就流感疫苗接种变化采访专家。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/29/VIDE6mYdP8mBGXJJKbUM64TH261029.shtml",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
+      "generatedAt": "2026-10-29T05:38:42.057Z"
     },
     {
-      "date": "2026-10-28",
-      "domain": "国际",
-      "title": "路透社科技频道：人工智能与科技产业报道入口",
-      "subtitle": "本条为路透社科技栏目首页链接，具体AI与科技报道内容以原文为准。",
-      "sourceName": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "region": "international",
-      "priority": 11,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "国际",
-      "title": "TechCrunch AI栏目：人工智能创业与产业动态",
-      "subtitle": "本条为TechCrunch人工智能栏目首页链接，具体报道内容以原文为准。",
-      "sourceName": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "region": "international",
-      "priority": 12,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "大模型",
-      "title": "Anthropic冲刺万亿IPO 十年算力账单高悬",
-      "subtitle": "报道关注其算力投入与收入增长能否支撑估值，IPO进程与长期算力成本受关注。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103411840.html",
-      "region": "international",
-      "priority": 13,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "国际",
-      "title": "以色列举行议会选举 竞选阵营竞争激烈",
-      "subtitle": "以色列议会选举投票展开，各竞选阵营展开激烈角逐。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/28/VIDEzFMmuRz58yv1mQjDHeNR261028.shtml",
-      "region": "international",
-      "priority": 14,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
-    },
-    {
-      "date": "2026-10-28",
-      "domain": "国际",
-      "title": "美疾控中心报告：19种病原体每年致美国超5万人死亡",
-      "subtitle": "美疾控中心最新报告称，19种病原体每年在美国导致超过5万人死亡。",
+      "date": "2026-10-29",
+      "domain": "财经",
+      "title": "A股午评：近4700只个股飘绿，三大指数收跌",
+      "subtitle": "中新网报道，A股午间三大指数收跌，近4700只个股飘绿。",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-28/10722079.shtml",
-      "region": "international",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-29/10722642.shtml",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "财经",
+      "title": "四部门：提高海南自贸港贸易自由化便利化水平",
+      "subtitle": "四部门发布措施，进一步提高海南自贸港贸易自由化便利化水平。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-29/10722641.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "大模型",
+      "title": "川渝AI差异化崛起：比算力、比场景",
+      "subtitle": "第一财经报道川渝在AI算力与场景应用上的差异化路径。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103413886.html",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "互联网",
+      "title": "腾讯宣布将正式发布“腾讯网盘”",
+      "subtitle": "腾讯全球数字生态大会上，汤道生透露将正式发布腾讯网盘。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103414898.html",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-10-29T05:38:42.057Z"
+    },
+    {
+      "date": "2026-10-29",
+      "domain": "其他",
+      "title": "宋陵石刻头像回归：三十年后“回家”",
+      "subtitle": "国家文物局在澳大利亚接收澳方返还的2件流失文物。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/29/ARTIgOHJogVjgvAMgOHWlZS0261028.shtml",
+      "region": "domestic",
       "priority": 15,
-      "generatedAt": "2026-10-28T05:29:54.739Z"
+      "generatedAt": "2026-10-29T05:38:42.057Z"
     }
   ]
 }
