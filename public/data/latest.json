@@ -1,185 +1,175 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T05:37:43.766Z",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T05:28:29.526Z",
   "meta": {
-    "hotTrendCandidates": 6,
-    "hotTrendItems": 2
+    "hotTrendCandidates": 2,
+    "hotTrendItems": 0
   },
   "items": [
     {
-      "date": "2026-10-30",
-      "domain": "大模型",
-      "title": "谷歌发布Gemini 4 Carbon重夺大模型评测第一",
-      "subtitle": "云收入翻倍、月活破10亿，但AI投入致自由现金流转负，盘后股价大跌约10%",
-      "sourceName": "百度热搜",
-      "sourceUrl": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%87%8D%E5%A4%BA%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AC%AC%E4%B8%80+%E5%8D%8E%E5%B0%94%E8%A1%97%E5%8D%B4%E4%B8%8D%E4%B9%B0%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news",
-      "region": "international",
+      "date": "2026-10-31",
+      "domain": "民生",
+      "title": "多个领域捷报频传 本周我国硬核成果持续上新",
+      "subtitle": "央视新闻报道，本周我国在军事、能源、海洋科考、道路交通等多个领域取得新成果。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/31/ARTIDDTx08Y3eSoC6cOry72I261031.shtml",
+      "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-10-30T05:37:43.766Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "百度热搜"
-      ],
-      "trendRank": 24
+      "generatedAt": "2026-10-31T05:28:29.526Z"
     },
     {
-      "date": "2026-10-30",
-      "domain": "大模型",
-      "title": "欧洲多款“自研”大模型被曝使用中国开源底座",
-      "subtitle": "德国Kolibri白皮书披露使用智谱GLM与阿里Qwen辅助生成数据，引发主权AI讨论",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2098161180929955292",
-      "region": "international",
+      "date": "2026-10-31",
+      "domain": "财经",
+      "title": "蓝海、绿能齐发力 多领域见证中国经济活力",
+      "subtitle": "央视新闻称，海洋经济、绿色电力与消费品以旧换新等数据体现经济发展活力。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/31/ARTICRNacB9sSQyqy84hMvs8261031.shtml",
+      "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-10-30T05:37:43.766Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "知乎热榜"
-      ],
-      "trendRank": 28
+      "generatedAt": "2026-10-31T05:28:29.526Z"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-31",
+      "domain": "交通",
+      "title": "串起城乡 连通世界：我国全域物流网如何织就",
+      "subtitle": "央视新闻聚焦覆盖城乡、连通世界的物流网络建设与运行。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/10/31/ARTI5KjpipuVdjY1t4daVsKP261031.shtml",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "民生",
+      "title": "中国联合两国破获一起特大跨国制贩毒案",
+      "subtitle": "央视新闻报道，中国与两国联合破获一起特大跨国制贩毒案件。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/31/VIDEKugwTZiya3xqrf5Mk8iZ261031.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "其他",
+      "title": "海军“攻击-21”无人机在四川舰成功起降",
+      "subtitle": "央视新闻视频报道，海军“攻击-21”无人机在四川舰完成起降。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/10/31/VIDEWmpSXwMBsBA7Bfmu5xyX261031.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "财经",
+      "title": "10月中国制造业PMI回落至49.3%",
+      "subtitle": "中新网报道，10月中国制造业采购经理指数回落至49.3%。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-31/10723856.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "财经",
+      "title": "隔夜逆回购“上岗” 政策利率正式换锚",
+      "subtitle": "第一财经报道，隔夜逆回购启用，政策利率相应调整。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103419083.html",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "民生",
+      "title": "多地密集出台生育支持措施 今年全国实现生娃基本不花钱",
+      "subtitle": "第一财经报道，多地密集出台生育支持措施，降低家庭生育成本。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103418689.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "汽车",
+      "title": "北京：力争2030年全市氢能产业链规模突破400亿元",
+      "subtitle": "北京市经信局印发氢能产业发展实施方案，提出燃料电池汽车与加氢站建设目标。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103419543.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
       "domain": "大模型",
-      "title": "OpenAI新闻页汇总大模型发布与安全动态",
-      "subtitle": "官方页面集中呈现产品、研究与公司公告，供追踪模型进展与安全议题参考",
+      "title": "学者共议AI时代教育新挑战：从交出答案到读懂答案",
+      "subtitle": "中新网报道，学者围绕AI时代教育方式与评价变化展开讨论。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "国际",
+      "title": "路透社科技频道：当日AI与科技报道入口",
+      "subtitle": "候选来源为该栏目首页，具体报道内容与发布时间以原文链接为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "国际",
+      "title": "TechCrunch人工智能频道：当日AI报道入口",
+      "subtitle": "候选来源为该频道首页，具体报道内容与发布时间以原文链接为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "国际",
+      "title": "The Verge人工智能频道：当日AI报道入口",
+      "subtitle": "候选来源为该频道首页，具体报道内容与发布时间以原文链接为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-10-31T05:28:29.526Z"
+    },
+    {
+      "date": "2026-10-31",
+      "domain": "国际",
+      "title": "OpenAI官方博客：公司与模型动态发布页",
+      "subtitle": "候选来源为官方新闻页，具体发布内容与时间以原文链接为准。",
       "sourceName": "OpenAI Blog",
       "sourceUrl": "https://openai.com/news/",
       "region": "international",
-      "priority": 3,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "国际",
-      "title": "德国总统北大演讲谈欧中经贸关系",
-      "subtitle": "强调双赢局面不能变成零和博弈",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-30/10723249.shtml",
-      "region": "international",
-      "priority": 4,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "国际",
-      "title": "美媒：特朗普施压下乌克兰暂停袭击俄炼油厂",
-      "subtitle": "报道称乌方在美方压力下调整对俄能源设施打击行动",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
-      "region": "international",
-      "priority": 5,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "大模型",
-      "title": "海南算力与腾讯云合作打造“AI+算力”一体化底座",
-      "subtitle": "双方围绕算力基础设施、大模型Token服务及AI办公应用签署战略合作协议",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103418031.html",
-      "region": "domestic",
-      "priority": 6,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "互联网",
-      "title": "高校自研AI巡检机器人上岗进博会",
-      "subtitle": "第九届进博会11月5日至10日在上海举办，机器人助力场馆施工搭建安全巡检",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/30/ARTIe0N25T5q8Q8jogffSnOc261029.shtml",
-      "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "民生",
-      "title": "全国社会保障卡持卡人数达13.9亿",
-      "subtitle": "央视报道披露最新持卡规模，社保卡服务覆盖面持续扩大",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/30/VIDErpR0M4ORdKYO8N1BOfOE261030.shtml",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "民生",
-      "title": "前三季度全国地表水水质持续向好",
-      "subtitle": "央视新闻关注水环境治理进展，报道前三季度水质持续向好",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/30/VIDEZ27hu7HQ5EWiJ9a9TTlP261030.shtml",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "交通",
-      "title": "国内首条穿太湖超大直径盾构隧道开始掘进",
-      "subtitle": "项目进入盾构施工阶段，将穿越太湖水域",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/politics/20261029/4db4bf43af4f44a59fb89fa4493da54e/c.html",
-      "region": "domestic",
-      "priority": 10,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "财经",
-      "title": "多地重大项目加快推进，基建投资增速有望年底回正",
-      "subtitle": "第一财经报道称多地重大项目提速，基建投资增速或于年底回正",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103416093.html",
-      "region": "domestic",
-      "priority": 11,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "财经",
-      "title": "前三季度广义财政支出超27万亿，四季度将加力",
-      "subtitle": "财政支出保持强度，四季度政策有望进一步加力",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103416008.html",
-      "region": "domestic",
-      "priority": 12,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "财经",
-      "title": "31省份居民花钱数据出炉，哪些地方更爱吃",
-      "subtitle": "第一财经梳理各地居民消费支出数据，观察区域消费偏好差异",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103415265.html",
-      "region": "domestic",
-      "priority": 13,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
-    },
-    {
-      "date": "2026-10-30",
-      "domain": "互联网",
-      "title": "国产3A游戏《影之刃零》交卷",
-      "subtitle": "市场关注其能否再造《黑神话》式成功，国产3A进入检验期",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103416125.html",
-      "region": "domestic",
       "priority": 14,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
+      "generatedAt": "2026-10-31T05:28:29.526Z"
     },
     {
-      "date": "2026-10-30",
-      "domain": "民生",
-      "title": "多所高校压缩学分",
-      "subtitle": "第一财经报道多所高校压缩学分，培养方案调整受关注",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103415272.html",
-      "region": "domestic",
+      "date": "2026-10-31",
+      "domain": "国际",
+      "title": "Anthropic官方新闻页：公司与模型动态发布页",
+      "subtitle": "候选来源为官方新闻页，具体发布内容与时间以原文链接为准。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
       "priority": 15,
-      "generatedAt": "2026-10-30T05:37:43.766Z"
+      "generatedAt": "2026-10-31T05:28:29.526Z"
     }
   ]
 }
