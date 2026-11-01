@@ -1,175 +1,175 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T05:28:29.526Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T05:53:37.622Z",
   "meta": {
-    "hotTrendCandidates": 2,
+    "hotTrendCandidates": 3,
     "hotTrendItems": 0
   },
   "items": [
     {
-      "date": "2026-10-31",
-      "domain": "民生",
-      "title": "多个领域捷报频传 本周我国硬核成果持续上新",
-      "subtitle": "央视新闻报道，本周我国在军事、能源、海洋科考、道路交通等多个领域取得新成果。",
+      "date": "2026-11-01",
+      "domain": "财经",
+      "title": "第九届进博会11月5日至10日在上海举办，9个关键词解锁亮点",
+      "subtitle": "作为全球新品首发的重要平台，本届进博会在展区设置、首发首秀等方面推出多项升级。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/31/ARTIDDTx08Y3eSoC6cOry72I261031.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/11/01/ARTI3TP8nLV6TlumPSFP6NLR261101.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "财经",
-      "title": "蓝海、绿能齐发力 多领域见证中国经济活力",
-      "subtitle": "央视新闻称，海洋经济、绿色电力与消费品以旧换新等数据体现经济发展活力。",
+      "date": "2026-11-01",
+      "domain": "民生",
+      "title": "县域康养旅居受热捧，入境游银发客源增多",
+      "subtitle": "报道聚焦县域康养旅居热度上升，以及入境游银发客源增长趋势。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/31/ARTICRNacB9sSQyqy84hMvs8261031.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/11/01/ARTI203X7alCrqUQ4bJlmqm5261031.shtml",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "交通",
-      "title": "串起城乡 连通世界：我国全域物流网如何织就",
-      "subtitle": "央视新闻聚焦覆盖城乡、连通世界的物流网络建设与运行。",
+      "date": "2026-11-01",
+      "domain": "民生",
+      "title": "大山深处的“00后”全科老师蓝华兴",
+      "subtitle": "广西大化七百弄乡弄平村光明小学，24岁的蓝华兴是这里唯一的老师。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/10/31/ARTI5KjpipuVdjY1t4daVsKP261031.shtml",
+      "sourceUrl": "https://people.cctv.com/2026/11/01/ARTIoNfi1dFLEuOM3px4xdCI261101.shtml",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "民生",
-      "title": "中国联合两国破获一起特大跨国制贩毒案",
-      "subtitle": "央视新闻报道，中国与两国联合破获一起特大跨国制贩毒案件。",
+      "date": "2026-11-01",
+      "domain": "交通",
+      "title": "C919首次在大湾区执飞SAF航班",
+      "subtitle": "C919首次在大湾区执飞使用SAF的航班。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/31/VIDEKugwTZiya3xqrf5Mk8iZ261031.shtml",
+      "sourceUrl": "https://tv.cctv.com/2026/11/01/VIDEGSdoEPejXjiFg648gOoY261101.shtml",
       "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "其他",
-      "title": "海军“攻击-21”无人机在四川舰成功起降",
-      "subtitle": "央视新闻视频报道，海军“攻击-21”无人机在四川舰完成起降。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/10/31/VIDEWmpSXwMBsBA7Bfmu5xyX261031.shtml",
+      "date": "2026-11-01",
+      "domain": "财经",
+      "title": "10月制造业PMI降至49.3%，价格指数高位回落",
+      "subtitle": "第一财经报道，10月制造业采购经理指数降至49.3%，价格指数从高位回落。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103419537.html",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "财经",
-      "title": "10月中国制造业PMI回落至49.3%",
-      "subtitle": "中新网报道，10月中国制造业采购经理指数回落至49.3%。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/10-31/10723856.shtml",
+      "date": "2026-11-01",
+      "domain": "汽车",
+      "title": "蔚来10月交付新车34246台",
+      "subtitle": "蔚来公布2026年10月交付数据，公司整体交付新车34246台。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103420090.html",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "财经",
-      "title": "隔夜逆回购“上岗” 政策利率正式换锚",
-      "subtitle": "第一财经报道，隔夜逆回购启用，政策利率相应调整。",
+      "date": "2026-11-01",
+      "domain": "汽车",
+      "title": "极氪10月交付32483辆，同比增长51.6%",
+      "subtitle": "1-10月极氪品牌共交付320887辆，同比增长94.4%。",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103419083.html",
+      "sourceUrl": "https://www.yicai.com/brief/103420084.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "民生",
-      "title": "多地密集出台生育支持措施 今年全国实现生娃基本不花钱",
-      "subtitle": "第一财经报道，多地密集出台生育支持措施，降低家庭生育成本。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103418689.html",
+      "date": "2026-11-01",
+      "domain": "财经",
+      "title": "深圳海关签发中国首份升级后中秘自贸协定原产地证书",
+      "subtitle": "中新网报道，深圳海关签发中国首份升级后中秘自贸协定原产地证书。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/dwq/2026/11-01/10724252.shtml",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "汽车",
-      "title": "北京：力争2030年全市氢能产业链规模突破400亿元",
-      "subtitle": "北京市经信局印发氢能产业发展实施方案，提出燃料电池汽车与加氢站建设目标。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103419543.html",
+      "date": "2026-11-01",
+      "domain": "民生",
+      "title": "《市场监督管理所条例》今起实施",
+      "subtitle": "条例旨在解决基层市场监管所“小马拉大车”等问题。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-01/10724254.shtml",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "domain": "大模型",
-      "title": "学者共议AI时代教育新挑战：从交出答案到读懂答案",
-      "subtitle": "中新网报道，学者围绕AI时代教育方式与评价变化展开讨论。",
+      "title": "AI智能体亮相2026中国（大营）国际皮草博览会",
+      "subtitle": "中新网视频报道，共创中心与AI智能体在皮草博览会上亮相。",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/shipin/cns/2026/11-01/news1073501.shtml",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "domain": "国际",
-      "title": "路透社科技频道：当日AI与科技报道入口",
-      "subtitle": "候选来源为该栏目首页，具体报道内容与发布时间以原文链接为准。",
+      "title": "路透社科技频道：AI与芯片报道入口",
+      "subtitle": "候选来源为路透社科技频道首页，具体AI与芯片报道以该页面为准。",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
       "priority": 11,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "domain": "国际",
-      "title": "TechCrunch人工智能频道：当日AI报道入口",
-      "subtitle": "候选来源为该频道首页，具体报道内容与发布时间以原文链接为准。",
+      "title": "美联社科技频道：AI与科技报道入口",
+      "subtitle": "候选来源为美联社科技频道首页，具体报道以该页面为准。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-01T05:53:37.622Z"
+    },
+    {
+      "date": "2026-11-01",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：人工智能报道入口",
+      "subtitle": "候选来源为TechCrunch人工智能频道首页，聚焦AI创业与产品动态。",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
-      "priority": 12,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
-    },
-    {
-      "date": "2026-10-31",
-      "domain": "国际",
-      "title": "The Verge人工智能频道：当日AI报道入口",
-      "subtitle": "候选来源为该频道首页，具体报道内容与发布时间以原文链接为准。",
-      "sourceName": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "region": "international",
       "priority": 13,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "国际",
-      "title": "OpenAI官方博客：公司与模型动态发布页",
-      "subtitle": "候选来源为官方新闻页，具体发布内容与时间以原文链接为准。",
+      "date": "2026-11-01",
+      "domain": "大模型",
+      "title": "OpenAI官方博客：模型与产品动态入口",
+      "subtitle": "候选来源为OpenAI新闻页面，具体模型与产品信息以官方发布为准。",
       "sourceName": "OpenAI Blog",
       "sourceUrl": "https://openai.com/news/",
       "region": "international",
       "priority": 14,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     },
     {
-      "date": "2026-10-31",
-      "domain": "国际",
-      "title": "Anthropic官方新闻页：公司与模型动态发布页",
-      "subtitle": "候选来源为官方新闻页，具体发布内容与时间以原文链接为准。",
+      "date": "2026-11-01",
+      "domain": "大模型",
+      "title": "Anthropic官方新闻：模型与公司动态入口",
+      "subtitle": "候选来源为Anthropic新闻页面，具体发布内容以官方页面为准。",
       "sourceName": "Anthropic News",
       "sourceUrl": "https://www.anthropic.com/news",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-10-31T05:28:29.526Z"
+      "generatedAt": "2026-11-01T05:53:37.622Z"
     }
   ]
 }
