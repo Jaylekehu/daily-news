@@ -1,180 +1,185 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T05:53:36.642Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T06:38:28.456Z",
   "meta": {
-    "hotTrendCandidates": 4,
-    "hotTrendItems": 1
+    "hotTrendCandidates": 6,
+    "hotTrendItems": 2
   },
   "items": [
     {
-      "date": "2026-11-02",
-      "domain": "大模型",
-      "title": "OpenAI新闻页：模型与产品动态汇总",
-      "subtitle": "OpenAI官方新闻页汇总模型发布、产品更新与安全研究等信息。",
-      "sourceName": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/news/",
-      "region": "international",
-      "priority": 1,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "大模型",
-      "title": "Anthropic新闻页：模型安全与政策动态",
-      "subtitle": "Anthropic官方新闻页发布模型、安全与政策相关更新。",
-      "sourceName": "Anthropic News",
-      "sourceUrl": "https://www.anthropic.com/news",
-      "region": "international",
-      "priority": 2,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "大模型",
-      "title": "TechCrunch AI频道：AI创业与融资动态",
-      "subtitle": "TechCrunch AI频道聚焦模型公司、AI应用与创投市场。",
-      "sourceName": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "region": "international",
-      "priority": 3,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "财经",
-      "title": "俄罗斯政府延长柴油出口禁令有效期",
-      "subtitle": "央视新闻报道，俄罗斯政府决定延长柴油出口禁令有效期。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/02/VIDE1JkoWEwfNRS4iT2Lbmqb261102.shtml",
-      "region": "international",
-      "priority": 4,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "汽车",
-      "title": "欧盟对混动汽车调查立案",
-      "subtitle": "第一财经报道，欧盟对混动汽车调查立案，自由贸易协定盟友关注后续影响。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103420196.html",
-      "region": "international",
-      "priority": 5,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "domain": "民生",
-      "title": "第九届进博会进入倒计时第4天",
-      "subtitle": "第九届进博会将于11月5日至10日在国家会展中心（上海）举办，上海馆已基本完成搭建。",
+      "title": "国家医保局：今年前9个月生育保险基金支出超1000亿元",
+      "subtitle": "今年前9个月生育保险基金支出1010亿元，惠及3355万人次，生育津贴全面实现直发个人。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/02/ARTI2Kqx3MvW9ATKfidtF3zg261101.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/11/03/ARTI8lQrxciUoOxcEUGhs1GU261103.shtml",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "财经",
+      "title": "第140届广交会吸引494家头部采购企业参会",
+      "subtitle": "第140届广交会头部采购企业参会数量创新高，采购资源集聚效应进一步显现。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/03/VIDE8zzSXo6Uk6Dx6IQNT1US261103.shtml",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "其他",
+      "title": "力箭二号遥二运载火箭发射成功",
+      "subtitle": "力箭二号遥二运载火箭发射成功，具体任务信息以新华社报道为准。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/tech/20261103/2aeea17092b14c4a883140ba4858cbec/c.html",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "互联网",
+      "title": "20项成果获2026年世界互联网大会领先科技奖",
+      "subtitle": "世界互联网大会领先科技奖发布20项成果，聚焦互联网领域前沿技术。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/tech/20261102/e966531431ed43e7bc56f5d33af2c3f4/c.html",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "大模型",
+      "title": "国家发改委：对人工智能就业替代风险强化监测预警",
+      "subtitle": "国家发改委提出强化人工智能就业替代风险监测预警，关注技术对劳动力市场的影响。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-03/10725288.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "大模型",
+      "title": "大学开始发Token了，算力平台成高校“新基建”",
+      "subtitle": "高校通过发放Token、建设算力平台支持AI教学科研，算力基础设施需求持续上升。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103422835.html",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
+      "generatedAt": "2026-11-03T06:38:28.456Z"
     },
     {
-      "date": "2026-11-02",
-      "domain": "民生",
-      "title": "2027国考开始进行报名确认",
-      "subtitle": "央视新闻报道，2027年度国家公务员考试报名确认工作已开始。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/02/VIDE6gqVMp78MNymL2QrLCvt261102.shtml",
+      "date": "2026-11-03",
+      "domain": "财经",
+      "title": "央行上调外汇存款准备金率2个百分点",
+      "subtitle": "央行将金融机构外汇存款准备金率上调2个百分点至6%，为近5年来首次。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103422708.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
+      "generatedAt": "2026-11-03T06:38:28.456Z"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "domain": "交通",
-      "title": "陕西延榆高铁清涧河特大桥合龙",
-      "subtitle": "延榆高铁清涧河特大桥合龙，项目建设取得阶段性进展。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/02/VIDEgBPq092VkLQMKLNZVXHO261102.shtml",
+      "title": "中欧班列“中通道”年内通行量突破4000列",
+      "subtitle": "中欧班列中通道年内通行量突破4000列，跨境物流通道运行保持增长。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/ydyl/2026/11-03/10725308.shtml",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
+      "generatedAt": "2026-11-03T06:38:28.456Z"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "domain": "汽车",
-      "title": "沪高校团队破解超充连接器充电热安全难题",
-      "subtitle": "中新网报道，上海高校本科生团队针对超充连接器发热问题提出解决方案。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-02/10724711.shtml",
+      "title": "10月汽车销量榜：比亚迪近49万居首，小米小鹏破5万",
+      "subtitle": "榜单显示比亚迪超49万辆居首，小米汽车交付超5万辆，小鹏创历史新高，鸿蒙智行同比明显下滑。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2100349565874476266",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "财经",
-      "title": "国际金价创一年来新低",
-      "subtitle": "中新网报道，国际金价跌至一年来新低，金店店员称忙到没空回消息。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-02/10724729.shtml",
-      "region": "domestic",
-      "priority": 10,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "互联网",
-      "title": "“互联网之光”博览会乌镇启幕 展示6G等前沿科技",
-      "subtitle": "博览会展示6G等多项前沿科技，聚焦互联网技术应用与产业创新。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-02/10724720.shtml",
-      "region": "domestic",
-      "priority": 11,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "民生",
-      "title": "陪诊首个国标正式实施",
-      "subtitle": "中新网报道，陪诊服务首个国家标准正式实施，行业边界进一步明确。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/jk/2026/11-02/10724724.shtml",
-      "region": "domestic",
-      "priority": 12,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "财经",
-      "title": "五部门发文20项举措布局“消费基建”",
-      "subtitle": "第一财经报道，五部门发布20项举措，布局消费基础设施。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103420222.html",
-      "region": "domestic",
-      "priority": 13,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
-    },
-    {
-      "date": "2026-11-02",
-      "domain": "大模型",
-      "title": "DeepSeek与Kimi定价分歧折射大模型商业逻辑",
-      "subtitle": "知乎热榜讨论大模型厂商在成本定价与市场定位定价上的不同选择。",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2099804149479223383",
-      "region": "domestic",
-      "priority": 14,
-      "generatedAt": "2026-11-02T05:53:36.642Z",
+      "generatedAt": "2026-11-03T06:38:28.456Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
         "知乎热榜"
       ],
-      "trendRank": 23
+      "trendRank": 4
     },
     {
-      "date": "2026-11-02",
-      "domain": "数码",
-      "title": "权威解读：脑机接口能否让盲人重获光明",
-      "subtitle": "中新网视频邀请专家解读脑机接口技术在视觉重建方面的可能性与边界。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/shipin/2026/11-02/news1073581.shtml",
+      "date": "2026-11-03",
+      "domain": "汽车",
+      "title": "全国将有260万辆新能源车面临电池脱保",
+      "subtitle": "到今年年底车龄超8年的新能源汽车保有量或达260万辆，动力电池脱保问题受关注。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2099823962918331016",
       "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-03T06:38:28.456Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 28
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "国际",
+      "title": "路透科技频道：全球AI与科技产业动态",
+      "subtitle": "来源为路透科技频道首页，汇总全球科技与人工智能相关最新报道。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "大模型",
+      "title": "The Verge AI频道：人工智能最新报道",
+      "subtitle": "来源为The Verge AI频道首页，关注人工智能产品、公司与行业动态。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：AI创业与产业动态",
+      "subtitle": "来源为TechCrunch AI频道首页，聚焦人工智能创业、融资与产业应用。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "大模型",
+      "title": "OpenAI新闻博客：模型与产品更新",
+      "subtitle": "来源为OpenAI新闻博客首页，关注模型发布、产品更新与公司动态。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-03T06:38:28.456Z"
+    },
+    {
+      "date": "2026-11-03",
+      "domain": "大模型",
+      "title": "Anthropic新闻页：模型安全与公司动态",
+      "subtitle": "来源为Anthropic新闻页，关注大模型安全、研究与公司最新进展。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
       "priority": 15,
-      "generatedAt": "2026-11-02T05:53:36.642Z"
+      "generatedAt": "2026-11-03T06:38:28.456Z"
     }
   ]
 }
