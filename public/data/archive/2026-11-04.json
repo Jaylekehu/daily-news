@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T06:05:40.682Z",
+  "meta": {
+    "hotTrendCandidates": 3,
+    "hotTrendItems": 1
+  },
+  "items": [
+    {
+      "date": "2026-11-04",
+      "domain": "财经",
+      "title": "央行出手稳汇率，弱化人民币单边升值预期",
+      "subtitle": "央行动用外汇政策工具，释放弱化人民币单边升值预期的信号",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103424095.html",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "大模型",
+      "title": "联合国副秘书长：技术绝非宿命，关键在如何驾驭人工智能",
+      "subtitle": "联合国官员谈及人工智能治理，强调技术走向取决于人类的选择与规则",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/shipin/2026/11-04/news1073781.shtml",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "国际",
+      "title": "美媒预测民主党在多州超预期获胜，中期选举掀起“蓝潮”",
+      "subtitle": "美国媒体根据选举情况预测民主党在多州取得超预期结果，特朗普随后发声",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-04/10725921.shtml",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "交通",
+      "title": "中欧班列“中通道”年内通行量突破4000列，创历史同期新高",
+      "subtitle": "11月3日，一趟满载汽车配件、日用百货的班列从二连浩特铁路口岸启程驶向欧洲",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/04/ARTIIwZJfRZFB8vgQeR0ymFf261104.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "财经",
+      "title": "国家发改委定调“十五五”基础设施体系建设重点",
+      "subtitle": "围绕新型基础设施与传统基建统筹布局，相关建设方向进一步明确",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103424989.html",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "财经",
+      "title": "卢拉将开启4.0时代，中企在巴西的生意会更好做吗？",
+      "subtitle": "巴西政治周期变化背景下，中资企业在当地的投资与经营环境受到关注",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103423923.html",
+      "region": "international",
+      "priority": 6,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "财经",
+      "title": "商务部：县域正成为最具潜力的消费增长空间",
+      "subtitle": "商务部表示县域消费市场潜力正在加快释放，成为扩内需的重要方向",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/04/VIDEERgXlUaixu5xuwjKmHM8261104.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "互联网",
+      "title": "乌镇奏响开源开放协奏曲",
+      "subtitle": "世界互联网大会乌镇峰会期间，开源开放成为产业界讨论的焦点议题",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-04/10725917.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "民生",
+      "title": "我国海洋水产品产量连续37年居全球第一",
+      "subtitle": "我国已建成全球门类最齐全的海洋产业体系，拥有全部15个主要海洋产业",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/04/ARTIN4wwuH0utyodkJAuja0w261104.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "交通",
+      "title": "中国低空经济加速“飞”入民众生活",
+      "subtitle": "低空飞行应用场景不断拓展，带动相关产业链加快布局",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-04/10725925.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "民生",
+      "title": "全国放心消费平台正式上线，面向消费者提供服务",
+      "subtitle": "平台上线后面向消费者提供相关服务功能，消费环境建设再添抓手",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/04/ARTIHChGsFjQ9r4KzKfuNk0U261104.shtml",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "民生",
+      "title": "东北局地跌破零下30℃，我国将迎气温创新低浪潮",
+      "subtitle": "未来冷空气活跃，多地气温将刷新下半年新低，需注意防寒保暖",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-04/10725933.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "数码",
+      "title": "iPhone天气显示多地零下30℃异常，系统问题引热议",
+      "subtitle": "“iPhone天气下周五出现温差”登上热搜，多地用户反映显示异常低温",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2101126085631009295",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-04T06:05:40.682Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 5
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "大模型",
+      "title": "The Verge AI 频道：持续跟踪AI产品与大模型动态",
+      "subtitle": "该频道汇集AI产品发布、模型能力与行业应用报道，是观察海外大模型进展的窗口之一",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    },
+    {
+      "date": "2026-11-04",
+      "domain": "大模型",
+      "title": "TechCrunch AI 频道：聚焦大模型创业、融资与算力投资",
+      "subtitle": "该频道覆盖AI初创融资、产品发布与算力基础设施等方向，反映海外AI创业生态动向",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-11-04T06:05:40.682Z"
+    }
+  ]
+}
