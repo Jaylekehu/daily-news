@@ -1,180 +1,180 @@
 {
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T06:05:40.682Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T06:34:52.157Z",
   "meta": {
-    "hotTrendCandidates": 3,
+    "hotTrendCandidates": 2,
     "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-11-04",
-      "domain": "财经",
-      "title": "央行出手稳汇率，弱化人民币单边升值预期",
-      "subtitle": "央行动用外汇政策工具，释放弱化人民币单边升值预期的信号",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103424095.html",
+      "date": "2026-11-05",
+      "domain": "大模型",
+      "title": "DeepSeek工程师乌镇谈开源：真正的对手是时间",
+      "subtitle": "在2026年世界互联网大会乌镇峰会人工智能对话环节，DeepSeek研究工程师高熙阐述开源逻辑，称开源是为了让AGI更快到来。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2101053619059389232",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "大模型",
-      "title": "联合国副秘书长：技术绝非宿命，关键在如何驾驭人工智能",
-      "subtitle": "联合国官员谈及人工智能治理，强调技术走向取决于人类的选择与规则",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/shipin/2026/11-04/news1073781.shtml",
-      "region": "international",
-      "priority": 2,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "国际",
-      "title": "美媒预测民主党在多州超预期获胜，中期选举掀起“蓝潮”",
-      "subtitle": "美国媒体根据选举情况预测民主党在多州取得超预期结果，特朗普随后发声",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-04/10725921.shtml",
-      "region": "international",
-      "priority": 3,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "交通",
-      "title": "中欧班列“中通道”年内通行量突破4000列，创历史同期新高",
-      "subtitle": "11月3日，一趟满载汽车配件、日用百货的班列从二连浩特铁路口岸启程驶向欧洲",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/04/ARTIIwZJfRZFB8vgQeR0ymFf261104.shtml",
-      "region": "domestic",
-      "priority": 4,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "财经",
-      "title": "国家发改委定调“十五五”基础设施体系建设重点",
-      "subtitle": "围绕新型基础设施与传统基建统筹布局，相关建设方向进一步明确",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103424989.html",
-      "region": "domestic",
-      "priority": 5,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "财经",
-      "title": "卢拉将开启4.0时代，中企在巴西的生意会更好做吗？",
-      "subtitle": "巴西政治周期变化背景下，中资企业在当地的投资与经营环境受到关注",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103423923.html",
-      "region": "international",
-      "priority": 6,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "财经",
-      "title": "商务部：县域正成为最具潜力的消费增长空间",
-      "subtitle": "商务部表示县域消费市场潜力正在加快释放，成为扩内需的重要方向",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/04/VIDEERgXlUaixu5xuwjKmHM8261104.shtml",
-      "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "互联网",
-      "title": "乌镇奏响开源开放协奏曲",
-      "subtitle": "世界互联网大会乌镇峰会期间，开源开放成为产业界讨论的焦点议题",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-04/10725917.shtml",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "民生",
-      "title": "我国海洋水产品产量连续37年居全球第一",
-      "subtitle": "我国已建成全球门类最齐全的海洋产业体系，拥有全部15个主要海洋产业",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/04/ARTIN4wwuH0utyodkJAuja0w261104.shtml",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "交通",
-      "title": "中国低空经济加速“飞”入民众生活",
-      "subtitle": "低空飞行应用场景不断拓展，带动相关产业链加快布局",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-04/10725925.shtml",
-      "region": "domestic",
-      "priority": 10,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "民生",
-      "title": "全国放心消费平台正式上线，面向消费者提供服务",
-      "subtitle": "平台上线后面向消费者提供相关服务功能，消费环境建设再添抓手",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/04/ARTIHChGsFjQ9r4KzKfuNk0U261104.shtml",
-      "region": "domestic",
-      "priority": 11,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "民生",
-      "title": "东北局地跌破零下30℃，我国将迎气温创新低浪潮",
-      "subtitle": "未来冷空气活跃，多地气温将刷新下半年新低，需注意防寒保暖",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-04/10725933.shtml",
-      "region": "domestic",
-      "priority": 12,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
-    },
-    {
-      "date": "2026-11-04",
-      "domain": "数码",
-      "title": "iPhone天气显示多地零下30℃异常，系统问题引热议",
-      "subtitle": "“iPhone天气下周五出现温差”登上热搜，多地用户反映显示异常低温",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2101126085631009295",
-      "region": "domestic",
-      "priority": 13,
-      "generatedAt": "2026-11-04T06:05:40.682Z",
+      "generatedAt": "2026-11-05T06:34:52.157Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
         "知乎热榜"
       ],
-      "trendRank": 5
+      "trendRank": 11
     },
     {
-      "date": "2026-11-04",
-      "domain": "大模型",
-      "title": "The Verge AI 频道：持续跟踪AI产品与大模型动态",
-      "subtitle": "该频道汇集AI产品发布、模型能力与行业应用报道，是观察海外大模型进展的窗口之一",
+      "date": "2026-11-05",
+      "domain": "国际",
+      "title": "美国中期选举：美媒预测民主党赢得国会两院控制权",
+      "subtitle": "据美国媒体报道的预测结果，民主党在中期选举中取得国会两院控制权，后续政策议程走向受到关注。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/shipin/2026/11-05/news1073901.shtml",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "财经",
+      "title": "中期选举重创芯片板块，AI数据中心建设承压",
+      "subtitle": "报道称得州选情变化叠加板块抛售，芯片股大幅波动，人工智能数据中心建设前景引发市场讨论。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103426484.html",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "国际",
+      "title": "路透科技频道聚焦全球AI与算力产业动态",
+      "subtitle": "该频道汇集路透对人工智能企业、芯片算力与科技政策的报道；本条为来源首页导引，具体内容以原文为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "国际",
+      "title": "美联社科技频道追踪AI产品与行业应用进展",
+      "subtitle": "该频道持续更新人工智能产品、平台与行业落地报道；本条为来源首页导引，具体内容以原文为准。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "国际",
+      "title": "The Verge AI频道关注生成式AI产品与平台动向",
+      "subtitle": "该频道聚焦生成式人工智能产品、平台与监管话题；本条为来源首页导引，具体内容以原文为准。",
       "sourceName": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "region": "international",
-      "priority": 14,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
+      "priority": 6,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-05",
+      "domain": "财经",
+      "title": "第九届进博会开幕式在上海举行",
+      "subtitle": "第九届中国国际进口博览会在上海开幕，布展工作已全部完成，各项筹备工作就绪。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/fortune/20261105/f2e7cc62143343bcbfa09dafa59e1e6c/c.html",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "财经",
+      "title": "进博会首发首展首秀产品超480件",
+      "subtitle": "第九届进博会新品集中发布，首发首展首秀产品数量创出新高。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/fortune/20261105/bd6fa637144e4b04907c77d8d193a2c7/c.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "民生",
+      "title": "透过“硬核”数据看我国秋粮丰收已成定局",
+      "subtitle": "我国加力推进新一轮千亿斤粮食产能提升行动，稳面积、提单产、减损失，7400多万亩高标准农田建设任务扎实推进。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/05/ARTIW056Qvcmr1kAouIHY80t261104.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "互联网",
+      "title": "“一人+AI智能体”创业形态走红“直通乌镇”大赛",
+      "subtitle": "今年“直通乌镇”大赛首次增设OPC特色赛道，指依托人工智能、由个人或极小团队自主完成全链路业务的新型创业主体。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/05/ARTIRMqWQmJKAvjiZgFXWnJh261105.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
       "domain": "大模型",
-      "title": "TechCrunch AI 频道：聚焦大模型创业、融资与算力投资",
-      "subtitle": "该频道覆盖AI初创融资、产品发布与算力基础设施等方向，反映海外AI创业生态动向",
-      "sourceName": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "region": "international",
+      "title": "国家能源局公示“人工智能+”能源试点项目清单",
+      "subtitle": "据国家能源局网站消息，经组织专家评审，形成“人工智能+”能源相关高价值场景试点项目清单并予以公示。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103427340.html",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "财经",
+      "title": "央行加力实施股票回购增持再贷款政策",
+      "subtitle": "该结构性货币政策工具用于支持上市公司及主要股东回购增持股票，央行表示将进一步加力实施。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/05/VIDECVfKfLvg42qVZ0bXWpQZ261105.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "数码",
+      "title": "进博会现场：6G全球首个原型机亮相",
+      "subtitle": "第九届进博会现场展示6G相关原型机，引发对未来通信技术演进路径的关注。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-05/news1073902.shtml",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "交通",
+      "title": "中国铁路普速旅客列车和货物列车车次将变更",
+      "subtitle": "铁路部门调整普速旅客列车与货物列车车次，相关安排自11月起实施。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-05/10726560.shtml",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-05T06:34:52.157Z"
+    },
+    {
+      "date": "2026-11-05",
+      "domain": "汽车",
+      "title": "张雪谈中国摩托车出海：用质量、赛事、服务征服市场",
+      "subtitle": "围绕中国摩托车企业出海路径，张雪表示要靠质量、赛事与服务赢得海外市场认可。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/fortune/20261105/717ff2cd2d2f4f4795414fbc276a0378/c.html",
+      "region": "domestic",
       "priority": 15,
-      "generatedAt": "2026-11-04T06:05:40.682Z"
+      "generatedAt": "2026-11-05T06:34:52.157Z"
     }
   ]
 }
