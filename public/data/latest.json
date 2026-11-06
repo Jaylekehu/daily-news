@@ -1,180 +1,180 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T06:34:52.157Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T06:29:39.044Z",
   "meta": {
-    "hotTrendCandidates": 2,
+    "hotTrendCandidates": 5,
     "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-11-05",
-      "domain": "大模型",
-      "title": "DeepSeek工程师乌镇谈开源：真正的对手是时间",
-      "subtitle": "在2026年世界互联网大会乌镇峰会人工智能对话环节，DeepSeek研究工程师高熙阐述开源逻辑，称开源是为了让AGI更快到来。",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2101053619059389232",
+      "date": "2026-11-06",
+      "domain": "其他",
+      "title": "我国成功发射遥感五十一号07-09星",
+      "subtitle": "11月5日23时58分在西昌使用长征二号丙火箭发射，卫星进入预定轨道",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/06/ARTI0bnGcdLiQ5MBkErTzVYW261106.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-11-05T06:34:52.157Z",
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "财经",
+      "title": "我国建成全球海拔最高的并网光热电站",
+      "subtitle": "西藏阿里中广核“零碳”光储热电示范项目首台机组并网发电",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/06/ARTIem49sSFGT6kpYEAnA2vc261106.shtml",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "民生",
+      "title": "新疆和康县发生4.8级地震 交通电力通信正常",
+      "subtitle": "11月6日0时56分发生，震源深度60公里，震中位于北纬35.64度、东经78.14度",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/06/ARTIQALlRMcZ6qzuJBfRYBVJ261106.shtml",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "民生",
+      "title": "我国秋粮丰收成定局",
+      "subtitle": "央视新闻报道秋粮生产形势，丰收预期明确",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/06/VIDEFZd0Sfz6dpEvMjdLnYnT261106.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "财经",
+      "title": "10月中国大宗商品价格指数公布",
+      "subtitle": "央视新闻发布10月中国大宗商品价格指数",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/06/VIDEYgWeAHzBrTtxWLiNsU4Z261106.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "交通",
+      "title": "普速旅客列车车次变更自11月25日起实施",
+      "subtitle": "铁路部门调整普速旅客列车车次，11月25日起执行",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/06/VIDExM7u5crDl1KrS0FXJ2Uh261106.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "交通",
+      "title": "第二艘国产大型邮轮“爱达·花城号”交付",
+      "subtitle": "新华社报道，国产大型邮轮建造再获进展",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261106/6adb61b77ee54e5daaaa2b0ee993da00/c.html",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "互联网",
+      "title": "把数据表上传AI平台被辞退引发劳动争议 法院判了",
+      "subtitle": "中新网报道，员工上传数据表至AI平台后被辞退，法院作出判决",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/fz/2026/11-06/10727230.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "全国医保影像AI识图大赛举行 辅助诊断加速落地基层",
+      "subtitle": "中新网报道，医保AI辅助诊断在基层加速落地",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/shipin/2026/11-06/news1074044.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "DeepSeek Harness日活达154万",
+      "subtitle": "截至11月4日，仅统计官方API用户，日耗Token约92万亿",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2101823381955990842",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-06T06:29:39.044Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
         "知乎热榜"
       ],
-      "trendRank": 11
+      "trendRank": 27
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "domain": "国际",
-      "title": "美国中期选举：美媒预测民主党赢得国会两院控制权",
-      "subtitle": "据美国媒体报道的预测结果，民主党在中期选举中取得国会两院控制权，后续政策议程走向受到关注。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/shipin/2026/11-05/news1073901.shtml",
-      "region": "international",
-      "priority": 2,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "财经",
-      "title": "中期选举重创芯片板块，AI数据中心建设承压",
-      "subtitle": "报道称得州选情变化叠加板块抛售，芯片股大幅波动，人工智能数据中心建设前景引发市场讨论。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103426484.html",
-      "region": "international",
-      "priority": 3,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "国际",
-      "title": "路透科技频道聚焦全球AI与算力产业动态",
-      "subtitle": "该频道汇集路透对人工智能企业、芯片算力与科技政策的报道；本条为来源首页导引，具体内容以原文为准。",
+      "title": "路透社科技频道：AI 与科技报道",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
-      "priority": 4,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
+      "priority": 11,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "domain": "国际",
-      "title": "美联社科技频道追踪AI产品与行业应用进展",
-      "subtitle": "该频道持续更新人工智能产品、平台与行业落地报道；本条为来源首页导引，具体内容以原文为准。",
+      "title": "美联社科技频道：AI 与科技动态",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
       "sourceName": "AP Technology",
       "sourceUrl": "https://apnews.com/hub/technology",
       "region": "international",
-      "priority": 5,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
+      "priority": 12,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
     },
     {
-      "date": "2026-11-05",
-      "domain": "国际",
-      "title": "The Verge AI频道关注生成式AI产品与平台动向",
-      "subtitle": "该频道聚焦生成式人工智能产品、平台与监管话题；本条为来源首页导引，具体内容以原文为准。",
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "The Verge AI 频道：人工智能报道",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
       "sourceName": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "region": "international",
-      "priority": 6,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "财经",
-      "title": "第九届进博会开幕式在上海举行",
-      "subtitle": "第九届中国国际进口博览会在上海开幕，布展工作已全部完成，各项筹备工作就绪。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/fortune/20261105/f2e7cc62143343bcbfa09dafa59e1e6c/c.html",
-      "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "财经",
-      "title": "进博会首发首展首秀产品超480件",
-      "subtitle": "第九届进博会新品集中发布，首发首展首秀产品数量创出新高。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/fortune/20261105/bd6fa637144e4b04907c77d8d193a2c7/c.html",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "民生",
-      "title": "透过“硬核”数据看我国秋粮丰收已成定局",
-      "subtitle": "我国加力推进新一轮千亿斤粮食产能提升行动，稳面积、提单产、减损失，7400多万亩高标准农田建设任务扎实推进。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/05/ARTIW056Qvcmr1kAouIHY80t261104.shtml",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "互联网",
-      "title": "“一人+AI智能体”创业形态走红“直通乌镇”大赛",
-      "subtitle": "今年“直通乌镇”大赛首次增设OPC特色赛道，指依托人工智能、由个人或极小团队自主完成全链路业务的新型创业主体。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/05/ARTIRMqWQmJKAvjiZgFXWnJh261105.shtml",
-      "region": "domestic",
-      "priority": 10,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "大模型",
-      "title": "国家能源局公示“人工智能+”能源试点项目清单",
-      "subtitle": "据国家能源局网站消息，经组织专家评审，形成“人工智能+”能源相关高价值场景试点项目清单并予以公示。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103427340.html",
-      "region": "domestic",
-      "priority": 11,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "财经",
-      "title": "央行加力实施股票回购增持再贷款政策",
-      "subtitle": "该结构性货币政策工具用于支持上市公司及主要股东回购增持股票，央行表示将进一步加力实施。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/05/VIDECVfKfLvg42qVZ0bXWpQZ261105.shtml",
-      "region": "domestic",
-      "priority": 12,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
-    },
-    {
-      "date": "2026-11-05",
-      "domain": "数码",
-      "title": "进博会现场：6G全球首个原型机亮相",
-      "subtitle": "第九届进博会现场展示6G相关原型机，引发对未来通信技术演进路径的关注。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-05/news1073902.shtml",
-      "region": "domestic",
       "priority": 13,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
+      "generatedAt": "2026-11-06T06:29:39.044Z"
     },
     {
-      "date": "2026-11-05",
-      "domain": "交通",
-      "title": "中国铁路普速旅客列车和货物列车车次将变更",
-      "subtitle": "铁路部门调整普速旅客列车与货物列车车次，相关安排自11月起实施。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-05/10726560.shtml",
-      "region": "domestic",
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "TechCrunch AI 频道：人工智能创投与产品",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
       "priority": 14,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
+      "generatedAt": "2026-11-06T06:29:39.044Z"
     },
     {
-      "date": "2026-11-05",
-      "domain": "汽车",
-      "title": "张雪谈中国摩托车出海：用质量、赛事、服务征服市场",
-      "subtitle": "围绕中国摩托车企业出海路径，张雪表示要靠质量、赛事与服务赢得海外市场认可。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/fortune/20261105/717ff2cd2d2f4f4795414fbc276a0378/c.html",
-      "region": "domestic",
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "Anthropic 官方新闻：模型与安全动态",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
       "priority": 15,
-      "generatedAt": "2026-11-05T06:34:52.157Z"
+      "generatedAt": "2026-11-06T06:29:39.044Z"
     }
   ]
 }

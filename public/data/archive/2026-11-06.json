@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T06:29:39.044Z",
+  "meta": {
+    "hotTrendCandidates": 5,
+    "hotTrendItems": 1
+  },
+  "items": [
+    {
+      "date": "2026-11-06",
+      "domain": "其他",
+      "title": "我国成功发射遥感五十一号07-09星",
+      "subtitle": "11月5日23时58分在西昌使用长征二号丙火箭发射，卫星进入预定轨道",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/06/ARTI0bnGcdLiQ5MBkErTzVYW261106.shtml",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "财经",
+      "title": "我国建成全球海拔最高的并网光热电站",
+      "subtitle": "西藏阿里中广核“零碳”光储热电示范项目首台机组并网发电",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/06/ARTIem49sSFGT6kpYEAnA2vc261106.shtml",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "民生",
+      "title": "新疆和康县发生4.8级地震 交通电力通信正常",
+      "subtitle": "11月6日0时56分发生，震源深度60公里，震中位于北纬35.64度、东经78.14度",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/06/ARTIQALlRMcZ6qzuJBfRYBVJ261106.shtml",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "民生",
+      "title": "我国秋粮丰收成定局",
+      "subtitle": "央视新闻报道秋粮生产形势，丰收预期明确",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/06/VIDEFZd0Sfz6dpEvMjdLnYnT261106.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "财经",
+      "title": "10月中国大宗商品价格指数公布",
+      "subtitle": "央视新闻发布10月中国大宗商品价格指数",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/06/VIDEYgWeAHzBrTtxWLiNsU4Z261106.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "交通",
+      "title": "普速旅客列车车次变更自11月25日起实施",
+      "subtitle": "铁路部门调整普速旅客列车车次，11月25日起执行",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/06/VIDExM7u5crDl1KrS0FXJ2Uh261106.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "交通",
+      "title": "第二艘国产大型邮轮“爱达·花城号”交付",
+      "subtitle": "新华社报道，国产大型邮轮建造再获进展",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261106/6adb61b77ee54e5daaaa2b0ee993da00/c.html",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "互联网",
+      "title": "把数据表上传AI平台被辞退引发劳动争议 法院判了",
+      "subtitle": "中新网报道，员工上传数据表至AI平台后被辞退，法院作出判决",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/fz/2026/11-06/10727230.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "全国医保影像AI识图大赛举行 辅助诊断加速落地基层",
+      "subtitle": "中新网报道，医保AI辅助诊断在基层加速落地",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/shipin/2026/11-06/news1074044.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "DeepSeek Harness日活达154万",
+      "subtitle": "截至11月4日，仅统计官方API用户，日耗Token约92万亿",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2101823381955990842",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-06T06:29:39.044Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 27
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "国际",
+      "title": "路透社科技频道：AI 与科技报道",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "国际",
+      "title": "美联社科技频道：AI 与科技动态",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "The Verge AI 频道：人工智能报道",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "TechCrunch AI 频道：人工智能创投与产品",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    },
+    {
+      "date": "2026-11-06",
+      "domain": "大模型",
+      "title": "Anthropic 官方新闻：模型与安全动态",
+      "subtitle": "候选来源为栏目首页，具体报道以页面最新内容为准",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-11-06T06:29:39.044Z"
+    }
+  ]
+}
