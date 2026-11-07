@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T05:50:47.710Z",
+  "meta": {
+    "hotTrendCandidates": 0,
+    "hotTrendItems": 0
+  },
+  "items": [
+    {
+      "date": "2026-11-07",
+      "domain": "大模型",
+      "title": "IMF总裁：各国央行需考量AI驱动增长或放缓",
+      "subtitle": "格奥尔基耶娃称，央行评估抗通胀举措时需纳入AI驱动增长可能放缓的因素。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103430644.html",
+      "region": "international",
+      "priority": 1,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：人工智能报道入口",
+      "subtitle": "候选来源为TechCrunch AI频道首页，具体报道以页面为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "大模型",
+      "title": "The Verge AI频道：人工智能报道入口",
+      "subtitle": "候选来源为The Verge AI频道首页，具体报道以页面为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "大模型",
+      "title": "Anthropic News：AI研究与公司动态",
+      "subtitle": "候选来源为Anthropic新闻页，具体报道以页面为准。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "国际",
+      "title": "普京确认俄美乌三方会谈将在阿布扎比举行",
+      "subtitle": "央视新闻报道，普京确认俄美乌三方会谈将在阿布扎比举行。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/07/VIDE00zkWk9yLiFzIjPUO3CM261107.shtml",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "民生",
+      "title": "“十五五”时期我国用电需求每年新增3个上海用电量",
+      "subtitle": "央视新闻称，预计年均增量约6000亿度，相当于每年新增3个上海市用电量。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/07/ARTIQCeS1TG5XdPNKh8RQfez261107.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "财经",
+      "title": "进博会：4142家全球客商汇聚“四叶草”",
+      "subtitle": "央视新闻称，进博会既是中外企业“对接场”，也是思想交流“对话场”。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/07/ARTIGlnk9LjBREEiMnRoVLUw261107.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "民生",
+      "title": "国家发改委：供暖季能源供应总体能满足需求",
+      "subtitle": "央视新闻报道，供暖季能源供应总体能够满足需求。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/07/VIDE7chU3ynAlhAv3tIuqFQM261107.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "民生",
+      "title": "前三季度我国开展补贴性培训超800万人次",
+      "subtitle": "央视新闻报道，前三季度补贴性培训规模超过800万人次。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/07/VIDEwLpaVOoRM9fehicYFtZ7261107.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "财经",
+      "title": "10月末我国外汇储备规模34052亿美元",
+      "subtitle": "国家外汇管理局数据显示，截至10月末外汇储备规模为34052亿美元。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-07/10727832.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "财经",
+      "title": "中国央行连续第24个月增持黄金",
+      "subtitle": "央行网站数据显示，10月末黄金储备报7830万盎司，连续第24个月增持。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103430555.html",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "数码",
+      "title": "苹果首款触控版MacBook Pro开售即“破发”",
+      "subtitle": "第一财经报道，顶配价格超11万元，开售即出现“破发”。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103429828.html",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "交通",
+      "title": "交通运输部启动低温雨雪冰冻三级防御响应",
+      "subtitle": "中央气象台11月7日继续发布暴雪黄色预警，交通运输部启动三级防御响应。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103430661.html",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "其他",
+      "title": "谷神星二号遥三运载火箭发射成功",
+      "subtitle": "新华社报道，谷神星二号遥三运载火箭发射成功。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/20261107/3f897b1ee13d465a920b71111fe18d3d/c.html",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    },
+    {
+      "date": "2026-11-07",
+      "domain": "其他",
+      "title": "中国第43次南极考察队出征",
+      "subtitle": "新华社报道，中国第43次南极考察队出征。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261107/c1f0b0fff6f447859570b6f3b0dc32af/c.html",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-11-07T05:50:47.710Z"
+    }
+  ]
+}
