@@ -1,175 +1,180 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T05:53:13.520Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T06:10:38.418Z",
   "meta": {
-    "hotTrendCandidates": 1,
-    "hotTrendItems": 0
+    "hotTrendCandidates": 4,
+    "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-11-08",
-      "domain": "财经",
-      "title": "商务部：去年中华老字号营业收入突破2万亿元",
-      "subtitle": "报告显示，1450个中华老字号遍布全国31个省区市，覆盖7个门类32个行业，食品制造业数量最多。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/08/ARTINWzruGQCckPxPcQSnlrB261108.shtml",
+      "date": "2026-11-09",
+      "domain": "民生",
+      "title": "太原一公寓火灾已致14人遇难 25人在院治疗",
+      "subtitle": "11月8日16时59分，太原市迎泽区豪生国际公寓发生火灾，伤亡与救治情况以官方通报为准。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-09/10728761.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "民生",
-      "title": "应急管理部组织会商调度雨雪天气防范应对",
-      "subtitle": "针对多地雨雪降温天气，应急管理部门部署防范应对工作。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/08/VIDEAApzpDBAPgREMysNDT39261108.shtml",
+      "date": "2026-11-09",
+      "domain": "财经",
+      "title": "中国公布调整对原产于美国的进口商品加征关税措施",
+      "subtitle": "涉及对美进口商品加征关税措施的调整，具体商品清单与税率安排以官方公告为准。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-09/10728760.shtml",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "财经",
-      "title": "第九届进博会国家展近70个国家和国际组织参展",
-      "subtitle": "除欧美国家外，越来越多非洲国家参展，国家展成为观察中国开放的重要窗口。",
+      "date": "2026-11-09",
+      "domain": "互联网",
+      "title": "我国成功发射卫星互联网低轨29组卫星",
+      "subtitle": "11月9日凌晨4时24分，长征十二号运载火箭在海南商业航天发射场将卫星送入预定轨道。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/08/ARTIcQWkOdRDCioMPSedIZlU261108.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/11/09/ARTITWZYxXgni3lyWjWdeqUR261109.shtml",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "互联网",
-      "title": "第七届世界媒体峰会先导片《AI赋能，共赴新程》发布",
-      "subtitle": "峰会关注人工智能对全球传播格局的影响，先导片提前发布。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/world/20261107/8da40d852a8d4941b704b765d7d6bb15/c.html",
+      "date": "2026-11-09",
+      "domain": "大模型",
+      "title": "阿里云Token Plan个人版订阅额度上调70%以上",
+      "subtitle": "据阿里云消息，Lite、Essential、Standard三档套餐月费不变，月度额度提升约74%至78%。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103432211.html",
       "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "财经",
-      "title": "高盛时隔两个月再度下调黄金目标价 降幅超10%",
-      "subtitle": "国际金价波动加大，机构对黄金后市的判断出现调整。",
+      "date": "2026-11-09",
+      "domain": "汽车",
+      "title": "乘联分会：10月新能源乘用车零售同比下降13.7%",
+      "subtitle": "10月新能源乘用车零售110.9万辆，环比增长2.3%；1-10月累计零售886.9万辆。",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103430481.html",
+      "sourceUrl": "https://www.yicai.com/brief/103432123.html",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "互联网",
-      "title": "《俄罗斯报》社长：媒体不必与AI比速度",
-      "subtitle": "其在世界媒体峰会期间表示，媒体应提供技术无法保障的内容。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/20261108/4a8a4378525049b699a55b9fe45b850d/c.html",
+      "date": "2026-11-09",
+      "domain": "财经",
+      "title": "央行连续24个月增持黄金 创近两年最大加仓手笔",
+      "subtitle": "黄金储备延续增持节奏，市场关注后续官方储备资产配置变化。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103431153.html",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "交通",
-      "title": "厦金“小三通”客运航线今年客流量创通航以来年度新高",
-      "subtitle": "该航线年度客流量已超历年水平，两岸人员往来持续恢复。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-08/10728310.shtml",
+      "date": "2026-11-09",
+      "domain": "财经",
+      "title": "算力芯片概念震荡反弹 燧原科技涨近15%",
+      "subtitle": "天普股份、寒武纪、科德教育、沐曦股份、摩尔线程等涨幅靠前。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103432135.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "财经",
-      "title": "报告：2026年我国能源投资总额或达9400亿美元",
-      "subtitle": "《全球能源转型报告（2026）》显示，我国已构建全球最大、发展最快的可再生能源体系。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103431088.html",
+      "date": "2026-11-09",
+      "domain": "交通",
+      "title": "西渝高铁重庆枢纽段最大跨度桥梁顺利合龙",
+      "subtitle": "该桥为西渝高铁重庆枢纽段最大跨度桥梁，合龙后线路建设继续推进。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261108/d67342733edc427caf4e3e8304d760d3/c.html",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "数码",
-      "title": "拓斯达称在人形机器人领域达成多项合作",
-      "subtitle": "公司与凯航科技签署人形机器人采购协议，用于强化产线品控。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103431098.html",
+      "date": "2026-11-09",
+      "domain": "交通",
+      "title": "12月起进口小客车上牌推行“一件事”等5项便民措施",
+      "subtitle": "相关措施自12月起推行，涉及进口小客车新车上牌等便民事项。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-09/10728766.shtml",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
-      "domain": "其他",
-      "title": "中国第43次南极考察起航",
-      "subtitle": "考察队启程执行年度科考任务，本次任务清单已同步公布。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/08/VIDELcLLuqoUZ3yR6zPNadV7261108.shtml",
+      "date": "2026-11-09",
+      "domain": "汽车",
+      "title": "多家新能源车企调整电池供应 降低单一依赖",
+      "subtitle": "热榜讨论提到，理想、小米、小鹏、蔚来等在多供应商合作与自研电池上推进多元化。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2081333782171465172",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 10
     },
     {
-      "date": "2026-11-08",
-      "domain": "国际",
-      "title": "路透科技频道：AI与算力芯片报道持续更新",
-      "subtitle": "该频道汇集人工智能、半导体与算力基础设施领域的最新报道，是国际AI动态的重要来源入口。",
-      "sourceName": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "date": "2026-11-09",
+      "domain": "大模型",
+      "title": "Anthropic 官方新闻页：模型与安全议题动态",
+      "subtitle": "候选来源为官方新闻首页，本条目为频道级线索，具体报道以页面最新发布为准。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
       "region": "international",
       "priority": 11,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "domain": "大模型",
-      "title": "The Verge AI频道：生成式AI产品动态持续更新",
-      "subtitle": "该频道集中报道大模型产品、AI应用与行业竞争动向，反映海外AI产业最新进展。",
+      "title": "The Verge AI 频道：前沿模型与产品动态",
+      "subtitle": "候选来源为媒体AI频道首页，本条目为频道级线索，具体报道以页面最新发布为准。",
       "sourceName": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "region": "international",
       "priority": 12,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "domain": "大模型",
-      "title": "TechCrunch AI板块：AI创业与融资动态更新",
-      "subtitle": "该板块聚焦AI初创公司融资、模型商业化与企业级应用落地情况。",
+      "title": "TechCrunch AI 频道：AI 创业与融资动态",
+      "subtitle": "候选来源为媒体AI频道首页，本条目为频道级线索，具体报道以页面最新发布为准。",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
       "priority": 13,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "domain": "国际",
-      "title": "伊朗革命卫队称已解除导弹射程限制",
-      "subtitle": "央视新闻播发该消息，相关表态涉及导弹射程限制问题。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/08/VIDEyTsPmCGv4V8vlAl9Dmm8261108.shtml",
+      "title": "伊朗革命卫队称摧毁霍尔木兹海峡南部“敌方”导航辅助系统",
+      "subtitle": "伊方称8日夜间无船只经“未经授权”路线通过海峡，相关说法来自伊朗方面。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103432180.html",
       "region": "international",
       "priority": 14,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "domain": "国际",
-      "title": "以色列总统决定授权埃森科特组建新政府",
-      "subtitle": "中新网报道称，以色列总统作出授权正直党领导人埃森科特组阁的决定。",
+      "title": "菲律宾第三季度经济增速放缓至2.1%",
+      "subtitle": "该增速数据来自菲律宾官方统计，东南亚经济体增长走势受到市场关注。",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-08/10728308.shtml",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728762.shtml",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-11-08T05:53:13.520Z"
+      "generatedAt": "2026-11-09T06:10:38.418Z"
     }
   ]
 }
