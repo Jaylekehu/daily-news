@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T07:07:44.753Z",
+  "meta": {
+    "hotTrendCandidates": 5,
+    "hotTrendItems": 1
+  },
+  "items": [
+    {
+      "date": "2026-11-10",
+      "domain": "财经",
+      "title": "今年前10个月我国货物贸易进出口同比增长20%",
+      "subtitle": "中新网报道称前10个月货物贸易进出口同比增长20%，外贸运行走势受到关注。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/shipin/2026/11-10/news1074431.shtml",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "民生",
+      "title": "国家发改委发布民生大礼包",
+      "subtitle": "国家发展改革委发布民生领域政策举措，具体内容以官方发布口径为准。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103433774.html",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "大模型",
+      "title": "“星云星座计划”发布 我国太空算力网加快部署",
+      "subtitle": "2026太空云产业生态大会发布相关成果，标志“太空云”生态从技术验证走向产业化布局。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/10/ARTIkQnZGvHUeHBjNbkzG7Ft261110.shtml",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "交通",
+      "title": "5项公安交管便民利企改革新措施下月实施",
+      "subtitle": "公安交管领域推出5项改革新措施，将于下月起正式实施。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/10/VIDEWmAKxNEUBylB1qH07oYl261110.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "交通",
+      "title": "厦金大桥（厦门段）海上主线桥贯通",
+      "subtitle": "厦金大桥厦门段海上主线桥实现贯通，工程关键节点进展受到关注。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/10/VIDEuieq7JLPzW6YcWjU3BZr261110.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "财经",
+      "title": "今年第九期和第十期电子式储蓄国债发行",
+      "subtitle": "两期电子式储蓄国债启动发行，为居民稳健配置提供渠道。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/10/VIDE6gLWBKXF7kysMLJmdhqm261110.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "互联网",
+      "title": "我国加速低轨卫星互联网组网",
+      "subtitle": "低轨卫星互联网组网提速，空天信息基础设施建设持续推进。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/shipin/2026/11-10/news1074424.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "数码",
+      "title": "我国牵头制定的光栅扫描激光显示国际标准发布",
+      "subtitle": "国际电工委员会发布该项标准，内容涉及光栅扫描激光显示的扫描特性测试方法。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103434212.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "其他",
+      "title": "大晓机器人双脑协同架构首次落地酒店洗衣场景",
+      "subtitle": "该架构首次用于真实酒店场景，机器人可完成取衣、洗烘到送回的连续任务。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103434204.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "民生",
+      "title": "合肥肥东县发生3.0级地震 震源深度10公里",
+      "subtitle": "中国地震台网正式测定：11月10日10时54分肥东县发生3.0级地震，震源深度10公里。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-10T07:07:44.753Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜"
+      ],
+      "trendRank": 21
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "财经",
+      "title": "美国2026财年赤字达2万亿美元 债务占GDP100%",
+      "subtitle": "美国2026财年财政赤字规模达2万亿美元，债务占GDP比重为100%。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/shipin/2026/11-10/news1074430.shtml",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "国际",
+      "title": "伊朗最高领袖指示结束与美国“不战不和”状态",
+      "subtitle": "伊朗最高领袖就对美关系作出指示，相关表态引发外界对地区局势走向的关注。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-10/10729387.shtml",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "大模型",
+      "title": "The Verge AI 频道：国际 AI 动态跟踪入口",
+      "subtitle": "候选仅提供频道首页，暂无可核实的单篇报道，本期作为国际 AI 产品与行业动态入口。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "大模型",
+      "title": "TechCrunch AI 频道：国际 AI 创投与产品动态",
+      "subtitle": "候选仅提供频道首页，无具体报道细节，作为国际 AI 创业与产品动向的观察窗口。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    },
+    {
+      "date": "2026-11-10",
+      "domain": "大模型",
+      "title": "OpenAI 官方新闻页：模型与产品发布渠道",
+      "subtitle": "候选仅提供官方新闻首页，未含具体条目，作为国际大模型厂商一手信息核实入口。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-11-10T07:07:44.753Z"
+    }
+  ]
+}
