@@ -1,180 +1,180 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T06:00:59.370Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T07:01:23.028Z",
   "meta": {
-    "hotTrendCandidates": 4,
+    "hotTrendCandidates": 1,
     "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-11-11",
-      "domain": "财经",
-      "title": "前10个月我国货物贸易进出口同比增长20%",
-      "subtitle": "央视新闻称进口、出口连续6个月保持两位数增长，10月当月增速达31.2%",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/11/ARTILl8pdUIQV6QR9vXXraLn261111.shtml",
-      "region": "domestic",
+      "date": "2026-11-12",
+      "domain": "大模型",
+      "title": "英伟达两日市值蒸发近一个甲骨文，财报前机构态度分化",
+      "subtitle": "第一财经报道称，英伟达财报发布前机构态度出现分化，两日市值缩水规模接近一个甲骨文。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103436600.html",
+      "region": "international",
       "priority": 1,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "domain": "大模型",
-      "title": "OpenAI新闻页：模型与安全公告汇总",
-      "subtitle": "来源为OpenAI官方新闻首页，汇总其模型、产品与安全相关最新公告",
-      "sourceName": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/news/",
+      "title": "鸿海预计2027年AI机架出货量将实现两位数高增长",
+      "subtitle": "第一财经援引报道称，鸿海方面对2027年AI机架出货给出两位数高增长预期。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103438019.html",
       "region": "international",
       "priority": 2,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "domain": "大模型",
-      "title": "Anthropic新闻页：模型安全与公司动态",
-      "subtitle": "来源为Anthropic官方新闻首页，关注Claude模型、安全研究与政策动态",
-      "sourceName": "Anthropic News",
-      "sourceUrl": "https://www.anthropic.com/news",
+      "title": "路透科技频道持续更新全球AI与芯片报道",
+      "subtitle": "该频道汇总全球人工智能、半导体及大型科技公司的最新报道，可作为国际AI动态的观察入口。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
       "priority": 3,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
-      "domain": "大模型",
-      "title": "The Verge AI频道：人工智能产业动态",
-      "subtitle": "来源为The Verge AI频道首页，聚焦AI产品、公司与监管进展",
-      "sourceName": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "date": "2026-11-12",
+      "domain": "国际",
+      "title": "美国总统特使威特科夫与库什纳已抵达莫斯科",
+      "subtitle": "第一财经援引央视新闻称，美方特使威特科夫与特朗普女婿库什纳已抵达俄罗斯首都莫斯科。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103437986.html",
       "region": "international",
       "priority": 4,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "domain": "国际",
-      "title": "印度官员称印美继续磋商双边贸易协议",
-      "subtitle": "印度官员就印美双边贸易协议磋商进展作出表态，相关磋商仍在继续",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-11/10730069.shtml",
+      "title": "印尼就总统窃听案4名官员立案调查叛国嫌疑",
+      "subtitle": "印尼国家警察总长塞托12日表示，警方已对牵涉总统窃听案的4名官员立案调查叛国嫌疑。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103438068.html",
       "region": "international",
       "priority": 5,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
-      "domain": "国际",
-      "title": "日本多方批评高市政府扩军路线",
-      "subtitle": "相关批评声音认为日本不应在扩军道路上一路狂奔",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-11/10730044.shtml",
-      "region": "international",
-      "priority": 6,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
-    },
-    {
-      "date": "2026-11-11",
-      "domain": "财经",
-      "title": "第九届进博会闭幕 意向成交额创新高",
-      "subtitle": "新华社报道，第九届进博会闭幕，按年计意向成交额创新高",
+      "date": "2026-11-12",
+      "domain": "其他",
+      "title": "纪念孙中山先生诞辰160周年大会举行，习近平发表重要讲话",
+      "subtitle": "习近平出席大会并发表重要讲话，强调学习、继承、发扬孙中山先生的宝贵精神。",
       "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/photo/20261110/fa9db493646f4b548e340da13535656c/c.html",
+      "sourceUrl": "https://www.news.cn/politics/leaders/20261112/bb8d52ec046d490780c4a9eebaa0223b/c.html",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "其他",
+      "title": "我国成功发射探源计划探路者卫星",
+      "subtitle": "新华社报道，探源计划探路者卫星成功发射，相关空间探测任务由此展开。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/20261111/e5da270ac11248f1adf450af323d9440/c.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
-      "domain": "民生",
-      "title": "多项医疗卫生工程布局“十五五”",
-      "subtitle": "国家将统筹实施医疗卫生强基、病房改造、康复护理扩容提升等重点工程",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/11/ARTISHZpUiaELdxL0GpZnaw2261111.shtml",
+      "date": "2026-11-12",
+      "domain": "大模型",
+      "title": "国产地震大模型“谛听”：让AI听懂地球“心跳”",
+      "subtitle": "新华社报道介绍这款国产地震大模型在地震信号识别中的应用，AI正进入地球科学场景。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/tech/20261112/b56f883678514d9193be87ccf9e095f5/c.html",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
-      "domain": "交通",
-      "title": "12月1日起铁路客运电子发票服务再优化",
-      "subtitle": "央视新闻报道，铁路客运电子发票服务将从12月1日起进一步优化",
+      "date": "2026-11-12",
+      "domain": "财经",
+      "title": "财政部：全链条惩治财务报表和审计违法违规行为",
+      "subtitle": "监管部门明确对财务报表和审计违法违规行为实施全链条惩治，强化会计信息质量约束。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/11/VIDEt61ZesOFsvANfpDwNhx0261111.shtml",
+      "sourceUrl": "https://tv.cctv.com/2026/11/12/VIDE3koehxpk65lEbjAX8L8I261112.shtml",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
-      "domain": "互联网",
-      "title": "阿里巴巴拟分拆平头哥独立上市",
-      "subtitle": "第一财经报道，阿里巴巴拟分拆平头哥独立上市",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103435110.html",
+      "date": "2026-11-12",
+      "domain": "财经",
+      "title": "我国首次在加拿大发行人民币绿色主权债券",
+      "subtitle": "央视新闻报道，我国首次在加拿大发行人民币绿色主权债券，拓展绿色融资渠道。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/12/VIDECDzTzMgFlWR1ozWWWQjU261112.shtml",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
-      "domain": "其他",
-      "title": "我国首款商用级中小型纯太阳能无人机首飞成功",
-      "subtitle": "“轻骑兵”在西北某机场首飞成功，以太阳能为唯一动力",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103436049.html",
+      "date": "2026-11-12",
+      "domain": "交通",
+      "title": "重庆城市轨道交通运营里程跨越600公里",
+      "subtitle": "中新网报道，重庆城市轨道交通运营里程突破600公里，城市公共交通网络进一步织密。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-12/10730762.shtml",
       "region": "domestic",
       "priority": 11,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
-      "domain": "财经",
-      "title": "存储芯片板块短线拉升 多股涨停",
-      "subtitle": "利扬芯片、泰瑞机器涨停，南亚新材涨超10%，多只个股跟涨",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103436033.html",
+      "date": "2026-11-12",
+      "domain": "交通",
+      "title": "日照—仁川集装箱班轮航线首航，山东再添陆海通道",
+      "subtitle": "中新网报道，该航线首航为山东日照新增陆海循环通道，便利对韩集装箱运输。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-12/10730780.shtml",
       "region": "domestic",
       "priority": 12,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "domain": "民生",
-      "title": "新修订《基金会管理条例》明年1月1日施行",
-      "subtitle": "条例健全登记管理制度、完善内部治理机制，并加强基金会公信力建设",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-11/10730055.shtml",
+      "title": "暴雨暴雪来了，多地昼夜温差超15℃",
+      "subtitle": "多地出现暴雨暴雪天气，昼夜温差超过15℃，需注意防寒保暖与出行安全。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7707085930137534986",
       "region": "domestic",
       "priority": 13,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
-    },
-    {
-      "date": "2026-11-11",
-      "domain": "汽车",
-      "title": "10月20万元以上新能源车销量榜：小米三款车型包揽前三",
-      "subtitle": "榜单显示小米澎程N70、SU7、澎程N90分列前三，澎程系列10月交付27132辆",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2103425545253778677",
-      "region": "domestic",
-      "priority": 14,
-      "generatedAt": "2026-11-11T06:00:59.370Z",
+      "generatedAt": "2026-11-12T07:01:23.028Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
-        "知乎热榜"
+        "今日头条热榜"
       ],
-      "trendRank": 7
+      "trendRank": 20
     },
     {
-      "date": "2026-11-11",
-      "domain": "其他",
-      "title": "中国“两次发射”方案亮相 载人登月进入多路线并行",
-      "subtitle": "中新网报道，全球载人登月进入多路线并行时代",
+      "date": "2026-11-12",
+      "domain": "民生",
+      "title": "全国总工会：今年重点支持建设200家工匠学院",
+      "subtitle": "全国总工会确定2026年重点支持建设的200家工匠学院名单，主要面向重点传统产业和新兴产业。",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-11/10730068.shtml",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-12/10730794.shtml",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "民生",
+      "title": "岗位是假，贷款却为真：警惕“招聘医美贷”骗局",
+      "subtitle": "中新网报道提示，求职者需警惕以招聘为名诱导办理医美贷款的骗局，注意核实岗位真实性。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/fz/2026/11-12/10730802.shtml",
       "region": "domestic",
       "priority": 15,
-      "generatedAt": "2026-11-11T06:00:59.370Z"
+      "generatedAt": "2026-11-12T07:01:23.028Z"
     }
   ]
 }

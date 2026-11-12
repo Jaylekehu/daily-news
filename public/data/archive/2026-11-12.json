@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T07:01:23.028Z",
+  "meta": {
+    "hotTrendCandidates": 1,
+    "hotTrendItems": 1
+  },
+  "items": [
+    {
+      "date": "2026-11-12",
+      "domain": "大模型",
+      "title": "英伟达两日市值蒸发近一个甲骨文，财报前机构态度分化",
+      "subtitle": "第一财经报道称，英伟达财报发布前机构态度出现分化，两日市值缩水规模接近一个甲骨文。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103436600.html",
+      "region": "international",
+      "priority": 1,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "大模型",
+      "title": "鸿海预计2027年AI机架出货量将实现两位数高增长",
+      "subtitle": "第一财经援引报道称，鸿海方面对2027年AI机架出货给出两位数高增长预期。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103438019.html",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "大模型",
+      "title": "路透科技频道持续更新全球AI与芯片报道",
+      "subtitle": "该频道汇总全球人工智能、半导体及大型科技公司的最新报道，可作为国际AI动态的观察入口。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "国际",
+      "title": "美国总统特使威特科夫与库什纳已抵达莫斯科",
+      "subtitle": "第一财经援引央视新闻称，美方特使威特科夫与特朗普女婿库什纳已抵达俄罗斯首都莫斯科。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103437986.html",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "国际",
+      "title": "印尼就总统窃听案4名官员立案调查叛国嫌疑",
+      "subtitle": "印尼国家警察总长塞托12日表示，警方已对牵涉总统窃听案的4名官员立案调查叛国嫌疑。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103438068.html",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "其他",
+      "title": "纪念孙中山先生诞辰160周年大会举行，习近平发表重要讲话",
+      "subtitle": "习近平出席大会并发表重要讲话，强调学习、继承、发扬孙中山先生的宝贵精神。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/leaders/20261112/bb8d52ec046d490780c4a9eebaa0223b/c.html",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "其他",
+      "title": "我国成功发射探源计划探路者卫星",
+      "subtitle": "新华社报道，探源计划探路者卫星成功发射，相关空间探测任务由此展开。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/20261111/e5da270ac11248f1adf450af323d9440/c.html",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "大模型",
+      "title": "国产地震大模型“谛听”：让AI听懂地球“心跳”",
+      "subtitle": "新华社报道介绍这款国产地震大模型在地震信号识别中的应用，AI正进入地球科学场景。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/tech/20261112/b56f883678514d9193be87ccf9e095f5/c.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "财经",
+      "title": "财政部：全链条惩治财务报表和审计违法违规行为",
+      "subtitle": "监管部门明确对财务报表和审计违法违规行为实施全链条惩治，强化会计信息质量约束。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/12/VIDE3koehxpk65lEbjAX8L8I261112.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "财经",
+      "title": "我国首次在加拿大发行人民币绿色主权债券",
+      "subtitle": "央视新闻报道，我国首次在加拿大发行人民币绿色主权债券，拓展绿色融资渠道。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/12/VIDECDzTzMgFlWR1ozWWWQjU261112.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "交通",
+      "title": "重庆城市轨道交通运营里程跨越600公里",
+      "subtitle": "中新网报道，重庆城市轨道交通运营里程突破600公里，城市公共交通网络进一步织密。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-12/10730762.shtml",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "交通",
+      "title": "日照—仁川集装箱班轮航线首航，山东再添陆海通道",
+      "subtitle": "中新网报道，该航线首航为山东日照新增陆海循环通道，便利对韩集装箱运输。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-12/10730780.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "民生",
+      "title": "暴雨暴雪来了，多地昼夜温差超15℃",
+      "subtitle": "多地出现暴雨暴雪天气，昼夜温差超过15℃，需注意防寒保暖与出行安全。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7707085930137534986",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-12T07:01:23.028Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "今日头条热榜"
+      ],
+      "trendRank": 20
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "民生",
+      "title": "全国总工会：今年重点支持建设200家工匠学院",
+      "subtitle": "全国总工会确定2026年重点支持建设的200家工匠学院名单，主要面向重点传统产业和新兴产业。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-12/10730794.shtml",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    },
+    {
+      "date": "2026-11-12",
+      "domain": "民生",
+      "title": "岗位是假，贷款却为真：警惕“招聘医美贷”骗局",
+      "subtitle": "中新网报道提示，求职者需警惕以招聘为名诱导办理医美贷款的骗局，注意核实岗位真实性。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/fz/2026/11-12/10730802.shtml",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-11-12T07:01:23.028Z"
+    }
+  ]
+}
