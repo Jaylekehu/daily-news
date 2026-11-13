@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T06:30:36.654Z",
+  "meta": {
+    "hotTrendCandidates": 3,
+    "hotTrendItems": 2
+  },
+  "items": [
+    {
+      "date": "2026-11-13",
+      "domain": "国际",
+      "title": "路透社科技频道持续更新AI与芯片报道",
+      "subtitle": "候选为路透社科技频道首页，具体报道内容以页面更新为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 1,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "大模型",
+      "title": "The Verge AI频道发布人工智能最新报道",
+      "subtitle": "候选为The Verge AI频道首页，具体报道以页面更新为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道更新AI创业与产业报道",
+      "subtitle": "候选为TechCrunch AI频道首页，具体报道以页面更新为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "大模型",
+      "title": "OpenAI新闻页更新模型与产品信息",
+      "subtitle": "候选为OpenAI新闻首页，具体发布内容以页面更新为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "财经",
+      "title": "英伟达CEO换人，盘中市值跌破4万亿美元",
+      "subtitle": "第一财经报道英伟达管理层变动及盘中市值变化。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103438886.html",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "其他",
+      "title": "习近平将出席APEC第三十三次领导人非正式会议",
+      "subtitle": "会议将于11月18日至19日在深圳举行，相关活动安排同期公布。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/leaders/20261113/7b2c435da8314e378d00c2a8153cb6f4/c.html",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "民生",
+      "title": "数说APEC：中国餐桌的APEC含量",
+      "subtitle": "APEC贸易畅通带来的实惠已进入百姓日常消费场景。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/13/ARTI87XnraToOglY0VLiVBBd261113.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "民生",
+      "title": "我国水土保持综合治理提质增效",
+      "subtitle": "各地利用施工黄金期因地制宜治理水土流失。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/13/ARTIn2f2C0gde3eHVIZSr2pg261113.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "财经",
+      "title": "储能装备加速出海",
+      "subtitle": "2025年我国储能电池出口同比增长67.9%，业务覆盖60多个国家。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/13/ARTIHohjvz8obzgSqHC4GJMt261113.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "民生",
+      "title": "《技能人才评价条例》向社会公开征求意见",
+      "subtitle": "条例公开征求意见，涉及技能人才评价制度。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/13/VIDEH6s8zeSFpLzIotnQOvTR261113.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "交通",
+      "title": "横琴口岸年度车流量首次突破400万辆次",
+      "subtitle": "横琴口岸年度车流量创历史新高。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/13/VIDE5VljwqsqZe5QEM0zy1mw261113.shtml",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "财经",
+      "title": "我国牵头虚拟电厂一次调频国际标准立项",
+      "subtitle": "该提案在国际电工委员会成功立项，涉及一次调频功能要求与规范。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-13/10731461.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "财经",
+      "title": "前10月个税收入预计超去年全年",
+      "subtitle": "第一财经报道今年前10月个税收入增长情况。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103439496.html",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-13T06:30:36.654Z"
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "民生",
+      "title": "郭树清建议尽快启动遗产税与赠与税立法",
+      "subtitle": "他建议新增税收仅涉及少数高收入群体，可用于基本养老金补助。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2104519048557850782",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-13T06:30:36.654Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 13
+    },
+    {
+      "date": "2026-11-13",
+      "domain": "财经",
+      "title": "A股英伟达概念股遭遇冲击",
+      "subtitle": "热榜话题显示市场关注英伟达相关概念股波动，具体行情以市场数据为准。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7707322757604786715",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-11-13T06:30:36.654Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "今日头条热榜"
+      ],
+      "trendRank": 1
+    }
+  ]
+}
