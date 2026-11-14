@@ -1,185 +1,180 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T06:30:36.654Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T06:09:18.423Z",
   "meta": {
     "hotTrendCandidates": 3,
-    "hotTrendItems": 2
+    "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-11-13",
-      "domain": "国际",
-      "title": "路透社科技频道持续更新AI与芯片报道",
-      "subtitle": "候选为路透社科技频道首页，具体报道内容以页面更新为准。",
-      "sourceName": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "region": "international",
-      "priority": 1,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "大模型",
-      "title": "The Verge AI频道发布人工智能最新报道",
-      "subtitle": "候选为The Verge AI频道首页，具体报道以页面更新为准。",
-      "sourceName": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "region": "international",
-      "priority": 2,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "大模型",
-      "title": "TechCrunch AI频道更新AI创业与产业报道",
-      "subtitle": "候选为TechCrunch AI频道首页，具体报道以页面更新为准。",
-      "sourceName": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "region": "international",
-      "priority": 3,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "大模型",
-      "title": "OpenAI新闻页更新模型与产品信息",
-      "subtitle": "候选为OpenAI新闻首页，具体发布内容以页面更新为准。",
-      "sourceName": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/news/",
-      "region": "international",
-      "priority": 4,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "domain": "财经",
-      "title": "英伟达CEO换人，盘中市值跌破4万亿美元",
-      "subtitle": "第一财经报道英伟达管理层变动及盘中市值变化。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103438886.html",
-      "region": "international",
-      "priority": 5,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "其他",
-      "title": "习近平将出席APEC第三十三次领导人非正式会议",
-      "subtitle": "会议将于11月18日至19日在深圳举行，相关活动安排同期公布。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/politics/leaders/20261113/7b2c435da8314e378d00c2a8153cb6f4/c.html",
-      "region": "domestic",
-      "priority": 6,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "民生",
-      "title": "数说APEC：中国餐桌的APEC含量",
-      "subtitle": "APEC贸易畅通带来的实惠已进入百姓日常消费场景。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/13/ARTI87XnraToOglY0VLiVBBd261113.shtml",
-      "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "民生",
-      "title": "我国水土保持综合治理提质增效",
-      "subtitle": "各地利用施工黄金期因地制宜治理水土流失。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/13/ARTIn2f2C0gde3eHVIZSr2pg261113.shtml",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "财经",
-      "title": "储能装备加速出海",
-      "subtitle": "2025年我国储能电池出口同比增长67.9%，业务覆盖60多个国家。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/13/ARTIHohjvz8obzgSqHC4GJMt261113.shtml",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "民生",
-      "title": "《技能人才评价条例》向社会公开征求意见",
-      "subtitle": "条例公开征求意见，涉及技能人才评价制度。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/13/VIDEH6s8zeSFpLzIotnQOvTR261113.shtml",
-      "region": "domestic",
-      "priority": 10,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "交通",
-      "title": "横琴口岸年度车流量首次突破400万辆次",
-      "subtitle": "横琴口岸年度车流量创历史新高。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/13/VIDE5VljwqsqZe5QEM0zy1mw261113.shtml",
-      "region": "domestic",
-      "priority": 11,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
-      "domain": "财经",
-      "title": "我国牵头虚拟电厂一次调频国际标准立项",
-      "subtitle": "该提案在国际电工委员会成功立项，涉及一次调频功能要求与规范。",
+      "title": "前10个月社会融资规模新增28.61万亿元",
+      "subtitle": "中新网报道今年前10个月社融增量数据，反映金融体系对实体经济的资金支持规模。",
       "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-13/10731461.shtml",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-14/10731982.shtml",
       "region": "domestic",
-      "priority": 12,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
+      "priority": 1,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
     },
     {
-      "date": "2026-11-13",
-      "domain": "财经",
-      "title": "前10月个税收入预计超去年全年",
-      "subtitle": "第一财经报道今年前10月个税收入增长情况。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103439496.html",
-      "region": "domestic",
-      "priority": 13,
-      "generatedAt": "2026-11-13T06:30:36.654Z"
-    },
-    {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "domain": "民生",
-      "title": "郭树清建议尽快启动遗产税与赠与税立法",
-      "subtitle": "他建议新增税收仅涉及少数高收入群体，可用于基本养老金补助。",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2104519048557850782",
+      "title": "51个一类新药进入新版国家医保药品目录",
+      "subtitle": "中新网报道新版国家医保药品目录调整结果，一类创新药进入目录将进一步影响患者用药负担。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/jk/2026/11-14/10731953.shtml",
       "region": "domestic",
-      "priority": 14,
-      "generatedAt": "2026-11-13T06:30:36.654Z",
+      "priority": 2,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "财经",
+      "title": "深圳前10个月进出口5.25万亿元 成内地首个超5万亿城市",
+      "subtitle": "据深圳海关统计，深圳进出口历史上首次突破5万亿元，同比增长40.9%，出口2.71万亿元。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103440733.html",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "财经",
+      "title": "吴清：加快构建适应创新规律、产业规律的直接融资体系",
+      "subtitle": "证监会主席吴清在2026年中国资本市场学术年会上谈及深化投融资综合改革与资本市场风险抵御能力。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103440725.html",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "大模型",
+      "title": "DeepSeek 开放全家桶应用 API：可调用深度思考搜索、文件输入等能力",
+      "subtitle": "知乎热榜讨论显示，开发者通过参数即可调用对话功能，语音及 OCR、ASR、TTS 等底层能力也已开放独立接口。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2104706638724560731",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-14T06:09:18.423Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
         "知乎热榜"
       ],
-      "trendRank": 13
+      "trendRank": 23
     },
     {
-      "date": "2026-11-13",
-      "domain": "财经",
-      "title": "A股英伟达概念股遭遇冲击",
-      "subtitle": "热榜话题显示市场关注英伟达相关概念股波动，具体行情以市场数据为准。",
-      "sourceName": "今日头条热榜",
-      "sourceUrl": "https://www.toutiao.com/trending/7707322757604786715",
+      "date": "2026-11-14",
+      "domain": "汽车",
+      "title": "华为和赛力斯新合作模式落定",
+      "subtitle": "第一财经报道双方合作模式尘埃落定，具体安排涉及智能汽车业务分工，值得持续关注。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103440260.html",
       "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "交通",
+      "title": "深圳：APEC会议期间地铁公交票价五折优惠",
+      "subtitle": "深圳市长在深圳APEC相关场合介绍会议期间公共交通票价优惠安排，会议各项筹备工作已就绪。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-14/news1074859.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "大模型",
+      "title": "国家数据局：高质量数据集与数据标注先行先试现场会在厦门召开",
+      "subtitle": "会议于11月10日下午举行，强调落实关于人工智能发展的相关部署，推进数据要素与标注产业建设。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103440738.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "民生",
+      "title": "17省份65岁及以上人口超少儿 多地小学幼儿园改为养老院",
+      "subtitle": "第一财经报道人口结构变化下的公共服务调整，部分教育资源正转向养老服务用途。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103440234.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "数码",
+      "title": "笔记本电脑线上均价升至7759元 部分机型双11价格较618明显上涨",
+      "subtitle": "第一财经报道笔记本线上成交均价上行，个别机型大促价格较618出现较大幅度抬升。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103440334.html",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "国际",
+      "title": "路透科技栏目：全球 AI 与芯片算力动态",
+      "subtitle": "候选来源为路透社科技栏目首页，当日 AI 企业、算力与监管相关报道请见原文。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "国际",
+      "title": "美联社科技栏目：科技产业与 AI 动态",
+      "subtitle": "候选来源为美联社科技栏目首页，具体报道内容与细节以原文页面为准。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "大模型",
+      "title": "The Verge AI 栏目：人工智能产品与行业动态",
+      "subtitle": "候选来源为 The Verge 人工智能栏目首页，当日 AI 产品与行业报道请见原文。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "大模型",
+      "title": "TechCrunch AI 栏目：AI 创业与融资动态",
+      "subtitle": "候选来源为 TechCrunch 人工智能栏目首页，初创公司融资与产品发布信息以原文为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-14T06:09:18.423Z"
+    },
+    {
+      "date": "2026-11-14",
+      "domain": "大模型",
+      "title": "OpenAI 官方新闻页：模型与产品更新",
+      "subtitle": "候选来源为 OpenAI 官方新闻栏目首页，模型能力、安全与产品公告以官方原文为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
       "priority": 15,
-      "generatedAt": "2026-11-13T06:30:36.654Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "今日头条热榜"
-      ],
-      "trendRank": 1
+      "generatedAt": "2026-11-14T06:09:18.423Z"
     }
   ]
 }
