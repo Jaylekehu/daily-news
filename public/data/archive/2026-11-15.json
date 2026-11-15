@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T06:17:16.077Z",
+  "meta": {
+    "hotTrendCandidates": 3,
+    "hotTrendItems": 0
+  },
+  "items": [
+    {
+      "date": "2026-11-15",
+      "domain": "财经",
+      "title": "今起生效！金融机构外汇存款准备金率提高至6%",
+      "subtitle": "央行将金融机构外汇存款准备金率由4%提高到6%，11月15日正式生效。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103440951.html",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "交通",
+      "title": "今年1至10月全国铁路发送旅客41.3亿人次创新高",
+      "subtitle": "国铁集团数据显示，今年前10个月全国铁路旅客发送量创历史同期新高。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/15/VIDEvGZm2dKPqXMYQQuDzDes261115.shtml",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "财经",
+      "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+      "subtitle": "2026年APEC工商领导人峰会将在深圳举行，超百家世界500强企业代表确认参会。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/world/20261115/7a48b16a60914138a68075eda398f3d4/c.html",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "大模型",
+      "title": "“十五五”一线新实践：看算力重镇乌兰察布的拔节生长",
+      "subtitle": "内蒙古乌兰察布依托算力产业加快发展，成为“十五五”一线新实践样本。",
+      "sourceName": "新华社",
+      "sourceUrl": "http://nmg.news.cn/20261114/78134f419d2846efbc7fb77d8a0049e6/c.html",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "财经",
+      "title": "A股总市值超100万亿 吴清提出资本市场六个“进一步深化”",
+      "subtitle": "A股总市值突破100万亿元，证监会主席吴清阐述资本市场深化改革方向。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103440789.html",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "大模型",
+      "title": "美联储报告：AI推高股票估值，数据中心热潮堪比本世纪初互联网",
+      "subtitle": "美联储报告称AI推高股票估值，数据中心投资热潮被类比为本世纪初互联网泡沫时期。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103440692.html",
+      "region": "international",
+      "priority": 6,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "民生",
+      "title": "多地陆续开启秋假 激发文旅消费活力",
+      "subtitle": "11月起全国百余城市中小学陆续开启秋假，带动亲子游、研学游升温。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/15/ARTIEVejyWGkehJMCNmK939E261115.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "民生",
+      "title": "中央气象台：中东部将有大范围大风降温和雨雪天气",
+      "subtitle": "中央气象台预计，中东部地区将出现大风降温及雨雪天气，需注意防寒保暖。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/15/VIDE3aH6uJH0OrVBee67mpOj261115.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "财经",
+      "title": "中国经济面面观：从“双十一”看中国经济新动能",
+      "subtitle": "“双十一”消费数据折射中国经济新动能，线上消费与产业升级受关注。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/fortune/20261114/f7098783407d4c58bc08dab3775bd380/c.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "交通",
+      "title": "我国10吨级电动商用飞机有人驾驶首飞成功",
+      "subtitle": "国内10吨级电动商用飞机完成有人驾驶首飞，电动航空商业化探索取得进展。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261114/7e7ed43e9e45489f93aad567ef97db3b/c.html",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "互联网",
+      "title": "国产AI漫剧抢占全球市场",
+      "subtitle": "国产AI漫剧加速出海，人工智能降低内容制作成本并提升产能。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-15/10732321.shtml",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "大模型",
+      "title": "科技巨头押注AI制药",
+      "subtitle": "多家科技巨头加快布局AI制药，人工智能正加速进入药物研发环节。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-15/10732320.shtml",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "数码",
+      "title": "SpaceX星舰“双回收”完成一半：二级飞船首次被“筷子”接住",
+      "subtitle": "星舰试飞中二级飞船首次被发射塔机械臂接住，双回收目标完成一半。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103440907.html",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "交通",
+      "title": "美国纽约州长就停飞事件要求美交通部长辞职",
+      "subtitle": "纽约州长霍楚尔要求交通部长达菲辞职，理由涉及空中交通管制员短缺等问题。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103440946.html",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    },
+    {
+      "date": "2026-11-15",
+      "domain": "大模型",
+      "title": "路透社科技频道聚焦AI与芯片产业动态",
+      "subtitle": "国际主流媒体持续关注人工智能、算力与芯片供应链进展。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-11-15T06:17:16.077Z"
+    }
+  ]
+}
