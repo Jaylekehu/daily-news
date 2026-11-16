@@ -1,0 +1,183 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T06:15:45.839Z",
+  "meta": {
+    "hotTrendCandidates": 4,
+    "hotTrendItems": 1
+  },
+  "items": [
+    {
+      "date": "2026-11-16",
+      "domain": "国际",
+      "title": "外交部：中俄美元首会晤将于11月19日在深圳举行",
+      "subtitle": "外交部发言人11月16日宣布，习近平将同普京、特朗普举行中俄美元首会晤。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/leaders/20261116/6e79955146d14fad9397d0eac92bce27/c.html",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "国际",
+      "title": "亚太经合组织第三十三次领导人非正式会议将在深圳举行",
+      "subtitle": "中方表示将同各方一道，汇聚各成员经济体智慧与力量，共绘亚太繁荣新图景。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/16/ARTIvZjq3YMz2y8dq4IEFXix261116.shtml",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "大模型",
+      "title": "DeepSeek因算力不足限额",
+      "subtitle": "该话题登上今日头条热榜，大模型算力供给问题受到关注。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7708605762871758386",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-16T06:15:45.839Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "今日头条热榜",
+        "百度热搜",
+        "微博热搜",
+        "知乎热榜"
+      ],
+      "trendRank": 9
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "大模型",
+      "title": "中国与东盟宣布将2027年定为人工智能合作年",
+      "subtitle": "中新网报道，人工智能成为双方区域合作的新议题。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-16/10732701.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "大模型",
+      "title": "Token首次走进直播间，如何管住AI解决问题的能力",
+      "subtitle": "中新网报道关注大模型服务进入直播场景后的治理与规范问题。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-16/10732705.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "财经",
+      "title": "国家统计局：10月我国工业机器人产量同比增长26%",
+      "subtitle": "国家统计局发布10月份工业机器人产量数据。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-16/10732715.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "民生",
+      "title": "“天价”抗癌药进医保，迈出普惠关键一步",
+      "subtitle": "中新网报道关注高价创新药纳入医保后患者可及性的改善。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-16/10732728.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "交通",
+      "title": "今年前10月国家铁路发送货物34.2亿吨",
+      "subtitle": "央视新闻发布国家铁路货运最新数据。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/16/VIDEz8UWAIAeNO6Ftz3EhIVg261116.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "汽车",
+      "title": "汽车改装要有政策规范了",
+      "subtitle": "第一财经关注汽车改装领域的政策规范问题。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103441000.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "民生",
+      "title": "大范围雨雪持续，西北东北等局地有暴雪",
+      "subtitle": "中新网报道，湖南、广西、广东等地雨势较强。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-16/10732720.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "国际",
+      "title": "路透社科技频道：全球AI与半导体产业动态",
+      "subtitle": "候选为科技频道首页，汇总人工智能、算力与芯片领域报道。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "国际",
+      "title": "美联社科技频道：AI与科技产业最新报道",
+      "subtitle": "候选为科技频道首页，涵盖人工智能及科技公司相关动态。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "大模型",
+      "title": "The Verge AI频道：人工智能产品与行业观察",
+      "subtitle": "候选为AI频道首页，聚焦模型产品、应用与行业动向。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：AI创业与融资动态",
+      "subtitle": "候选为AI频道首页，关注人工智能初创企业与产业投资动向。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    },
+    {
+      "date": "2026-11-16",
+      "domain": "大模型",
+      "title": "OpenAI官方博客：模型与产品更新动态",
+      "subtitle": "候选为OpenAI新闻首页，发布模型、产品与安全相关更新信息。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-11-16T06:15:45.839Z"
+    }
+  ]
+}
