@@ -1,183 +1,180 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T06:15:45.839Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T07:47:03.221Z",
   "meta": {
-    "hotTrendCandidates": 4,
+    "hotTrendCandidates": 6,
     "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-11-16",
-      "domain": "国际",
-      "title": "外交部：中俄美元首会晤将于11月19日在深圳举行",
-      "subtitle": "外交部发言人11月16日宣布，习近平将同普京、特朗普举行中俄美元首会晤。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/politics/leaders/20261116/6e79955146d14fad9397d0eac92bce27/c.html",
+      "date": "2026-11-17",
+      "domain": "大模型",
+      "title": "外交部回应美方调查涉英伟达芯片一事",
+      "subtitle": "外交部发言人郭嘉昆表示，中方在美国输华芯片问题上的立场是一贯的。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-17/10733474.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
+      "generatedAt": "2026-11-17T07:47:03.221Z"
     },
     {
-      "date": "2026-11-16",
-      "domain": "国际",
-      "title": "亚太经合组织第三十三次领导人非正式会议将在深圳举行",
-      "subtitle": "中方表示将同各方一道，汇聚各成员经济体智慧与力量，共绘亚太繁荣新图景。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/16/ARTIvZjq3YMz2y8dq4IEFXix261116.shtml",
+      "date": "2026-11-17",
+      "domain": "大模型",
+      "title": "外交部：美限制远程获取先进半导体属经济胁迫",
+      "subtitle": "针对美方限制远程获取先进半导体的临时最终规则，中方称这是典型的经济胁迫和长臂管辖。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103443617.html",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
+      "generatedAt": "2026-11-17T07:47:03.221Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "domain": "大模型",
-      "title": "DeepSeek因算力不足限额",
-      "subtitle": "该话题登上今日头条热榜，大模型算力供给问题受到关注。",
-      "sourceName": "今日头条热榜",
-      "sourceUrl": "https://www.toutiao.com/trending/7708605762871758386",
-      "region": "domestic",
-      "priority": 3,
-      "generatedAt": "2026-11-16T06:15:45.839Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "今日头条热榜",
-        "百度热搜",
-        "微博热搜",
-        "知乎热榜"
-      ],
-      "trendRank": 9
-    },
-    {
-      "date": "2026-11-16",
-      "domain": "大模型",
-      "title": "中国与东盟宣布将2027年定为人工智能合作年",
-      "subtitle": "中新网报道，人工智能成为双方区域合作的新议题。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-16/10732701.shtml",
-      "region": "domestic",
-      "priority": 4,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
-    },
-    {
-      "date": "2026-11-16",
-      "domain": "大模型",
-      "title": "Token首次走进直播间，如何管住AI解决问题的能力",
-      "subtitle": "中新网报道关注大模型服务进入直播场景后的治理与规范问题。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-16/10732705.shtml",
-      "region": "domestic",
-      "priority": 5,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
-    },
-    {
-      "date": "2026-11-16",
-      "domain": "财经",
-      "title": "国家统计局：10月我国工业机器人产量同比增长26%",
-      "subtitle": "国家统计局发布10月份工业机器人产量数据。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-16/10732715.shtml",
-      "region": "domestic",
-      "priority": 6,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
-    },
-    {
-      "date": "2026-11-16",
-      "domain": "民生",
-      "title": "“天价”抗癌药进医保，迈出普惠关键一步",
-      "subtitle": "中新网报道关注高价创新药纳入医保后患者可及性的改善。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-16/10732728.shtml",
-      "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
-    },
-    {
-      "date": "2026-11-16",
-      "domain": "交通",
-      "title": "今年前10月国家铁路发送货物34.2亿吨",
-      "subtitle": "央视新闻发布国家铁路货运最新数据。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/16/VIDEz8UWAIAeNO6Ftz3EhIVg261116.shtml",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
-    },
-    {
-      "date": "2026-11-16",
-      "domain": "汽车",
-      "title": "汽车改装要有政策规范了",
-      "subtitle": "第一财经关注汽车改装领域的政策规范问题。",
+      "title": "美联储主席沃什：AI对经济很重要，但需防范重大风险",
+      "subtitle": "第一财经报道，沃什在讲话中肯定AI对经济的作用，同时提示需要防范相关重大风险。",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103441000.html",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
+      "sourceUrl": "https://www.yicai.com/news/103442802.html",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
     },
     {
-      "date": "2026-11-16",
-      "domain": "民生",
-      "title": "大范围雨雪持续，西北东北等局地有暴雪",
-      "subtitle": "中新网报道，湖南、广西、广东等地雨势较强。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-16/10732720.shtml",
-      "region": "domestic",
-      "priority": 10,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
+      "date": "2026-11-17",
+      "domain": "大模型",
+      "title": "英伟达没有“二号人物”",
+      "subtitle": "第一财经刊文讨论英伟达管理层结构，指出公司并无明确的“二号人物”。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103443269.html",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
     },
     {
-      "date": "2026-11-16",
-      "domain": "国际",
-      "title": "路透社科技频道：全球AI与半导体产业动态",
-      "subtitle": "候选为科技频道首页，汇总人工智能、算力与芯片领域报道。",
+      "date": "2026-11-17",
+      "domain": "大模型",
+      "title": "路透科技频道：全球AI与芯片产业动态",
+      "subtitle": "来源为路透科技频道首页，内容持续更新，聚焦AI、芯片与全球科技公司动向。",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
-      "priority": 11,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
+      "priority": 5,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
     },
     {
-      "date": "2026-11-16",
-      "domain": "国际",
-      "title": "美联社科技频道：AI与科技产业最新报道",
-      "subtitle": "候选为科技频道首页，涵盖人工智能及科技公司相关动态。",
-      "sourceName": "AP Technology",
-      "sourceUrl": "https://apnews.com/hub/technology",
-      "region": "international",
-      "priority": 12,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
-    },
-    {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "domain": "大模型",
-      "title": "The Verge AI频道：人工智能产品与行业观察",
-      "subtitle": "候选为AI频道首页，聚焦模型产品、应用与行业动向。",
-      "sourceName": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "region": "international",
-      "priority": 13,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
-    },
-    {
-      "date": "2026-11-16",
-      "domain": "大模型",
-      "title": "TechCrunch AI频道：AI创业与融资动态",
-      "subtitle": "候选为AI频道首页，关注人工智能初创企业与产业投资动向。",
+      "title": "TechCrunch AI频道：人工智能创业与产品动态",
+      "subtitle": "来源为TechCrunch人工智能频道首页，覆盖AI创业公司、产品发布与行业融资。",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
-      "priority": 14,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
+      "priority": 6,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "domain": "大模型",
-      "title": "OpenAI官方博客：模型与产品更新动态",
-      "subtitle": "候选为OpenAI新闻首页，发布模型、产品与安全相关更新信息。",
-      "sourceName": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/news/",
+      "title": "The Verge AI频道：人工智能产品与行业观察",
+      "subtitle": "来源为The Verge人工智能频道首页，关注AI产品、平台与行业趋势。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "region": "international",
+      "priority": 7,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
+    },
+    {
+      "date": "2026-11-17",
+      "domain": "财经",
+      "title": "国家统计局：房地产市场出现一定积极变化",
+      "subtitle": "随着各地房地产政策优化调整，一二三线城市商品住宅销售价格同比降幅继续收窄。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://jingji.cctv.com/2026/11/17/ARTIGWFlnJvTEIrIChF770Iu261117.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
+    },
+    {
+      "date": "2026-11-17",
+      "domain": "财经",
+      "title": "APEC“中国年”经贸成果丰硕，达成近50项务实成果",
+      "subtitle": "中方与其他APEC经济体在区域经济一体化、数智合作、绿色经济等领域达成近50项务实成果。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/17/ARTI6aCztnlTVlQ3s6vKwPb4261117.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
+    },
+    {
+      "date": "2026-11-17",
+      "domain": "财经",
+      "title": "前十月新动能贡献超五成，工业增长焕发创新活力",
+      "subtitle": "中新网报道显示，前10个月新动能对工业增长的贡献超过五成。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-17/10733469.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
+    },
+    {
+      "date": "2026-11-17",
+      "domain": "汽车",
+      "title": "李彦宏：无人驾驶出租车安全记录优于人类司机",
+      "subtitle": "李彦宏在英文发言中呼吁更多经济体开放自动驾驶出租车试点，称已看到曙光。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%BD%A6%E5%AE%8F%E8%8B%B1%E6%96%87%E5%8F%91%E8%A8%80%E8%B0%88%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-17T07:47:03.221Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜"
+      ],
+      "trendRank": 17
+    },
+    {
+      "date": "2026-11-17",
+      "domain": "民生",
+      "title": "我国特高压外送迎来首个“万亿级”省区",
+      "subtitle": "新华社报道，该省区特高压外送电量突破1万亿千瓦时。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/fortune/20261116/80f3c63520b24429a1ea42ec91580693/c.html",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
+    },
+    {
+      "date": "2026-11-17",
+      "domain": "民生",
+      "title": "两部门联合发布新一批非食用物质名录",
+      "subtitle": "央视新闻报道，两部门联合公布新一批非食用物质名录。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/17/VIDESQSodtivEXUqCNICD1eW261117.shtml",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
+    },
+    {
+      "date": "2026-11-17",
+      "domain": "其他",
+      "title": "湖北：脑机接口“意念训练”助偏瘫老人恢复手脚活动",
+      "subtitle": "中新网视频报道，湖北有机构利用脑机接口开展“意念训练”，帮助偏瘫老人恢复肢体活动。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-17/news1075201.shtml",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-17T07:47:03.221Z"
+    },
+    {
+      "date": "2026-11-17",
+      "domain": "互联网",
+      "title": "“智能好物”热卖，消费解锁新空间",
+      "subtitle": "该报道关注智能产品热销现象，探讨智能消费带来的新增长空间。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-17/10733471.shtml",
+      "region": "domestic",
       "priority": 15,
-      "generatedAt": "2026-11-16T06:15:45.839Z"
+      "generatedAt": "2026-11-17T07:47:03.221Z"
     }
   ]
 }
