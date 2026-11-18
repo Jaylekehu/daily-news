@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T07:15:26.506Z",
+  "meta": {
+    "hotTrendCandidates": 3,
+    "hotTrendItems": 1
+  },
+  "items": [
+    {
+      "date": "2026-11-18",
+      "domain": "大模型",
+      "title": "The Verge AI 频道：人工智能产业最新报道",
+      "subtitle": "该频道聚焦 AI 产品、模型能力与行业动向，具体报道内容以来源页面为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 1,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "大模型",
+      "title": "TechCrunch AI 频道：人工智能创投与产品动态",
+      "subtitle": "该频道关注 AI 创业公司、融资与产品发布，具体报道内容以来源页面为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "大模型",
+      "title": "OpenAI 官方新闻页：模型与产品动态更新",
+      "subtitle": "OpenAI 官方新闻频道汇总其模型与产品相关信息，具体内容以来源页面为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "大模型",
+      "title": "Anthropic 官方新闻页：模型与安全研究动态",
+      "subtitle": "Anthropic 官方新闻频道发布模型与安全相关资讯，具体内容以来源页面为准。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "国际",
+      "title": "路透社科技频道：全球科技与 AI 产业报道",
+      "subtitle": "关注芯片、算力与大型科技公司动向，具体报道内容以来源页面为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "其他",
+      "title": "神舟二十四号船箭组合体转运至发射区",
+      "subtitle": "飞船与长征二号 F 遥二十四运载火箭组合体已转运至发射区，计划近日择机发射。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/18/ARTI3ZYN11E34Za92POGuKD6261118.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "民生",
+      "title": "我国全面推行疫苗处方",
+      "subtitle": "央视新闻视频报道，相关举措面向疫苗接种服务环节推行，具体安排以官方发布为准。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/18/VIDEzIbhCkfpAUYrJ4ALYcFF261118.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "民生",
+      "title": "国家医保局：96.45% 统筹地区支持共济资金代缴保费",
+      "subtitle": "国家医保局披露支持共济资金代缴保费的统筹地区覆盖情况。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/18/VIDEDZ8ffUyMiqDTWOYU1vZi261118.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "民生",
+      "title": "我国持续推动积极应对人口老龄化国家战略走深走实",
+      "subtitle": "各地健全城乡养老服务网络、发展农村养老，推进老年友好型社会建设。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/18/ARTIJuv79hvGXF4zGCWqKHqZ261118.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "民生",
+      "title": "住房城乡建设部：将推广更加便利的垃圾分类投放方式",
+      "subtitle": "国新办发布会上，住房城乡建设部有关负责人介绍将提升群众垃圾分类投放体验。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/18/ARTItm9hfi7u111L6CmAhldW261118.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "财经",
+      "title": "中方支持成立世界湾区经济合作联盟",
+      "subtitle": "新华社报道，中方在亚太经合组织相关场合表达上述立场。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/leaders/20261118/f199a79649b54bef9583360997eb0e25/c.html",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "财经",
+      "title": "前 10 个月深圳对 APEC 其他经济体进出口增长超四成",
+      "subtitle": "中新网报道，深圳与亚太经合组织其他经济体的贸易往来保持增长。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-18/10734093.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "数码",
+      "title": "黄仁勋：若董事会允许，愿重返英伟达担任 CEO",
+      "subtitle": "IT 之家报道，英伟达董事会主席此前已明确表态，无意让黄仁勋回归重新担任 CEO。",
+      "sourceName": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/028/566.htm",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "交通",
+      "title": "大型运投无人机“长鹰-8”完成运输投送试验",
+      "subtitle": "新华社报道，该型无人机完成运输投送相关试验任务。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/politics/20261117/aa7f41a57ec94a4883214110f2079b58/c.html",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-18T07:15:26.506Z"
+    },
+    {
+      "date": "2026-11-18",
+      "domain": "汽车",
+      "title": "初代新能源车集中出保：电池换包价赶超二手车价",
+      "subtitle": "知乎热榜讨论显示，2018 年前后销售的新能源车陆续满 8 年出保，维修与换包成本成为车主难题。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2103903193642095044",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-11-18T07:15:26.506Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 14
+    }
+  ]
+}
