@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T07:14:01.301Z",
+  "meta": {
+    "hotTrendCandidates": 0,
+    "hotTrendItems": 0
+  },
+  "items": [
+    {
+      "date": "2026-11-19",
+      "domain": "大模型",
+      "title": "路透社科技频道：11月19日AI报道入口",
+      "subtitle": "候选来源为频道首页，具体AI与科技报道以页面为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 1,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "大模型",
+      "title": "The Verge AI频道：11月19日AI报道入口",
+      "subtitle": "候选来源为AI频道首页，具体报道以页面为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：11月19日AI报道入口",
+      "subtitle": "候选来源为AI频道首页，具体报道以页面为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "财经",
+      "title": "英伟达步入“后黄仁勋时代” 临时CEO呼吁员工向前看",
+      "subtitle": "第一财经报道称，临时CEO呼吁员工“向前看”。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103446164.html",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "国际",
+      "title": "联合国机构称冬雨加剧加沙人道主义危机",
+      "subtitle": "央视新闻报道，冬雨天气加剧当地人道主义困境。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/19/VIDEBzL52tanWTrOXblQW6bW261119.shtml",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "交通",
+      "title": "前10月全国铁路发送旅客41.3亿人次",
+      "subtitle": "同比增长4.7%，旅客发送总量等多项指标创历史新高。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/19/ARTIyyP2MFOlNeDD4n5JTUbz261119.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "民生",
+      "title": "2026年度中央安全生产考核巡查启动",
+      "subtitle": "11月18日在京组织行前培训，年度考核巡查启动。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/19/ARTIlFGaD1FEOOoE2krJjNxn261119.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "民生",
+      "title": "市场监管总局：三年排查隐患电梯15.35万台",
+      "subtitle": "央视新闻报道，三年累计排查隐患电梯15.35万台。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/19/VIDEaNNLrcl51ePz87vGs1eY261119.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "财经",
+      "title": "《中加金融工作组工作规范》签署",
+      "subtitle": "央视新闻报道，中加金融工作组工作规范签署。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/19/VIDEqDKYqLeE8KJN7jX8FdqB261119.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "财经",
+      "title": "商务部：中美贸易理事会农业工作组将开首次会议",
+      "subtitle": "中新网报道，农业工作组将于近期召开首次会议。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-19/10734632.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "互联网",
+      "title": "第二批可信数据空间创新发展试点启动",
+      "subtitle": "国家数据局印发通知，组织开展第二批试点工作。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103446624.html",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "大模型",
+      "title": "吉林：统筹布局算力基础设施",
+      "subtitle": "《吉林省“人工智能+”发展“十五五”规划》提出科学谋划算力设施建设。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103446535.html",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "汽车",
+      "title": "吉林：发展智能网联汽车 支持高阶自动驾驶",
+      "subtitle": "规划提出发挥光电信息、精密制造等产业优势，丰富消费级智能终端产品。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103446517.html",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "数码",
+      "title": "联想约5000万美元收购老牌固件厂商Phoenix",
+      "subtitle": "第一财经披露，联想于今年4月27日以约5000万美元现金收购。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103446597.html",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    },
+    {
+      "date": "2026-11-19",
+      "domain": "财经",
+      "title": "腾讯控股跌幅扩大至7%",
+      "subtitle": "第一财经报道，腾讯控股当日跌幅扩大至7%。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103446521.html",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-11-19T07:14:01.301Z"
+    }
+  ]
+}
