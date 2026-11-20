@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T07:02:59.137Z",
+  "meta": {
+    "hotTrendCandidates": 3,
+    "hotTrendItems": 1
+  },
+  "items": [
+    {
+      "date": "2026-11-20",
+      "domain": "大模型",
+      "title": "大模型圈地结束 进入收费时代",
+      "subtitle": "百度热搜显示，DeepSeek 对免费用户限额、豆包推出多档订阅，多家平台同步收紧免费额度。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9C%88%E5%9C%B0%E7%BB%93%E6%9D%9F+%E8%BF%9B%E5%85%A5%E6%94%B6%E8%B4%B9%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-20T07:02:59.137Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜"
+      ],
+      "trendRank": 19
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "大模型",
+      "title": "DeepSeek千亿融资落地？31家出资方浮出水面",
+      "subtitle": "第一财经报道相关融资出现新进展，31家出资方信息浮出水面，具体以官方披露为准。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103446689.html",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "大模型",
+      "title": "英伟达步入“后黄仁勋时代” 临时CEO呼吁员工向前看",
+      "subtitle": "第一财经报道，英伟达管理层出现变动，临时CEO公开呼吁员工“向前看”。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103446164.html",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "互联网",
+      "title": "腾讯云：DeepSeek原厂直供模型服务端联网搜索免费",
+      "subtitle": "腾讯云公告称，自11月18日12时起，调用带“原厂直供”标识的DeepSeek模型触发的服务端联网搜索免费。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103448032.html",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "互联网",
+      "title": "我国新增34家领航级智能工厂",
+      "subtitle": "工业和信息化部等六部门11月19日公布新一批34家领航级智能工厂培育名单。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/20/ARTI65whXxxx9evkCO2pnUIU261120.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "民生",
+      "title": "我国将加快推进流域水风光一体化基地建设",
+      "subtitle": "国家能源局表示，“十五五”时期将推进雅砻江等流域基地建设，2030年形成一批“水风光+”新业态。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/20/ARTIuaJ5DtBgQFECeDkdi39u261120.shtml",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "交通",
+      "title": "“中国造”商品车出口专列累计开行1万列",
+      "subtitle": "11月19日，一列满载203辆国产新能源汽车的列车从郑州国际陆港驶出，铁路商品车出口专列开行量达1万列。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/20/ARTIUcGrBJnR9iD8aNBV2mfA261120.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "汽车",
+      "title": "中国电动汽车充电枪总数超2500万个",
+      "subtitle": "中新网报道，国内电动汽车充电枪总数已超过2500万个，补能基础设施继续扩张。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-20/10735224.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "民生",
+      "title": "黑龙江多地持续降雪 全力保通行稳供应",
+      "subtitle": "央视新闻报道，黑龙江多地持续降雪，相关部门全力保障道路通行与生活物资供应。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/20/VIDEfgnCyhjUHoA1aaOBYznL261120.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "民生",
+      "title": "江苏首例侵入式脑机接口手术患者实现“脑控”轮椅出行",
+      "subtitle": "中新网报道，江苏一名接受侵入式脑机接口手术的患者通过“脑控”方式实现轮椅出行。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-20/10735221.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "国际",
+      "title": "丹麦议会通过涉格陵兰岛安全防卫协议",
+      "subtitle": "央视新闻报道，丹麦议会通过涉及格陵兰岛的安全防卫协议，具体条款以官方发布为准。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/20/VIDER1V9JrWXq4pDb0uKWTOz261120.shtml",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "国际",
+      "title": "路透科技：AI 与算力领域报道更新",
+      "subtitle": "来源为路透社科技频道首页，AI 与芯片相关报道以原文为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "国际",
+      "title": "美联社科技：人工智能报道更新",
+      "subtitle": "来源为美联社科技频道首页，人工智能相关报道以原文为准。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "国际",
+      "title": "The Verge：人工智能频道报道更新",
+      "subtitle": "来源为 The Verge 人工智能频道首页，AI 相关报道以原文为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    },
+    {
+      "date": "2026-11-20",
+      "domain": "国际",
+      "title": "TechCrunch：AI 领域报道更新",
+      "subtitle": "来源为 TechCrunch 人工智能频道首页，AI 产品与创投报道以原文为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-11-20T07:02:59.137Z"
+    }
+  ]
+}
