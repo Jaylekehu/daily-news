@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T06:57:00.322Z",
+  "meta": {
+    "hotTrendCandidates": 4,
+    "hotTrendItems": 3
+  },
+  "items": [
+    {
+      "date": "2026-11-21",
+      "domain": "数码",
+      "title": "华为首款鸿蒙AI手机5699元被嫌贵，16G版本已售罄",
+      "subtitle": "11月20日华为推出新子品牌OSTA星芒，首款机型起售价5699元；11月21日凌晨品牌总经理刘赫称16G版本全平台售罄并回应定价争议。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E6%89%8B%E6%9C%BA5699%E5%85%83%E8%A2%AB%E5%AB%8C%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-21T06:57:00.322Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜"
+      ],
+      "trendRank": 29
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "财经",
+      "title": "美国芯片股创2001年来最惨单周，AI交易支柱同时松动",
+      "subtitle": "本周费城半导体指数重挫逾10%，芯片板块市值蒸发约2.3万亿美元，英伟达连跌七周、缩水2.7万亿美元。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E8%82%A1%E4%B8%8A%E6%AC%A1%E8%B7%8C%E8%BF%99%E4%B9%88%E6%83%A8%E8%BF%98%E6%98%AF2001%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-21T06:57:00.322Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜"
+      ],
+      "trendRank": 30
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "财经",
+      "title": "英伟达一周市值蒸发6万亿元，SEC调查其潜在会计问题",
+      "subtitle": "据央视财经引述美国媒体20日消息，美国证券交易委员会正就英伟达潜在会计问题展开调查，进一步加剧投资者担忧。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103448994.html",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "汽车",
+      "title": "余承东回应L3自动驾驶争议：目前仍是L2，不能睡觉",
+      "subtitle": "11月20日鸿蒙智行发布会上其称L3到来后“可以睡觉”，引发争议后通过微博澄清享界V8当前开放使用的仍是L2级功能。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2107155066318857895",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-21T06:57:00.322Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 26
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "大模型",
+      "title": "中外嘉宾共话AI治理协作：以开放共享应对技术浪潮",
+      "subtitle": "中新网视频报道，与会中外嘉宾围绕人工智能治理的国际协作与开放共享展开讨论。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/shipin/cns/2026/11-21/news1075640.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "国际",
+      "title": "路透社科技频道：AI与半导体产业报道入口",
+      "subtitle": "候选为路透社科技频道首页链接，具体报道内容与发布时间以原站发布为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 6,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "大模型",
+      "title": "OpenAI官方博客：模型与产品动态发布页",
+      "subtitle": "候选为OpenAI官方新闻页首页链接，具体更新内容以原站发布为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 7,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "大模型",
+      "title": "Anthropic官方新闻页：模型安全与政策动态",
+      "subtitle": "候选为Anthropic官方新闻页首页链接，具体更新内容以原站发布为准。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 8,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "国际",
+      "title": "The Verge AI频道：人工智能产品与应用动态",
+      "subtitle": "候选为该频道首页链接，具体报道内容以原站发布为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 9,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "国际",
+      "title": "TechCrunch AI频道：人工智能创业与融资报道",
+      "subtitle": "候选为该频道首页链接，具体报道内容以原站发布为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 10,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "民生",
+      "title": "10月份工业经济总体平稳，发展质量持续提升",
+      "subtitle": "央视新闻报道称，10月我国工业生产总体平稳，新动能支撑有力，工业经济持续向新向优向好发展。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://jingji.cctv.com/2026/11/21/ARTIGHUXUkVpB3KiGjSrJkXt261120.shtml",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "其他",
+      "title": "我国成功发射卫星互联网低轨30组卫星",
+      "subtitle": "北京时间11月20日19时59分，在海南商业航天发射场使用长征八号甲运载火箭发射，卫星顺利进入预定轨道。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/21/ARTIfHtLTscOyLLl0qGrFRZ4261120.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "民生",
+      "title": "我国首个海上注碳增气项目陆地建设全面完工",
+      "subtitle": "东方1-1气田二氧化碳捕集封存利用项目中心平台完成装船，平台重达1.7万吨，工程转入海上运输安装阶段。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/21/ARTIIxgZO7IJWcWT4cUJ6Luh261120.shtml",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "其他",
+      "title": "我国发现距今39.5亿年古老岩石",
+      "subtitle": "据央视新闻视频报道，我国科研人员发现距今约39.5亿年的古老岩石。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/21/VIDEm1sIHYMBRSW4UZSH67lu261121.shtml",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    },
+    {
+      "date": "2026-11-21",
+      "domain": "财经",
+      "title": "逼近20万亿元！前10月全国财政数据公布",
+      "subtitle": "第一财经对前10个月全国财政数据进行详解，涉及收支规模与结构变化。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103448373.html",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-11-21T06:57:00.322Z"
+    }
+  ]
+}
