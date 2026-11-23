@@ -1,180 +1,186 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T06:35:36.698Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T07:24:54.697Z",
   "meta": {
     "hotTrendCandidates": 3,
-    "hotTrendItems": 1
+    "hotTrendItems": 2
   },
   "items": [
     {
-      "date": "2026-11-22",
+      "date": "2026-11-23",
+      "domain": "大模型",
+      "title": "黎曼猜想证明获认证：Claude 参与攻克百年数学难题",
+      "subtitle": "第一财经报道称该证明已获认证，Anthropic 的 Claude 参与攻关，AI 在数学研究中的角色再受关注",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103449169.html",
+      "region": "international",
+      "priority": 1,
+      "generatedAt": "2026-11-23T07:24:54.697Z"
+    },
+    {
+      "date": "2026-11-23",
+      "domain": "数码",
+      "title": "AI服务器供应商集体涨价，存储芯片供给紧张",
+      "subtitle": "央视财经称戴尔、慧与、超微电脑、联想等在客户签约数月后提价，部分订单最高涨幅达45%",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103450304.html",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-23T07:24:54.697Z"
+    },
+    {
+      "date": "2026-11-23",
       "domain": "财经",
-      "title": "英伟达市值一夜蒸发近5000亿美元 黄仁勋回归变数加大",
-      "subtitle": "第一财经报道，英伟达遭遇重挫，市值一夜蒸发近5000亿美元，市场关注黄仁勋回归相关变数。",
+      "title": "英伟达市值一夜蒸发近5000亿美元",
+      "subtitle": "第一财经报道其遭遇重挫、黄仁勋回归变数加大，市场重新审视 AI 芯片景气度与估值",
       "sourceName": "第一财经",
       "sourceUrl": "https://www.yicai.com/news/103448962.html",
       "region": "international",
-      "priority": 1,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
-    },
-    {
-      "date": "2026-11-22",
-      "domain": "其他",
-      "title": "神舟二十四号完成发射场区全系统合练 近日择机发射",
-      "subtitle": "船箭组合体本月17日转运至发射区，11月21日发射场区组织各单位展开全系统合练，计划近日择机发射。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/22/ARTI0s342RnU1w8ZieTnpLZJ261121.shtml",
-      "region": "domestic",
-      "priority": 2,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
-    },
-    {
-      "date": "2026-11-22",
-      "domain": "大模型",
-      "title": "韩国高考AI作弊事件发酵 教育部长引咎辞职",
-      "subtitle": "据央视新闻，韩国教育部长官崔教振22日辞职，为2027学年度韩国高考期间防范高科技作弊措施不足引发混乱承担责任。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103449178.html",
-      "region": "international",
       "priority": 3,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
+      "generatedAt": "2026-11-23T07:24:54.697Z"
     },
     {
-      "date": "2026-11-22",
-      "domain": "民生",
-      "title": "重大工程有序推进 助力经济民生发展",
-      "subtitle": "央视新闻报道，一批重大工程建设有序推进，未来将推动经济民生发展。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/22/ARTI97n0dyAABoqQlJ06F9hG261121.shtml",
-      "region": "domestic",
+      "date": "2026-11-23",
+      "domain": "国际",
+      "title": "以色列组阁谈判未取得突破，总理人选仍存分歧",
+      "subtitle": "中新网报道，以色列组阁谈判仍在进行，各方在总理人选问题上存在分歧",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-23/10736389.shtml",
+      "region": "international",
       "priority": 4,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
+      "generatedAt": "2026-11-23T07:24:54.697Z"
     },
     {
-      "date": "2026-11-22",
-      "domain": "大模型",
-      "title": "南水北调“天河”大模型完成升级",
-      "subtitle": "央视新闻报道，南水北调“天河”大模型完成升级，相关进展以原报道为准。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/22/VIDExqfB3IXAfI1ZLSTfrMkn261122.shtml",
-      "region": "domestic",
+      "date": "2026-11-23",
+      "domain": "国际",
+      "title": "荷兰外交大臣贝伦德森将于11月23日至25日访华",
+      "subtitle": "外交部宣布，应王毅邀请，荷兰外交大臣贝伦德森将于11月23日至25日访华",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103450319.html",
+      "region": "international",
       "priority": 5,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
+      "generatedAt": "2026-11-23T07:24:54.697Z"
     },
     {
-      "date": "2026-11-22",
-      "domain": "财经",
-      "title": "发改委：加快推动政府投资项目建设和资金支付",
-      "subtitle": "央视新闻报道，国家发改委就加快推动政府投资项目建设与资金支付作出部署。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/22/VIDE13mopIr06Gn6j6Dfyl1e261122.shtml",
+      "date": "2026-11-23",
+      "domain": "大模型",
+      "title": "OpenAI 首次公开内部 log-perplexity 数据",
+      "subtitle": "知乎热榜讨论称，OpenAI 公开多代模型在固定留出集上的预训练对数困惑度，并关联能力跃升",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2108089769834065923",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
-    },
-    {
-      "date": "2026-11-22",
-      "domain": "民生",
-      "title": "家门口的养老院正在消失",
-      "subtitle": "养老新规落地、监管趋严下，部分社区嵌入式养老院因改造难、合规成本高、利润微薄关停，业内呼吁分层标准与配套扶持。",
-      "sourceName": "百度热搜",
-      "sourceUrl": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%97%A8%E5%8F%A3%E7%9A%84%E5%85%BB%E8%80%81%E9%99%A2%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news",
-      "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-11-22T06:35:36.698Z",
+      "generatedAt": "2026-11-23T07:24:54.697Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
+        "知乎热榜",
         "百度热搜"
       ],
-      "trendRank": 4
+      "trendRank": 15
     },
     {
-      "date": "2026-11-22",
-      "domain": "互联网",
-      "title": "国家数据局赴江西调研数据要素市场化配置改革",
-      "subtitle": "据国家数据局官网，局长刘烈宏带队赴江西南昌，实地调研数据要素市场化配置改革工作推进情况。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103449199.html",
+      "date": "2026-11-23",
+      "domain": "大模型",
+      "title": "DeepSeek 推出限额规则，重度用户主动求付费",
+      "subtitle": "知乎热榜讨论显示，限额后部分长期对话用户担心记录中断，提出愿付费保留长对话与算力优先权",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2107183345205626254",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-23T07:24:54.697Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 6
+    },
+    {
+      "date": "2026-11-23",
+      "domain": "民生",
+      "title": "多方协同发力 保障冬季“菜篮子”量足价稳",
+      "subtitle": "央视新闻报道，云南通海10万亩露地蔬菜进入采收高峰，每天发送供应到全国各地市场",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/23/ARTIsgn3tPR6QmEAjJO6aHBR261123.shtml",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
+      "generatedAt": "2026-11-23T07:24:54.697Z"
     },
     {
-      "date": "2026-11-22",
-      "domain": "大模型",
-      "title": "路透社科技频道：全球AI与算力产业动态",
-      "subtitle": "该频道持续跟踪全球人工智能、算力与芯片产业动向，具体进展以原报道为准。",
-      "sourceName": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "region": "international",
-      "priority": 9,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
-    },
-    {
-      "date": "2026-11-22",
-      "domain": "大模型",
-      "title": "The Verge AI：海外大模型产品与平台动态",
-      "subtitle": "该频道聚焦海外大模型产品发布、平台策略与行业动向，具体进展以原报道为准。",
-      "sourceName": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "region": "international",
-      "priority": 10,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
-    },
-    {
-      "date": "2026-11-22",
-      "domain": "大模型",
-      "title": "Anthropic官方新闻：模型安全与产品更新动态",
-      "subtitle": "该页面发布模型安全、产品与研究更新相关消息，具体内容以官方原文为准。",
-      "sourceName": "Anthropic News",
-      "sourceUrl": "https://www.anthropic.com/news",
-      "region": "international",
-      "priority": 11,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
-    },
-    {
-      "date": "2026-11-22",
-      "domain": "财经",
-      "title": "伪造期货交易平台诈骗 300余人被骗1.2亿元",
-      "subtitle": "央视新闻报道，诈骗团伙伪造期货交易平台并精准布局，300余人被骗1.2亿元。",
+      "date": "2026-11-23",
+      "domain": "民生",
+      "title": "打造15分钟老年友好生活圈 推进互助养老",
+      "subtitle": "全国老龄工作会议提出建设老年友好社会，各地通过适老化改造与邻里互助改善社区环境",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/22/VIDE10lN2Aka9bHeUcb91wfq261122.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/11/23/ARTIHKrV4ptG9tpb6EKUlIXm261123.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-23T07:24:54.697Z"
+    },
+    {
+      "date": "2026-11-23",
+      "domain": "互联网",
+      "title": "试点地上海已建成城市级可信数据空间",
+      "subtitle": "央视新闻报道，作为试点地，上海已建成城市级可信数据空间，为数据流通提供基础设施",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/23/VIDEjHi1CLevPoZev2jgZ9gY261123.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-23T07:24:54.697Z"
+    },
+    {
+      "date": "2026-11-23",
+      "domain": "交通",
+      "title": "第二艘国产大型邮轮“爱达·花城号”商业首航停靠香港",
+      "subtitle": "中新网报道，第二艘国产大型邮轮“爱达·花城号”商业首航停靠香港",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211465.shtml",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-23T07:24:54.697Z"
+    },
+    {
+      "date": "2026-11-23",
+      "domain": "民生",
+      "title": "《教材管理条例（征求意见稿）》公开征求意见",
+      "subtitle": "教育部就《教材管理条例（征求意见稿）》面向社会公开征求意见",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-23/10736443.shtml",
       "region": "domestic",
       "priority": 12,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
+      "generatedAt": "2026-11-23T07:24:54.697Z"
     },
     {
-      "date": "2026-11-22",
-      "domain": "数码",
-      "title": "PCB供应预警：常规材料或短缺至2027年上半年",
-      "subtitle": "据上海证券报，全球电子协会发布PCB供应预警报告，从上游玻纤布等环节提示常规材料短缺风险。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103449203.html",
+      "date": "2026-11-23",
+      "domain": "交通",
+      "title": "货车肇事事故多发 公安部交管局发布安全提示",
+      "subtitle": "中新网报道，近期货车肇事导致的交通事故多发，公安部交管局就此发布提示",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-23/10736426.shtml",
       "region": "domestic",
       "priority": 13,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
+      "generatedAt": "2026-11-23T07:24:54.697Z"
     },
     {
-      "date": "2026-11-22",
-      "domain": "汽车",
-      "title": "极氪辟谣“召回”短信：系冒名诈骗",
-      "subtitle": "极氪法务部称，有不法分子冒用极氪名义向车主发送虚假召回短信，提醒注意防范。",
+      "date": "2026-11-23",
+      "domain": "财经",
+      "title": "A股迎稳市组合拳，有望带来4000亿增量资金",
+      "subtitle": "第一财经报道，稳市政策组合拳有望为A股带来约4000亿元增量资金",
       "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103449176.html",
+      "sourceUrl": "https://www.yicai.com/news/103449343.html",
       "region": "domestic",
       "priority": 14,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
+      "generatedAt": "2026-11-23T07:24:54.697Z"
     },
     {
-      "date": "2026-11-22",
-      "domain": "大模型",
-      "title": "AI如何“牵手”历史经典产业 杭州共话新可能",
-      "subtitle": "中新网报道，各界人士在杭州探讨人工智能与历史经典产业结合的新路径与新可能。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-22/10736030.shtml",
+      "date": "2026-11-23",
+      "domain": "财经",
+      "title": "2026年我国冰雪装备规模有望突破千亿元",
+      "subtitle": "央视财经数据显示，近期含“滑雪”搜索量同比增长141%，南方用户购买北方雪票订单增超四成",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103450282.html",
       "region": "domestic",
       "priority": 15,
-      "generatedAt": "2026-11-22T06:35:36.698Z"
+      "generatedAt": "2026-11-23T07:24:54.697Z"
     }
   ]
 }
