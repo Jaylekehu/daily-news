@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T07:24:54.697Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T09:44:39.914Z",
   "meta": {
-    "hotTrendCandidates": 3,
+    "hotTrendCandidates": 7,
     "hotTrendItems": 2
   },
   "items": [
     {
-      "date": "2026-11-23",
-      "domain": "大模型",
-      "title": "黎曼猜想证明获认证：Claude 参与攻克百年数学难题",
-      "subtitle": "第一财经报道称该证明已获认证，Anthropic 的 Claude 参与攻关，AI 在数学研究中的角色再受关注",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103449169.html",
-      "region": "international",
+      "date": "2026-11-24",
+      "domain": "民生",
+      "title": "《“一老一小”服务体系建设实施方案》公布 明确2030年目标",
+      "subtitle": "方案提出到2030年社区养老服务机构和设施覆盖率达到70%，3岁以下婴幼儿入托率较2025年提高6个百分点。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/24/ARTILYSuHNOgtjo02sUX9X88261124.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.77",
+      "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
-      "domain": "数码",
-      "title": "AI服务器供应商集体涨价，存储芯片供给紧张",
-      "subtitle": "央视财经称戴尔、慧与、超微电脑、联想等在客户签约数月后提价，部分订单最高涨幅达45%",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103450304.html",
-      "region": "international",
-      "priority": 2,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
-    },
-    {
-      "date": "2026-11-23",
-      "domain": "财经",
-      "title": "英伟达市值一夜蒸发近5000亿美元",
-      "subtitle": "第一财经报道其遭遇重挫、黄仁勋回归变数加大，市场重新审视 AI 芯片景气度与估值",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103448962.html",
-      "region": "international",
-      "priority": 3,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
-    },
-    {
-      "date": "2026-11-23",
-      "domain": "国际",
-      "title": "以色列组阁谈判未取得突破，总理人选仍存分歧",
-      "subtitle": "中新网报道，以色列组阁谈判仍在进行，各方在总理人选问题上存在分歧",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gj/2026/11-23/10736389.shtml",
-      "region": "international",
-      "priority": 4,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
-    },
-    {
-      "date": "2026-11-23",
-      "domain": "国际",
-      "title": "荷兰外交大臣贝伦德森将于11月23日至25日访华",
-      "subtitle": "外交部宣布，应王毅邀请，荷兰外交大臣贝伦德森将于11月23日至25日访华",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103450319.html",
-      "region": "international",
-      "priority": 5,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
-    },
-    {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "domain": "大模型",
-      "title": "OpenAI 首次公开内部 log-perplexity 数据",
-      "subtitle": "知乎热榜讨论称，OpenAI 公开多代模型在固定留出集上的预训练对数困惑度，并关联能力跃升",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2108089769834065923",
+      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+      "subtitle": "中新网11月24日报道，该提案聚焦生成式人工智能治理，是我国在国际标准制定方面的新进展。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-24/10737068.shtml",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-24T09:44:39.914Z"
+    },
+    {
+      "date": "2026-11-24",
+      "domain": "数码",
+      "title": "华为首款鸿蒙小折叠电脑发布 定价14999元起",
+      "subtitle": "据百度热搜摘要，华为MateBook Fold S于11月24日正式发布，定价14999元起。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E5%B0%8F%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-24T09:44:39.914Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜",
+        "微博热搜"
+      ],
+      "trendRank": 16
+    },
+    {
+      "date": "2026-11-24",
+      "domain": "大模型",
+      "title": "医疗大模型评测成绩亮眼 进入医院仍存堵点",
+      "subtitle": "第一财经报道关注医疗大模型的落地难题：评测表现突出，但真正进入医院临床应用仍面临障碍。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103452252.html",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-24T09:44:39.914Z"
+    },
+    {
+      "date": "2026-11-24",
+      "domain": "汽车",
+      "title": "商务部回应欧盟对混动汽车采取临时保障措施",
+      "subtitle": "中新网11月24日报道，中国商务部就欧盟宣布对混动汽车采取临时保障措施作出回应。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-24/10737075.shtml",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-24T09:44:39.914Z"
+    },
+    {
+      "date": "2026-11-24",
+      "domain": "财经",
+      "title": "前10个月全社会用电量同比增长3.7%",
+      "subtitle": "央视新闻11月24日报道，前10个月全社会用电量同比增长3.7%。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/24/VIDEbv4U1ErGYpw0M2qafZpQ261124.shtml",
       "region": "domestic",
       "priority": 6,
-      "generatedAt": "2026-11-23T07:24:54.697Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "知乎热榜",
-        "百度热搜"
-      ],
-      "trendRank": 15
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
-      "domain": "大模型",
-      "title": "DeepSeek 推出限额规则，重度用户主动求付费",
-      "subtitle": "知乎热榜讨论显示，限额后部分长期对话用户担心记录中断，提出愿付费保留长对话与算力优先权",
-      "sourceName": "知乎热榜",
-      "sourceUrl": "https://www.zhihu.com/question/2107183345205626254",
+      "date": "2026-11-24",
+      "domain": "财经",
+      "title": "市场激辩：黄仁勋回归能否扭转AI资产抛售潮",
+      "subtitle": "第一财经报道，围绕黄仁勋回归与AI相关资产走势，市场观点出现明显分歧。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103451167.html",
       "region": "domestic",
       "priority": 7,
-      "generatedAt": "2026-11-23T07:24:54.697Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "知乎热榜"
-      ],
-      "trendRank": 6
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
-      "domain": "民生",
-      "title": "多方协同发力 保障冬季“菜篮子”量足价稳",
-      "subtitle": "央视新闻报道，云南通海10万亩露地蔬菜进入采收高峰，每天发送供应到全国各地市场",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/23/ARTIsgn3tPR6QmEAjJO6aHBR261123.shtml",
+      "date": "2026-11-24",
+      "domain": "交通",
+      "title": "银巴铁路进入运行试验阶段",
+      "subtitle": "新华社11月24日报道，银巴铁路进入运行试验阶段。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261124/88937e50435842e887068d47b564deda/c.html",
       "region": "domestic",
       "priority": 8,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "domain": "民生",
-      "title": "打造15分钟老年友好生活圈 推进互助养老",
-      "subtitle": "全国老龄工作会议提出建设老年友好社会，各地通过适老化改造与邻里互助改善社区环境",
+      "title": "多地推行“落叶缓扫” 留住初冬城市景观",
+      "subtitle": "央视新闻报道，伴随大风降温，多地环卫开启“落叶缓扫”模式，让秋叶景观保持更长时间。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/23/ARTIHKrV4ptG9tpb6EKUlIXm261123.shtml",
+      "sourceUrl": "https://news.cctv.com/2026/11/24/ARTIN1VFWaOXQ7mPcIh8jL9r261124.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.25",
       "region": "domestic",
       "priority": 9,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
-      "domain": "互联网",
-      "title": "试点地上海已建成城市级可信数据空间",
-      "subtitle": "央视新闻报道，作为试点地，上海已建成城市级可信数据空间，为数据流通提供基础设施",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/23/VIDEjHi1CLevPoZev2jgZ9gY261123.shtml",
+      "date": "2026-11-24",
+      "domain": "数码",
+      "title": "华为1.1万员工换上鸿蒙电脑",
+      "subtitle": "该话题登上百度热搜榜，具体部署细节以企业及官方披露为准。",
+      "sourceName": "百度热搜",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA1.1%E4%B8%87%E5%91%98%E5%B7%A5%E6%8D%A2%E4%B8%8A%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news",
       "region": "domestic",
       "priority": 10,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜"
+      ],
+      "trendRank": 19
     },
     {
-      "date": "2026-11-23",
-      "domain": "交通",
-      "title": "第二艘国产大型邮轮“爱达·花城号”商业首航停靠香港",
-      "subtitle": "中新网报道，第二艘国产大型邮轮“爱达·花城号”商业首航停靠香港",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211465.shtml",
-      "region": "domestic",
+      "date": "2026-11-24",
+      "domain": "国际",
+      "title": "路透科技频道：全球AI与芯片产业动态追踪",
+      "subtitle": "候选来源为路透科技频道首页，聚焦全球AI、芯片与科技产业报道，具体条目以原文为准。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
       "priority": 11,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
-      "domain": "民生",
-      "title": "《教材管理条例（征求意见稿）》公开征求意见",
-      "subtitle": "教育部就《教材管理条例（征求意见稿）》面向社会公开征求意见",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-23/10736443.shtml",
-      "region": "domestic",
+      "date": "2026-11-24",
+      "domain": "国际",
+      "title": "美联社科技：AI产品与科技行业动态",
+      "subtitle": "候选来源为美联社科技频道首页，覆盖AI产品与科技行业动态，具体条目以原文为准。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
       "priority": 12,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
-      "domain": "交通",
-      "title": "货车肇事事故多发 公安部交管局发布安全提示",
-      "subtitle": "中新网报道，近期货车肇事导致的交通事故多发，公安部交管局就此发布提示",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-23/10736426.shtml",
-      "region": "domestic",
+      "date": "2026-11-24",
+      "domain": "大模型",
+      "title": "The Verge AI频道：模型与AI产品前沿动向",
+      "subtitle": "候选来源为The Verge AI频道首页，关注大模型产品与行业动向，具体条目以原文为准。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
       "priority": 13,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
-      "domain": "财经",
-      "title": "A股迎稳市组合拳，有望带来4000亿增量资金",
-      "subtitle": "第一财经报道，稳市政策组合拳有望为A股带来约4000亿元增量资金",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103449343.html",
-      "region": "domestic",
+      "date": "2026-11-24",
+      "domain": "大模型",
+      "title": "TechCrunch AI：AI创业与算力投资动向",
+      "subtitle": "候选来源为TechCrunch AI频道首页，关注AI创业、融资与算力投资，具体条目以原文为准。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
       "priority": 14,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     },
     {
-      "date": "2026-11-23",
-      "domain": "财经",
-      "title": "2026年我国冰雪装备规模有望突破千亿元",
-      "subtitle": "央视财经数据显示，近期含“滑雪”搜索量同比增长141%，南方用户购买北方雪票订单增超四成",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/brief/103450282.html",
-      "region": "domestic",
+      "date": "2026-11-24",
+      "domain": "大模型",
+      "title": "OpenAI官方新闻页：模型发布与研究更新",
+      "subtitle": "候选来源为OpenAI官方新闻页，发布模型与研究更新信息，具体条目以原文为准。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
       "priority": 15,
-      "generatedAt": "2026-11-23T07:24:54.697Z"
+      "generatedAt": "2026-11-24T09:44:39.914Z"
     }
   ]
 }
