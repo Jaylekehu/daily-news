@@ -1,186 +1,180 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T09:44:39.914Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T08:20:02.360Z",
   "meta": {
     "hotTrendCandidates": 7,
-    "hotTrendItems": 2
+    "hotTrendItems": 1
   },
   "items": [
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "domain": "民生",
-      "title": "《“一老一小”服务体系建设实施方案》公布 明确2030年目标",
-      "subtitle": "方案提出到2030年社区养老服务机构和设施覆盖率达到70%，3岁以下婴幼儿入托率较2025年提高6个百分点。",
+      "title": "国家医保局公布2026年基本医保药品目录调整结果",
+      "subtitle": "国家医保局公布2026年国家基本医保药品目录及商保创新药品目录调整结果。",
       "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/24/ARTILYSuHNOgtjo02sUX9X88261124.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.77",
+      "sourceUrl": "https://news.cctv.com/2026/11/24/ARTI1fQYogZRVT521PevoIX5261124.shtml",
       "region": "domestic",
       "priority": 1,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     },
     {
-      "date": "2026-11-24",
-      "domain": "大模型",
-      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
-      "subtitle": "中新网11月24日报道，该提案聚焦生成式人工智能治理，是我国在国际标准制定方面的新进展。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-24/10737068.shtml",
+      "date": "2026-11-25",
+      "domain": "民生",
+      "title": "四部门印发“一老一小”服务体系建设实施方案",
+      "subtitle": "方案聚焦照护“一老一小”，明确服务体系建设方向。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/25/ARTIfx9084GC7sGRVXO35N2e261125.shtml",
       "region": "domestic",
       "priority": 2,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     },
     {
-      "date": "2026-11-24",
-      "domain": "数码",
-      "title": "华为首款鸿蒙小折叠电脑发布 定价14999元起",
-      "subtitle": "据百度热搜摘要，华为MateBook Fold S于11月24日正式发布，定价14999元起。",
-      "sourceName": "百度热搜",
-      "sourceUrl": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E5%B0%8F%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news",
+      "date": "2026-11-25",
+      "domain": "其他",
+      "title": "神舟二十四号乘组进驻“天宫” 中外航天员首次“太空握手”",
+      "subtitle": "神舟二十四号载人飞船发射成功并完成自主快速交会对接。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261125/403bcd609811456cb85651e125d4349d/c.html",
       "region": "domestic",
       "priority": 3,
-      "generatedAt": "2026-11-24T09:44:39.914Z",
-      "sourceType": "hotTrend",
-      "trendPlatforms": [
-        "百度热搜",
-        "微博热搜"
-      ],
-      "trendRank": 16
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     },
     {
-      "date": "2026-11-24",
-      "domain": "大模型",
-      "title": "医疗大模型评测成绩亮眼 进入医院仍存堵点",
-      "subtitle": "第一财经报道关注医疗大模型的落地难题：评测表现突出，但真正进入医院临床应用仍面临障碍。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103452252.html",
+      "date": "2026-11-25",
+      "domain": "财经",
+      "title": "中方回应美国计划对包括中国在内的有关国家加征关税",
+      "subtitle": "报道称美国计划对包括中国在内的有关国家加征关税，中方就此作出回应。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-25/10737570.shtml",
       "region": "domestic",
       "priority": 4,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     },
     {
-      "date": "2026-11-24",
-      "domain": "汽车",
-      "title": "商务部回应欧盟对混动汽车采取临时保障措施",
-      "subtitle": "中新网11月24日报道，中国商务部就欧盟宣布对混动汽车采取临时保障措施作出回应。",
-      "sourceName": "中新网",
-      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-24/10737075.shtml",
+      "date": "2026-11-25",
+      "domain": "大模型",
+      "title": "《纽约时报》曝马斯克承认AI研发落后，转向出租算力",
+      "subtitle": "知乎热榜讨论称，SpaceX向Anthropic和谷歌等出租算力，马斯克内部坦言前沿模型开发落后。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2108561350431723647",
       "region": "domestic",
       "priority": 5,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
-    },
-    {
-      "date": "2026-11-24",
-      "domain": "财经",
-      "title": "前10个月全社会用电量同比增长3.7%",
-      "subtitle": "央视新闻11月24日报道，前10个月全社会用电量同比增长3.7%。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://tv.cctv.com/2026/11/24/VIDEbv4U1ErGYpw0M2qafZpQ261124.shtml",
-      "region": "domestic",
-      "priority": 6,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
-    },
-    {
-      "date": "2026-11-24",
-      "domain": "财经",
-      "title": "市场激辩：黄仁勋回归能否扭转AI资产抛售潮",
-      "subtitle": "第一财经报道，围绕黄仁勋回归与AI相关资产走势，市场观点出现明显分歧。",
-      "sourceName": "第一财经",
-      "sourceUrl": "https://www.yicai.com/news/103451167.html",
-      "region": "domestic",
-      "priority": 7,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
-    },
-    {
-      "date": "2026-11-24",
-      "domain": "交通",
-      "title": "银巴铁路进入运行试验阶段",
-      "subtitle": "新华社11月24日报道，银巴铁路进入运行试验阶段。",
-      "sourceName": "新华社",
-      "sourceUrl": "https://www.news.cn/photo/20261124/88937e50435842e887068d47b564deda/c.html",
-      "region": "domestic",
-      "priority": 8,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
-    },
-    {
-      "date": "2026-11-24",
-      "domain": "民生",
-      "title": "多地推行“落叶缓扫” 留住初冬城市景观",
-      "subtitle": "央视新闻报道，伴随大风降温，多地环卫开启“落叶缓扫”模式，让秋叶景观保持更长时间。",
-      "sourceName": "央视新闻",
-      "sourceUrl": "https://news.cctv.com/2026/11/24/ARTIN1VFWaOXQ7mPcIh8jL9r261124.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.25",
-      "region": "domestic",
-      "priority": 9,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
-    },
-    {
-      "date": "2026-11-24",
-      "domain": "数码",
-      "title": "华为1.1万员工换上鸿蒙电脑",
-      "subtitle": "该话题登上百度热搜榜，具体部署细节以企业及官方披露为准。",
-      "sourceName": "百度热搜",
-      "sourceUrl": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA1.1%E4%B8%87%E5%91%98%E5%B7%A5%E6%8D%A2%E4%B8%8A%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news",
-      "region": "domestic",
-      "priority": 10,
-      "generatedAt": "2026-11-24T09:44:39.914Z",
+      "generatedAt": "2026-11-25T08:20:02.360Z",
       "sourceType": "hotTrend",
       "trendPlatforms": [
-        "百度热搜"
+        "知乎热榜"
       ],
-      "trendRank": 19
+      "trendRank": 23
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
+      "domain": "交通",
+      "title": "中蒙俄国际旅客列车首发",
+      "subtitle": "从长城脚下到贝加尔湖畔，中蒙俄国际旅客列车首发。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/world/20261125/fb285e5a01144fdf92bce035d0c2ac09/c.html",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-25T08:20:02.360Z"
+    },
+    {
+      "date": "2026-11-25",
+      "domain": "互联网",
+      "title": "工信部脑机接口标委会工作组成立",
+      "subtitle": "脑机接口标准化工作推进，相关产业规范受到关注。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/cj/2026/11-25/10737557.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-25T08:20:02.360Z"
+    },
+    {
+      "date": "2026-11-25",
+      "domain": "财经",
+      "title": "两年近30家机器人公司倒下：它们没能等到“春天”",
+      "subtitle": "报道梳理近两年近30家机器人公司退出的情况。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103453115.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-25T08:20:02.360Z"
+    },
+    {
+      "date": "2026-11-25",
+      "domain": "大模型",
+      "title": "全球风险偏好回升，AI进入“算细账”时刻",
+      "subtitle": "报道关注全球风险偏好回升背景下AI投资的成本与回报核算。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103452743.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-25T08:20:02.360Z"
+    },
+    {
+      "date": "2026-11-25",
+      "domain": "财经",
+      "title": "中国—东盟自贸区即将升级 将带来哪些新机遇？",
+      "subtitle": "中国—东盟自贸区升级相关议题受到关注。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/aseaninfo/2026/11-25/10737586.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-25T08:20:02.360Z"
+    },
+    {
+      "date": "2026-11-25",
       "domain": "国际",
-      "title": "路透科技频道：全球AI与芯片产业动态追踪",
-      "subtitle": "候选来源为路透科技频道首页，聚焦全球AI、芯片与科技产业报道，具体条目以原文为准。",
+      "title": "路透科技频道 2026-11-25：国际科技要闻入口",
+      "subtitle": "候选为路透科技首页，未提供具体文章链接；作为国际科技动态来源保留。",
       "sourceName": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "region": "international",
       "priority": 11,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "domain": "国际",
-      "title": "美联社科技：AI产品与科技行业动态",
-      "subtitle": "候选来源为美联社科技频道首页，覆盖AI产品与科技行业动态，具体条目以原文为准。",
+      "title": "美联社科技频道 2026-11-25：科技新闻入口",
+      "subtitle": "候选为美联社科技首页，未提供具体文章链接；作为国际科技动态来源保留。",
       "sourceName": "AP Technology",
       "sourceUrl": "https://apnews.com/hub/technology",
       "region": "international",
       "priority": 12,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "domain": "大模型",
-      "title": "The Verge AI频道：模型与AI产品前沿动向",
-      "subtitle": "候选来源为The Verge AI频道首页，关注大模型产品与行业动向，具体条目以原文为准。",
+      "title": "The Verge AI 频道 2026-11-25：人工智能报道入口",
+      "subtitle": "候选为 The Verge AI 频道首页，未提供具体文章链接；作为国际AI动态来源保留。",
       "sourceName": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "region": "international",
       "priority": 13,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "domain": "大模型",
-      "title": "TechCrunch AI：AI创业与算力投资动向",
-      "subtitle": "候选来源为TechCrunch AI频道首页，关注AI创业、融资与算力投资，具体条目以原文为准。",
+      "title": "TechCrunch AI 频道 2026-11-25：人工智能报道入口",
+      "subtitle": "候选为 TechCrunch AI 频道首页，未提供具体文章链接；作为国际AI动态来源保留。",
       "sourceName": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "region": "international",
       "priority": 14,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "domain": "大模型",
-      "title": "OpenAI官方新闻页：模型发布与研究更新",
-      "subtitle": "候选来源为OpenAI官方新闻页，发布模型与研究更新信息，具体条目以原文为准。",
+      "title": "OpenAI 官方新闻页 2026-11-25：大模型动态入口",
+      "subtitle": "候选为 OpenAI 官方新闻首页，未提供具体文章链接；作为国际大模型动态来源保留。",
       "sourceName": "OpenAI Blog",
       "sourceUrl": "https://openai.com/news/",
       "region": "international",
       "priority": 15,
-      "generatedAt": "2026-11-24T09:44:39.914Z"
+      "generatedAt": "2026-11-25T08:20:02.360Z"
     }
   ]
 }
