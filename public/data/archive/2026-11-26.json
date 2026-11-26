@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T08:05:09.983Z",
+  "meta": {
+    "hotTrendCandidates": 5,
+    "hotTrendItems": 2
+  },
+  "items": [
+    {
+      "date": "2026-11-26",
+      "domain": "国际",
+      "title": "SpaceX获首张“太空数据中心许可证”",
+      "subtitle": "第一财经报道，此举被视为马斯克太空算力构想的最新进展，许可细节与运营安排尚未披露。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103455087.html",
+      "region": "international",
+      "priority": 1,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "国际",
+      "title": "OpenAI官方博客：模型发布与研究公告",
+      "subtitle": "候选来源为 OpenAI 新闻首页，汇集其模型、研究与安全相关官方发布内容。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 2,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "国际",
+      "title": "Anthropic新闻页：模型与安全研究发布",
+      "subtitle": "候选来源为 Anthropic 新闻首页，汇集其模型更新、模型安全与政策相关公告。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 3,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "国际",
+      "title": "TechCrunch AI频道：AI创投与公司动态",
+      "subtitle": "候选来源为 TechCrunch 人工智能频道首页，汇总 AI 创业、融资与产品类报道。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 4,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "国际",
+      "title": "The Verge AI频道：AI产品与应用动态",
+      "subtitle": "候选来源为 The Verge 人工智能频道首页，汇总生成式 AI 产品与行业相关报道。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 5,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "财经",
+      "title": "中方回应美拟对华加征新一轮关税",
+      "subtitle": "该话题位居今日头条热榜首位，具体表态内容与后续进展以官方发布为准。",
+      "sourceName": "今日头条热榜",
+      "sourceUrl": "https://www.toutiao.com/trending/7712376341286358564",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-26T08:05:09.983Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "百度热搜",
+        "今日头条热榜",
+        "知乎热榜"
+      ],
+      "trendRank": 1
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "大模型",
+      "title": "数千枚英伟达B300芯片涌入转售市场",
+      "subtitle": "知乎热榜讨论称，美国新规后待售高端GPU异常增加，英伟达仍强调需求大于供给。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2109206453026124878",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-26T08:05:09.983Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 18
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "其他",
+      "title": "中国空间站首次迎来外国航天员",
+      "subtitle": "央视新闻报道，中外航天员在中国空间站首次“太空会师”并留下合影。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/25/ARTIOMojkNO1BJCRKpUXYzcU261125.shtml",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "互联网",
+      "title": "上海新增14款生成式AI服务完成登记",
+      "subtitle": "据“网信上海”消息，上海累计已完成278款生成式人工智能服务登记。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103455483.html",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "交通",
+      "title": "全国铁路普速列车启用新车次",
+      "subtitle": "央视新闻报道，原有T、K字头及纯数字车次调整为Z、N、V字头。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/26/ARTIDDU8FPCeqSkbIgoEtxlV261125.shtml",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "财经",
+      "title": "摩根大通：2027年亚洲股市展望偏积极",
+      "subtitle": "该行亚洲股票策略主管表示，AI超级周期仍在延续，对2027年亚洲股市整体持积极看法。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103455488.html",
+      "region": "domestic",
+      "priority": 11,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "其他",
+      "title": "歼-20A、运-20B将首次亮相中国航展",
+      "subtitle": "第十六届中国航展12月7日至13日在珠海举办，空军33型装备参展。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-26/10738133.shtml",
+      "region": "domestic",
+      "priority": 12,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "互联网",
+      "title": "6G商用还有四年，标准与商业模式待破局",
+      "subtitle": "第一财经报道，6G在标准制定、技术路线与商业落地方面仍面临多重挑战。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103454113.html",
+      "region": "domestic",
+      "priority": 13,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "民生",
+      "title": "“十五五”@你：老年食堂变身“银发会客厅”",
+      "subtitle": "新华社报道，社区老年食堂的转型探索受到关注，焦点在于养老服务供给方式。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261126/61863bd7ce4c417ca24bd1a31b0f0199/c.html",
+      "region": "domestic",
+      "priority": 14,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    },
+    {
+      "date": "2026-11-26",
+      "domain": "交通",
+      "title": "内蒙古首座4F级国际机场投运",
+      "subtitle": "新华社报道，该机场投运为当地航空运输与对外通道建设增添新节点。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/local/20261126/c1b4aea300fd4bf38b07ab2409f509ba/c.html",
+      "region": "domestic",
+      "priority": 15,
+      "generatedAt": "2026-11-26T08:05:09.983Z"
+    }
+  ]
+}
