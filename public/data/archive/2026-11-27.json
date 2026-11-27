@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T08:14:21.217Z",
+  "meta": {
+    "hotTrendCandidates": 8,
+    "hotTrendItems": 1
+  },
+  "items": [
+    {
+      "date": "2026-11-27",
+      "domain": "大模型",
+      "title": "知乎与DeepSeek开展内容合作，AI回答可溯源引用知乎内容",
+      "subtitle": "合作覆盖DeepSeek网页端与移动端，被引用的知乎内容会显示来源标识、标题、摘要与创作者信息，并可一键跳转原文。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2109594972236112069",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-27T08:14:21.217Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 9
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "财经",
+      "title": "国常会再提资本市场，优化中央汇金类“平准基金”功能",
+      "subtitle": "会议同时提出引导保险、企业年金、社保基金等中长期资金入市，推动上市公司加大分红回购力度。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103457371.html",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "交通",
+      "title": "安徽三条高铁同日开通，五个县告别不通高铁历史",
+      "subtitle": "同日开通多条线路，区域铁路网密度提升，沿线县域出行与要素流动条件改善。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-27/10738747.shtml",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "其他",
+      "title": "东风着陆场准备就绪，迎接神舟二十三号飞船返回",
+      "subtitle": "着陆场各系统完成准备，等待飞船“回家”，相关搜救与保障工作进入待命状态。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/27/VIDEsAtv7PLiRpo4gcdHb15F261127.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "大模型",
+      "title": "机器人开始“补脑”，卡在数据和算力上",
+      "subtitle": "具身智能加速落地，但训练数据获取与算力供给仍是制约机器人能力提升的关键环节。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103456793.html",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "汽车",
+      "title": "智驾事故反复出现，暴露了什么",
+      "subtitle": "智能驾驶功能加速上车的同时，事故责任认定、能力边界提示与安全冗余设计受到关注。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103456623.html",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "互联网",
+      "title": "高交会观察：中国机器人出海记",
+      "subtitle": "高交会现场，机器人企业将海外市场作为增量方向，产品形态与落地场景持续扩展。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-27/10738751.shtml",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "民生",
+      "title": "“三北”工程按14个重点分区推行差异化治理",
+      "subtitle": "国家林草局提出推动工程从规模扩张向质量效益并重转变，按分区施策提升治理精度。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/27/ARTI2wxUQJ3xQZYZvMShmpal261127.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.68",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "民生",
+      "title": "鄱阳湖打造“生态塘”与“天然食堂”，让候鸟归湖栖息",
+      "subtitle": "针对候鸟飞到周边农田觅食带来的“人鸟冲突”，当地探索生态缓冲与生境修复办法。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://news.cctv.com/2026/11/27/ARTIykF5YmS0SJoEiD3OXBYR261127.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.24",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "财经",
+      "title": "港股收盘：恒指涨2.11%，芯片股走强",
+      "subtitle": "恒指报收22694.77点，恒生科技指数涨6.45%，中芯国际涨超16%，黄金股同步走高。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103457877.html",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "国际",
+      "title": "路透科技频道：全球AI与芯片产业报道追踪",
+      "subtitle": "候选仅提供频道首页，内容聚焦全球AI公司动态、芯片供应链与科技监管进展。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "国际",
+      "title": "美联社科技频道：AI与数字产业报道追踪",
+      "subtitle": "候选为科技频道首页，汇集人工智能、平台经济与消费电子相关报道入口。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "大模型",
+      "title": "The Verge AI频道：模型与AI产品动态追踪",
+      "subtitle": "候选为AI垂直频道首页，覆盖大模型产品发布、应用生态与行业争议话题。",
+      "sourceName": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：AI创投与创业公司动态",
+      "subtitle": "候选为AI分类页首页，关注模型创业公司融资、产品商业化与算力供给变化。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    },
+    {
+      "date": "2026-11-27",
+      "domain": "大模型",
+      "title": "Anthropic新闻页：模型安全与政策更新入口",
+      "subtitle": "候选为官方新闻页，用于追踪模型能力发布、安全研究与治理政策相关公告。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-11-27T08:14:21.217Z"
+    }
+  ]
+}
