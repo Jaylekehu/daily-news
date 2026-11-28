@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T07:37:48.198Z",
+  "meta": {
+    "hotTrendCandidates": 5,
+    "hotTrendItems": 2
+  },
+  "items": [
+    {
+      "date": "2026-11-28",
+      "domain": "民生",
+      "title": "济南医保直播间工作人员辱骂咨询者，医保局致歉",
+      "subtitle": "男子咨询医保断缴待遇等待期时被点名辱骂，济南市医保局两次电话致歉，当事人未接受初步处理方案。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2109655670127605450",
+      "region": "domestic",
+      "priority": 1,
+      "generatedAt": "2026-11-28T07:37:48.198Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 4
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "财经",
+      "title": "存贷款利率新规取消罚息“一刀切”，首次明确界定高息揽储",
+      "subtitle": "第一财经报道，新规取消罚息“一刀切”做法，并首次明确界定高息揽储行为。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103458302.html",
+      "region": "domestic",
+      "priority": 2,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "财经",
+      "title": "前10个月规上工业企业利润同比增16.0%",
+      "subtitle": "央视新闻报道，今年前10个月全国规模以上工业企业利润同比增长16.0%。",
+      "sourceName": "央视新闻",
+      "sourceUrl": "https://tv.cctv.com/2026/11/28/VIDE2c1mq9Zml9rfZpwtlSrB261128.shtml",
+      "region": "domestic",
+      "priority": 3,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "大模型",
+      "title": "金观平：中国AI发展决不是“少数人的盛宴”",
+      "subtitle": "中新网刊发评论文章，讨论中国人工智能发展的普惠性议题。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-28/10739218.shtml",
+      "region": "domestic",
+      "priority": 4,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "财经",
+      "title": "央行将个人大额存单认购起点降至不低于10万元",
+      "subtitle": "央行就《大额存单管理办法（征求意见稿）》反馈意见，采纳降低起点、完善转让服务等建议。",
+      "sourceName": "知乎热榜",
+      "sourceUrl": "https://www.zhihu.com/question/2109719982065940065",
+      "region": "domestic",
+      "priority": 5,
+      "generatedAt": "2026-11-28T07:37:48.198Z",
+      "sourceType": "hotTrend",
+      "trendPlatforms": [
+        "知乎热榜"
+      ],
+      "trendRank": 9
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "民生",
+      "title": "中国老年人口数量前10省份：山东居首，9省超1500万",
+      "subtitle": "第一财经梳理显示，山东老年人口规模全国第一，共有9个省份老年人口超过1500万。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/news/103458009.html",
+      "region": "domestic",
+      "priority": 6,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "交通",
+      "title": "柳州至梧州铁路开启动态检测，进入工程验收关键阶段",
+      "subtitle": "11月28日8时10分检测列车从武宣站驶往梧州站，柳梧铁路全面进入工程验收阶段。",
+      "sourceName": "第一财经",
+      "sourceUrl": "https://www.yicai.com/brief/103458599.html",
+      "region": "domestic",
+      "priority": 7,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "其他",
+      "title": "我国成功发射遥感五十号04星",
+      "subtitle": "新华社发布消息，遥感五十号04星成功发射。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/tech/20261127/40ede3a652f1429fa3fbfaee70a2e416/c.html",
+      "region": "domestic",
+      "priority": 8,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "交通",
+      "title": "定位难、叫车难、停车难：无障碍出租车如何真正无障碍",
+      "subtitle": "中新网报道关注无障碍出租车运营中的实际困难，探讨服务改进方向。",
+      "sourceName": "中新网",
+      "sourceUrl": "https://www.chinanews.com.cn/sh/2026/11-28/10739209.shtml",
+      "region": "domestic",
+      "priority": 9,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "汽车",
+      "title": "武汉：智能制造激活汽车产业新动能",
+      "subtitle": "新华社图片报道聚焦武汉汽车产业的智能制造升级。",
+      "sourceName": "新华社",
+      "sourceUrl": "https://www.news.cn/photo/20261127/9235ac385fe546e6b972c7e8825314e8/c.html",
+      "region": "domestic",
+      "priority": 10,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "国际",
+      "title": "路透社科技频道：国际AI与芯片产业报道入口",
+      "subtitle": "候选来源为路透社科技频道首页，涵盖人工智能、算力与半导体等领域报道入口。",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "region": "international",
+      "priority": 11,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "国际",
+      "title": "美联社科技频道：全球科技与AI动态入口",
+      "subtitle": "候选来源为美联社科技频道首页，提供科技与人工智能相关报道入口。",
+      "sourceName": "AP Technology",
+      "sourceUrl": "https://apnews.com/hub/technology",
+      "region": "international",
+      "priority": 12,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "大模型",
+      "title": "TechCrunch AI频道：大模型与AI创投报道入口",
+      "subtitle": "候选来源为TechCrunch人工智能栏目首页，汇集大模型、AI创业与融资报道入口。",
+      "sourceName": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "region": "international",
+      "priority": 13,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "大模型",
+      "title": "OpenAI官方新闻页：模型与产品更新入口",
+      "subtitle": "候选来源为OpenAI官方新闻页面，汇集其模型发布与产品更新等官方公告入口。",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/news/",
+      "region": "international",
+      "priority": 14,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    },
+    {
+      "date": "2026-11-28",
+      "domain": "大模型",
+      "title": "Anthropic官方新闻页：模型与研究公告入口",
+      "subtitle": "候选来源为Anthropic官方新闻页面，汇集其模型、研究与产品等官方公告入口。",
+      "sourceName": "Anthropic News",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "region": "international",
+      "priority": 15,
+      "generatedAt": "2026-11-28T07:37:48.198Z"
+    }
+  ]
+}
